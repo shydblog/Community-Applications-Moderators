@@ -1,0 +1,26 @@
+[
+  {
+    "sparklyballs/headless-kodi-helix": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "sparklyballs/headless-kodi-isengard": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "sparklyballs/photoshow": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "sparklyballs/piwigo": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "sparklyballs/pydio": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "sparklyballs/readerself": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "smdion/docker-headphones": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "hurricane/docker-couchpotato": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "hurricane/docker-sonarr": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "hurricane/docker-sabnzbd": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "smdion/docker-htpcmanager": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "smdion/docker-beets": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "smdion/docker-polipo": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "sparklyballs/serviio": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "sparklyballs/znc": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "aptalca/docker-amazon-echo-ha-bridge": "Container Deprecated in favor of a different one",
+    "sparklyballs/couchtest": "Presumable no harm will come from blacklisting this",
+    "sparklyballs/daapd-server": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "sparklyballs/musicbrainz": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "https://raw.githubusercontent.com/eschultz/unraid6-nerdpack/master/NerdPack.plg": "This plugin will install all of the additional programs included unconditionally.  To customize the packages installed, use the Nerd Pack GUI",
+    "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/unassigned.devices.plg": "The latest version by gfjardim appears to have some issues.  dlandon has forked this project and your should be installing his version.",
+    "jbrodriguez/unbalance": "This docker app has now been deprecated in favour of the plugin version by the same author"
+ }
+]

@@ -1,0 +1,127 @@
+{
+  "sparklyballs/websync": {
+    "ModeratorComment": "This application while fully functional, does have the ability to cause potential data loss if used incorrectly.  This container is currently being used as a beta for a possible upcoming linuxserver.io version."
+    },
+  "digitalman2112/duc": {
+    "ModeratorComment": "While still functional, this application appears to have been abandoned"
+    },
+  "tobbenb/tvheadend-stable": {
+    "ModeratorComment": "Deprecated Version (V3.9) - Use author's tvheadend container for V4 stable releases"
+    },
+  "https://raw.githubusercontent.com/Steini1984/unRAID6-ZFS/master/unRAID6-ZFS.plg": {
+    "ModeratorComment": "Expert Only: Not recommended for the casual user",
+    "MinVer": "6.1.4"
+    },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg": {
+    "ModeratorComment": "USING THIS PLUGIN ON DISKS FORMATTED IN REISERFS MAY LEAD TO SYSTEM INSTABILITY. IT IS ADVISED TO USE XFS"
+    },
+  "https://raw.githubusercontent.com/Squidly271/checksum/master/plugins/checksum.plg": {
+    "ModeratorComment": "Development has ceased on this plugin.  Advised to use Dynamix File Integrity Checker instead"
+    },
+  "gfjardim/crashplan-desktop": {
+    "ModeratorComment": "This docker app has been merged with the Crashplan application.  There is now no longer any need to install this app.  This app will soon be deprecated",
+    "Blacklist": true
+    },
+  "rix1337/docker-copy": {
+    "ModeratorComment": "This application will cease to operate after May 1st, 2016"
+    },
+  "sparklyballs/headless-kodi-helix": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "sparklyballs/headless-kodi-isengard": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "sparklyballs/photoshow": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "sparklyballs/piwigo": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "sparklyballs/pydio": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "sparklyballs/readerself": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "smdion/docker-headphones": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "hurricane/docker-couchpotato": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "hurricane/docker-sonarr": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "hurricane/docker-sabnzbd": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "smdion/docker-htpcmanager": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "smdion/docker-beets": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "smdion/docker-polipo": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "sparklyballs/serviio": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "sparklyballs/znc": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "aptalca/docker-amazon-echo-ha-bridge": {
+    "ModeratorComment": "Container Deprecated in favor of a different one",
+    "Blacklist": true
+    },
+  "sparklyballs/couchtest": {
+    "ModeratorComment": "Presumably no harm will come from blacklisting this application",
+    "Blacklist": true
+    },
+  "sparklyballs/daapd-server": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "sparklyballs/musicbrainz": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+    },
+  "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/unassigned.devices.plg": {
+    "ModeratorComment": "dlandon has taken over this project and your should be installing his version.",
+    "Blacklist": true
+    },
+  "jbrodriguez/unbalance": {
+    "ModeratorComment": "This docker app has now been deprecated in favour of the plugin version by the same author",
+    "Blacklist": true
+    },
+  "johnodon/zap2xml": {
+    "Blacklist": true,
+    "ModeratorComment": "Due to licencing issues, this application has been blacklisted"
+    },
+  "johnodon/zap2xml-2lineups": {
+    "Blacklist": true,
+    "ModeratorComment": "Due to licencing issues, this application has been blacklisted"
+    },
+  "test/test": {
+    "Blacklist": true
+    },
+  "gfjardim/transmission": {
+    "ModeratorComment": "The author of this template is now recommending to install this application from a different repository"
+    }
+}
+    
