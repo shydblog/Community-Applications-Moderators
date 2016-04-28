@@ -292,5 +292,9 @@
   {
     "name":  "Paul_Ber's Repository",
     "url":  "https://github.com/paulpoco/docker-templates"
+  },
+  {
+    "name": "stuckless' Repository",
+    "url": "https://github.com/stuckless/sagetv-dockers/tree/master/unRAID/stuckless-sagetv"
   }
 ]
