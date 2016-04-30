@@ -296,5 +296,9 @@
   {
     "name": "stuckless' Repository",
     "url": "https://github.com/stuckless/sagetv-dockers/tree/master/unRAID/stuckless-sagetv"
+  },
+  {
+    "name": "thomast_88's Repository",
+    "url":  "https://github.com/tynor88/docker-templates/tree/master/tynor88"
   }
 ]
