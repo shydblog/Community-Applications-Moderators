@@ -304,5 +304,9 @@
   {
     "name": "Bjonness406's Repository",
     "url": "https://github.com/bjonness406/Docker-templates"
+  },
+  {
+  	"name": "activ's Repository",
+  	"url": "https://github.com/activ/docker-templates/tree/master/activ"
   }
 ]
