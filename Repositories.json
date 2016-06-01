@@ -308,9 +308,5 @@
   {
   	"name": "activ's Repository",
   	"url": "https://github.com/activ/docker-templates/tree/master/activ"
-  },
-  {
-  	"name": "Huxy's Repository",
-  	"url": "https://github.com/HuxyUK/docker-containers/tree/master/xmltv-sd-json"
   }
 ]
