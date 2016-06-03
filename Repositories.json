@@ -312,5 +312,9 @@
   {
   	"name": "Huxy's Repository",
   	"url": "https://github.com/HuxyUK/docker-containers"
+  },
+  {
+  	"name": "Roland's Repository",
+  	"url": "https://github.com/Data-Monkey/docker-templates"
   }
 ]
