@@ -316,5 +316,9 @@
   {
   	"name": "Roland's Repository",
   	"url": "https://github.com/Data-Monkey/docker-templates"
+  },
+  {
+  	"name": "chvb's Repository",
+  	"url": "https://github.com/chvb/docker-templates"
   }
 ]
