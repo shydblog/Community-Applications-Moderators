@@ -185,8 +185,7 @@
     "name": "Squid's plugin Repository",
     "url":  "https://github.com/Squidly271/plugin-repository",
     "donatelink": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7M7CBCVU732XG",
-    "donateimg": "https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif",
-    "donatetext": "Buy me a beer"
+    "donateimg": "https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
   },
   {
     "name": "peter_sm's plugin Repository",
