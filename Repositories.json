@@ -190,7 +190,10 @@
   {
     "name": "peter_sm's plugin Repository",
     "url":  "https://github.com/petersm1/OpenVPN_plugin_repository",
-    "forum":  "http://lime-technology.com/forum/index.php?topic=35435.0"
+    "forum":  "http://lime-technology.com/forum/index.php?topic=35435.0",
+    "donatelink": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TXFVJQVYZRBBU&lc=SE&item_name=openvpn&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted",
+    "donateimg": "https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif",
+    "donatetext": "I'm out of beer"
   },
   {
     "name": "bergware's dynamix plugin Repository",
