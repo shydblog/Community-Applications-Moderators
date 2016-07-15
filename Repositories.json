@@ -324,5 +324,10 @@
   	"name": "chvb's Repository",
   	"url": "https://github.com/chvb/docker-templates",
   	"forum": "http://lime-technology.com/forum/index.php?topic=49578.0"
+  },
+  {
+  	"name": "jcreynolds' Repository",
+  	"url": "https://github.com/jcreynolds/docker-templates"
+  }
   }
 ]
