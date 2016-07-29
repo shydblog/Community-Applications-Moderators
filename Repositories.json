@@ -328,5 +328,9 @@
   {
   	"name": "jcreynolds' Repository",
   	"url": "https://github.com/jcreynolds/docker-templates"
+  },
+  {
+  	"name": "JugniJi's Repository",
+  	"url": "https://github.com/shaf/docker-munin-server/tree/master/unraid-template"
   }
 ]
