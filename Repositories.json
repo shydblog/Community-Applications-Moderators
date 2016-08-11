@@ -332,5 +332,9 @@
   {
   	"name": "JugniJi's Repository",
   	"url": "https://github.com/shaf/unraid-docker-templates/tree/master/shaf"
+  },
+  {
+  	"name": "Linuxserver's Community Repositroy",
+  	"url": "https://github.com/linuxserver/community-templates/tree/master/lsiocommunity"
   }
 ]
