@@ -344,5 +344,9 @@
     "url": "https://github.com/linuxserver/community-templates/tree/master/lsiocommunity",
     "logo": "http://i61.tinypic.com/id537n.png",
     "web":  "https://www.linuxserver.io/"  
+  },
+  {
+    "name": "atribe's Repository",
+    "url": "https://github.com/atribe/unRAID-docker"
   }
 ]
