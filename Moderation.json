@@ -137,6 +137,16 @@
   },
     "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.beta.plg": {
     "ModeratorComment": "This plugin is now set up to immediately uninstall itself, as it has now been deprecated in favour of the non-beta version.  It will soon become blacklisted within Community Applications"
+  },
+  "tobbenb/tvheadend-stable": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
+  },
+  "tobbenb/tvheadend-unstable": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
+  },
+  {
+  "tobbenb/tvheadend": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
   }
 }
   
