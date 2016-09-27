@@ -146,6 +146,9 @@
   },
   "tobbenb/tvheadend": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
+  },
+    "tobbenb/oscam": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.  This app will eventually be blacklisted"
   }
 }
   
