@@ -148,8 +148,11 @@
   "tobbenb/tvheadend": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
   },
-    "tobbenb/oscam": {
+  "tobbenb/oscam": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.  This app will eventually be blacklisted"
+  },
+  "linuxserver/kodi-headless": {
+    "ModeratorComment": "Due to reasons outside linuxserver's control, there are some issues with this application which may cause it to not function correctly.  See support thread for details"
   }
 }
   
