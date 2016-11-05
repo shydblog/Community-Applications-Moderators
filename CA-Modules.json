@@ -1,1 +1,26 @@
 [
+  {
+    "name": "Community Applications",
+    "desc": "An easy to use interface to add / remove / manage any docker or plugin application",
+    "url": "https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg",
+    "icon": "https://github.com/Squidly271/community.applications/raw/master/source/community.applications/usr/local/emhttp/plugins/community.applications/images/CA.png"
+  },
+  {
+    "name": "Resource Monitor",
+    "desc": "A simple add-on to display the resource utilization of docker applications",
+    "url": "https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg",
+    "icon": "https://github.com/Squidly271/community.applications/raw/master/source/community.applications/usr/local/emhttp/plugins/community.applications/images/CA.png"
+  },
+  {
+    "name": "Appdata Backup / Restore",
+    "desc": "A utility to automatically backup and restore your docker appdata folders",
+    "url": "https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg",
+    "icon": "https://github.com/Squidly271/community.applications/raw/master/source/community.applications/usr/local/emhttp/plugins/community.applications/images/CA.png"
+  },
+  {
+    "name": "Plugin Auto Update",
+    "desc": "A utility to automatically keep selected plugins up to date",
+    "url": "https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg",
+    "icon": "https://github.com/Squidly271/community.applications/raw/master/source/community.applications/usr/local/emhttp/plugins/community.applications/images/CA.png"
+  }
+]
