@@ -165,6 +165,10 @@
   "hurricane/sonarr": {
     "ModeratorComment": "Messed up template",
     "Blacklist": true
+  },
+  "hurricane/sabnzbd": {
+    "ModeratorComment": "Messed up template",
+    "Blacklist": true
   }
 }
   
