@@ -157,6 +157,18 @@
   },
   "linuxserver/kodi-headless": {
     "ModeratorComment": "Due to reasons beyond linuxserver's control, there are some issues with the Jarvis branch of this application which may cause it to not function correctly.  See support thread for details"
+  },
+  "hurricane/couchpotato": {
+    "ModeratorComment": "Messed up template",
+    "Blacklist": true
+  },
+  "hurricane/sonarr": {
+    "ModeratorComment": "Messed up template",
+    "Blacklist": true
+  },
+  "hurricane/sabnzbd": {
+    "ModeratorComment": "Messed up template",
+    "Blacklist": true
   }
 }
   
