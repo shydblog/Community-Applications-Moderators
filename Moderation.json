@@ -157,6 +157,9 @@
   },
   "linuxserver/kodi-headless": {
     "ModeratorComment": "Due to reasons beyond linuxserver's control, there are some issues with the Jarvis branch of this application which may cause it to not function correctly.  See support thread for details"
+  },
+  "https://github.com/dlandon/recycle.bin/raw/master/recycle.bin.plg": {
+    "ModeratorComment": "This plugin is currently non-operational on 6.3.0RC-6.  See <a href='http://lime-technology.com/forum/index.php?topic=54715.0' target='_blank'>HERE</a> for the investigation"
   }
 }
   
