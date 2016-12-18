@@ -346,11 +346,6 @@
     "forum": "http://lime-technology.com/forum/index.php?topic=52687.0"
   },
   {
-    "name": "jbrodriguez's Repository",
-    "url": "https://github.com/jbrodriguez/docker-containers/tree/templates",
-    "forum": "http://lime-technology.com/forum/index.php?topic=39707.0"
-  },
-  {
     "name": "jbrodriguez's plugin Repository",
     "url":  "https://github.com/jbrodriguez/unraid/tree/master/plugins"
   },
