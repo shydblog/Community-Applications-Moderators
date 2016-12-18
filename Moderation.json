@@ -160,7 +160,10 @@
   },
   "https://github.com/dlandon/recycle.bin/raw/master/recycle.bin.plg": {
     "ModeratorComment": "This plugin is currently non-operational on 6.3.0RC-6.  See <a href='http://lime-technology.com/forum/index.php?topic=54715.0' target='_blank'>HERE</a> for the investigation"
+  },
+  {
+  "aptalca/nginx-letsencrypt": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version   See <a href='http://lime-technology.com/forum/index.php?topic=39413.msg521591#msg521591' target='_blank'>THIS POST</a> for details"
   }
 }
   
-    
