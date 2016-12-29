@@ -352,5 +352,9 @@
   {
     "name": "Waseh's plugin Repository",
     "url": "https://github.com/Waseh/unraidtemplates"
+  },
+  {
+    "name": "Uirel's Repository",
+    "url": "https://github.com/Poag/docker-xml"
   }
 ]
