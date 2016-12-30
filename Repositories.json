@@ -356,9 +356,5 @@
   {
     "name": "Uirel's Repository",
     "url": "https://github.com/Poag/docker-xml"
-  },
-  {
-    "name": "ketchuphed's Repository",
-    "url": "https://github.com/ketchuphed/docker-templates"
   }
 ]
