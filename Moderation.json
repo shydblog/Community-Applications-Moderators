@@ -163,6 +163,10 @@
   },
   "aptalca/nginx-letsencrypt": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version   See <a href='http://lime-technology.com/forum/index.php?topic=39413.msg521591#msg521591' target='_blank'>THIS POST</a> for details"
+  },
+  {
+  "ruippeixotog/google-musicmanager": {
+    "ModeratorComment": "There are some challenges involved in using this application.  Review the support thread for details"
   }
 }
   
