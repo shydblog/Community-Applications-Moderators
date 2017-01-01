@@ -166,6 +166,10 @@
   },
   "ruippeixotog/google-musicmanager:dev": {
     "ModeratorComment": "There are some challenges involved in using this application.  Review the support thread for details"
+  },
+  "spants/unraid-hole": {
+    "ModeratorComment": "Per the description of the container (DO NOT USE), this application has been blacklisted",
+    "Blacklist": true
   }
 }
   
