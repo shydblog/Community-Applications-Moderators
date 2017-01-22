@@ -360,5 +360,9 @@
   {
     "name": "ketchuphed's Repository",
     "url": "https://github.com/ketchuphed/docker-templates"
+  },
+  {
+    "name": "Thraxis' Repository",
+    "url": "https://github.com/Thraxis/docker-templates/tree/master/thraxis"
   }
 ]
