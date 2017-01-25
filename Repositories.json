@@ -364,5 +364,8 @@
   {
     "name": "Thraxis' Repository",
     "url": "https://github.com/Thraxis/docker-templates/tree/master/thraxis"
+  },
+  { "name": "cheesemarathon's Repository",
+    "url": "https://github.com/cheesemarathon/docker-templates"
   }
 ]
