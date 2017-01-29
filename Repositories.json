@@ -367,9 +367,5 @@
   },
   { "name": "cheesemarathon's Repository",
     "url": "https://github.com/cheesemarathon/docker-templates"
-  },
-  {
-    "name": "CA Test Repository",
-    "url": "https://github.com/Squidly271/docker-test-repo/"
   }
 ]
