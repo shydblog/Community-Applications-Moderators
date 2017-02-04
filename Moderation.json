@@ -167,6 +167,9 @@
   "spants/unraid-hole": {
     "ModeratorComment": "Per the description of the container (DO NOT USE), this application has been blacklisted",
     "Blacklist": true
+  },
+  "jshridha/openhab": {
+    "ModeratorComment": "This particular openHab container has been deprecated"
   }
 }
   
