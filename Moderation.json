@@ -124,7 +124,8 @@
     "ModeratorComment": "The author of this template is now recommending to install this application from a different repository"
     },
   "zuhkov/guacamole": {
-    "ModeratorComment": "This application appears to have been abandoned by the template author.  An unsupported upgrade to this template has been released <a href='http://lime-technology.com/forum/index.php?topic=38410.msg472369#msg472369' target='_blank'>HERE</a>"
+    "ModeratorComment": "This application has been abandoned by the template author.  A replacement Guacamole is available within Community Applications (Apps Tab)",
+    "Blacklist:L true
     },
   "zuhkov/wallabag": {
     "ModeratorComment": "This template appears to have been abandoned by the template author."
