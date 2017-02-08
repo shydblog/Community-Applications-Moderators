@@ -125,7 +125,7 @@
     },
   "zuhkov/guacamole": {
     "ModeratorComment": "This application has been abandoned by the template author.  A replacement Guacamole is available within Community Applications (Apps Tab)",
-    "Blacklist:L true
+    "Blacklist": true
     },
   "zuhkov/wallabag": {
     "ModeratorComment": "This template appears to have been abandoned by the template author."
