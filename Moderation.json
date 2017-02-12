@@ -201,6 +201,10 @@
   },
   "needo/plexwatch": {
     "ModeratorComment": "The unRaid community generally recommends to install the PlexWatch application from either linuxserver's or binhex's repositories"
+  },
+  "jshridha/motioneye": {
+    "ModeratorComment": "Converted template by CA contained within a repository",
+    "Blacklist": true
   }
 }
   
