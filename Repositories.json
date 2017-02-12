@@ -371,5 +371,9 @@
   {
     "name": "Official Plex Repository",
     "url": "https://github.com/plexinc/pms-docker"
+  },
+  {
+    "name": "cmer's Repository",
+    "url": "https://github.com/cmer/docker-templates/tree/master/cmer"
   }
 ]
