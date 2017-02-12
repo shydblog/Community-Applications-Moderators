@@ -371,5 +371,9 @@
   {
     "name": "Taddeusz' Repository",
     "url": "https://github.com/jason-bean/docker-templates"
+  },
+  {
+    "name": "Official Plex Repository",
+    "url": "https://github.com/plexinc/pms-docker"
   }
 ]
