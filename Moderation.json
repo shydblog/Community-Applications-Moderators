@@ -1,6 +1,7 @@
 {
   "sparklyballs/websync": {
-    "ModeratorComment": "This application while fully functional, does have the ability to cause potential data loss if used incorrectly.  This container is currently being used as a beta for a possible upcoming linuxserver.io version."
+    "ModeratorComment": "This application is no longer functional.",
+    "Blacklist": true
     },
   "digitalman2112/duc": {
     "ModeratorComment": "While still functional, this application appears to have been abandoned"
