@@ -123,7 +123,8 @@
     "Blacklist": true
     },
   "gfjardim/transmission": {
-    "ModeratorComment": "The author of this template is now recommending to install this application from a different repository"
+    "ModeratorComment": "The author of this template is now recommending to install this application from a different repository",
+    "Deprecated": true
     },
   "zuhkov/guacamole": {
     "ModeratorComment": "This application has been abandoned by the template author.  A replacement Guacamole is available within Community Applications (Apps Tab)",
