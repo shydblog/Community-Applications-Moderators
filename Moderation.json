@@ -174,34 +174,46 @@
     "ModeratorComment": "This particular openHab container has been deprecated"
   },
   "needo/couchpotato": {
-    "ModeratorComment": "The unRaid community generally recommends to install the CouchPotato application from either linuxserver's or binhex's repositories"
+    "ModeratorComment": "The unRaid community generally recommends to install the CouchPotato application from either linuxserver's or binhex's repositories",
+    "Deprecated": true
   },
   "needo/deluge": {
-    "ModeratorComment": "The unRaid community generally recommends to install the Deluge application from either linuxserver's or binhex's repositories"
+    "ModeratorComment": "The unRaid community generally recommends to install the Deluge application from either linuxserver's or binhex's repositories",
+    "Deprecated": true
+
   },
   "needo/mariadb": {
-    "ModeratorComment": "The unRaid community generally recommends to install the MariaDB application from either linuxserver's or binhex's repositories"
+    "ModeratorComment": "The unRaid community generally recommends to install the MariaDB application from either linuxserver's or binhex's repositories",
+    "Deprecated": true
+
   },
   "needo/nzbget": {
-    "ModeratorComment": "The unRaid community generally recommends to install the nzbGet application from either linuxserver's or binhex's repositories"
+    "ModeratorComment": "The unRaid community generally recommends to install the nzbGet application from either linuxserver's or binhex's repositories",
+    "Deprecated": true
   },
   "needo/plex": {
-    "ModeratorComment": "The unRaid community generally recommends to install the Plex application from either linuxserver's or binhex's repositories"
+    "ModeratorComment": "The unRaid community generally recommends to install the Plex application from either linuxserver's or binhex's repositories",
+    "Deprecated": true
   },
   "needo/sabnzbd": {
-    "ModeratorComment": "The unRaid community generally recommends to install the SabNZBd application from either linuxserver's or binhex's repositories"
+    "ModeratorComment": "The unRaid community generally recommends to install the SabNZBd application from either linuxserver's or binhex's repositories",
+    "Deprecated": true
   },
   "needo/sickbeard": {
-    "ModeratorComment": "The unRaid community generally recommends to install the SickBeard application from either linuxserver's or binhex's repositories"
+    "ModeratorComment": "The unRaid community generally recommends to install the SickBeard application from either linuxserver's or binhex's repositories",
+    "Deprecated": true
   },
   "needo/sickrage": {
-    "ModeratorComment": "The unRaid community generally recommends to install the SickRage application from either linuxserver's or binhex's repositories"
+    "ModeratorComment": "The unRaid community generally recommends to install the SickRage application from either linuxserver's or binhex's repositories",
+    "Deprecated": true
   },
   "needo/nzbdrone": {
-    "ModeratorComment": "The unRaid community generally recommends to install the Sonarr application from either linuxserver's or binhex's repositories"
+    "ModeratorComment": "The unRaid community generally recommends to install the Sonarr application from either linuxserver's or binhex's repositories",
+    "Deprecated": true
   },
   "needo/plexwatch": {
-    "ModeratorComment": "The unRaid community generally recommends to install the PlexWatch application from either linuxserver's or binhex's repositories"
+    "ModeratorComment": "The unRaid community generally recommends to install the PlexWatch application from either linuxserver's or binhex's repositories",
+    "Deprecated": true
   },
   "jshridha/motioneye": {
     "ModeratorComment": "Converted template by CA contained within a repository",
