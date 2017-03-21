@@ -17,7 +17,8 @@
     "ModeratorComment": "USING THIS PLUGIN ON DISKS FORMATTED IN REISERFS MAY LEAD TO SYSTEM INSTABILITY. IT IS ADVISED TO USE XFS"
     },
   "https://raw.githubusercontent.com/Squidly271/checksum/master/plugins/checksum.plg": {
-    "ModeratorComment": "Development has ceased on this plugin.  Advised to use Dynamix File Integrity Checker instead"
+    "ModeratorComment": "Development has ceased on this plugin.  Advised to use Dynamix File Integrity Checker instead",
+    "Deprecated": true
     },
   "gfjardim/crashplan-desktop": {
     "ModeratorComment": "This docker app has been merged with the Crashplan application.  There is now no longer any need to install this app.  This app will soon be deprecated",
