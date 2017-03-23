@@ -7,7 +7,8 @@
     "ModeratorComment": "While still functional, this application appears to have been abandoned"
     },
   "tobbenb/tvheadend-stable": {
-    "ModeratorComment": "Deprecated Version (V3.9) - Use author's tvheadend container for V4 stable releases"
+    "ModeratorComment": "Deprecated Version (V3.9) - Use author's tvheadend container for V4 stable releases",
+    "Deprecated": true
     },
   "https://raw.githubusercontent.com/Steini1984/unRAID6-ZFS/master/unRAID6-ZFS.plg": {
     "ModeratorComment": "Expert Only: Not recommended for the casual user",
@@ -29,67 +30,67 @@
     },
   "sparklyballs/headless-kodi-helix": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "sparklyballs/headless-kodi-isengard": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "sparklyballs/photoshow": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "sparklyballs/piwigo": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "sparklyballs/pydio": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "sparklyballs/readerself": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "smdion/docker-headphones": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "hurricane/docker-couchpotato": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "hurricane/docker-sonarr": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "hurricane/docker-sabnzbd": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "smdion/docker-htpcmanager": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "smdion/docker-beets": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "smdion/docker-polipo": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "sparklyballs/serviio": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "sparklyballs/znc": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "aptalca/docker-amazon-echo-ha-bridge": {
     "ModeratorComment": "Container Deprecated in favor of a different one",
-    "Blacklist": true
+    "Deprecated": true
     },
   "sparklyballs/couchtest": {
     "ModeratorComment": "Presumably no harm will come from blacklisting this application",
@@ -97,11 +98,11 @@
     },
   "sparklyballs/daapd-server": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "sparklyballs/musicbrainz": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
     },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/unassigned.devices.plg": {
     "ModeratorComment": "dlandon has taken over this project and your should be installing his version.",
@@ -141,29 +142,30 @@
   },
     "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.beta.plg": {
     "ModeratorComment": "This plugin is now set up to immediately uninstall itself, as it has now been deprecated in favour of the non-beta version.  It will soon become blacklisted within Community Applications",
-      "Blacklist": true
+    "Blacklist": true
   },
   "tobbenb/tvheadend-stable": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
   },
   "tobbenb/tvheadend-unstable": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
   },
   "tobbenb/tvheadend": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Blacklist": true
+    "Deprecated": true
   },
   "tobbenb/oscam": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.  This app will eventually be blacklisted",
-    "Blacklist": true
+    "Deprecated": true
   },
   "linuxserver/kodi-headless": {
     "ModeratorComment": "Due to reasons beyond linuxserver's control, there are some issues with the Jarvis branch of this application which may cause it to not function correctly.  See support thread for details"
   },
   "aptalca/nginx-letsencrypt": {
-    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version   See <a href='http://lime-technology.com/forum/index.php?topic=39413.msg521591#msg521591' target='_blank'>THIS POST</a> for details"
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version   See <a href='http://lime-technology.com/forum/index.php?topic=39413.msg521591#msg521591' target='_blank'>THIS POST</a> for details",
+    "Deprecated": true
   },
   "ruippeixotog/google-musicmanager:dev": {
     "ModeratorComment": "There are some challenges involved in using this application.  Review the support thread for details"
@@ -173,7 +175,8 @@
     "Blacklist": true
   },
   "jshridha/openhab": {
-    "ModeratorComment": "This particular openHab container has been deprecated"
+    "ModeratorComment": "This particular openHab container has been deprecated",
+    "Deprecated": true
   },
   "needo/couchpotato": {
     "ModeratorComment": "The unRaid community generally recommends to install the CouchPotato application from either linuxserver's or binhex's repositories",
@@ -182,12 +185,10 @@
   "needo/deluge": {
     "ModeratorComment": "The unRaid community generally recommends to install the Deluge application from either linuxserver's or binhex's repositories",
     "Deprecated": true
-
   },
   "needo/mariadb": {
     "ModeratorComment": "The unRaid community generally recommends to install the MariaDB application from either linuxserver's or binhex's repositories",
     "Deprecated": true
-
   },
   "needo/nzbget": {
     "ModeratorComment": "The unRaid community generally recommends to install the nzbGet application from either linuxserver's or binhex's repositories",
