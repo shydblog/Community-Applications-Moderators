@@ -379,5 +379,9 @@
   {
     "name": "clowrym's Repository",
     "url": "https://github.com/clowrym/docker-templates"
+  },
+  {
+    "url": "https://github.com/brettm357/docker-templates",
+    "name": "brettm357's Repository"
   }
 ]
