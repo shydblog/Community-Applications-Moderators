@@ -383,5 +383,9 @@
   {
     "url": "https://github.com/brettm357/docker-templates",
     "name": "brettm357's Repository"
+  },
+  {
+    "url": "https://github.com/jlesage/docker-templates",
+    "name": "Djoss' Repository"
   }
 ]
