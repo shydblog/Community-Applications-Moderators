@@ -229,10 +229,9 @@
     "ModeratorComment": "This app is fully functional.  But due to technical reasons, it is no longer being updated to later versions.  See <a href='https://forums.lime-technology.com/topic/37735-support-aptalcas-docker-templates/?page=40#comment-550005' target='_blank'>HERE</a>.  This app has been deprecated in favour of one being maintained by dlandon <a href='https://forums.lime-technology.com/topic/56632-support-dlandon-zoneminder-130/' target='_blank'>HERE</a>",
     "Deprecated": true
   },
-  {
   "aptalca/docker-zoneminder": {
     "ModeratorComment": "This app is fully functional.  But due to technical reasons, it is no longer being updated to later versions.  See <a href='https://forums.lime-technology.com/topic/37735-support-aptalcas-docker-templates/?page=40#comment-550005' target='_blank'>HERE</a>  This app has been deprecated in favour of one being maintained by dlandon <a href='https://forums.lime-technology.com/topic/56632-support-dlandon-zoneminder-130/' target='_blank'>HERE</a>",
     "Deprecated": true
-
+  }
 }
   
