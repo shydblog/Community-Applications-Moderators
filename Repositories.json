@@ -387,5 +387,9 @@
   {
     "url": "https://github.com/jlesage/docker-templates",
     "name": "Djoss' Repository"
+  },
+  {
+    "url": "https://github.com/dlandon/docker.zoneminder",
+    "name": "dlandon's Repository"
   }
 ]
