@@ -234,6 +234,9 @@
   "ninthwalker/plexreport": {
     "ModeratorComment": "This app has been deprecated in favour of 'Now Showing' from ninthwalker",
     "Deprecated": true
+  },
+  "sparklyballs/amule": {
+    "ModeratorComment": "Default Password is 'amule'"
   }
 }
   
