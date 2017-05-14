@@ -237,6 +237,10 @@
   },
   "sparklyballs/amule": {
     "ModeratorComment": "Default Password is 'amule'"
+  },
+  {
+  "https://raw.githubusercontent.com/theone11/swapfile_plugin/master/swapfile.plg": {
+    "ModeratorComment": "Note that btrfs formatted drives do NOT support having a swap file placed onto them"
   }
 }
   
