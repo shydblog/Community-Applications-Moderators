@@ -240,6 +240,9 @@
   },
   "https://raw.githubusercontent.com/theone11/swapfile_plugin/master/swapfile.plg": {
     "ModeratorComment": "Note that btrfs formatted drives do NOT support having a swap file placed onto them"
+  },
+  "gfjardim/logitechmediaserver": {
+    "ModeratorComment": "Although this app is presumably still functional, a more up-to-date version in dlandon's repository is available"
   }
 }
   
