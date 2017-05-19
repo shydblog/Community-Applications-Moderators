@@ -243,6 +243,10 @@
   },
   "gfjardim/logitechmediaserver": {
     "ModeratorComment": "Although this app is presumably still functional, a more up-to-date version in dlandon's repository is available"
+  },
+  "sparklyballs/handbrake": {
+    "ModeratorComment": "Although this app is still functional, there are other handbrake applications available which may be more up to date and better supported.  New installations are recommended to utilize one of the other options",
+    "Deprecated": true
   }
 }
   
