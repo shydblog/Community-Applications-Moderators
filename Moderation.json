@@ -247,6 +247,10 @@
   "sparklyballs/handbrake": {
     "ModeratorComment": "Although this app is still functional, there are other handbrake applications available which may be more up to date and better supported.  New installations are recommended to utilize one of the other options",
     "Deprecated": true
+  },
+  "ironicbadger/booksonic": {
+    "ModeratorComment": "As the actual author of the image is a member of linuxserver, and linuxserver has their own version of this application, it is recommended to install the linux server version",
+    "Deprecated": true
   }
 }
   
