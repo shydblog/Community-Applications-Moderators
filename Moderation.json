@@ -251,6 +251,10 @@
   "ironicbadger/booksonic": {
     "ModeratorComment": "As the actual author of the image is a member of linuxserver, and linuxserver has their own version of this application, it is recommended to install the linux server version",
     "Deprecated": true
+  },
+  "sparklyballs/yify-pop": {
+    "ModeratorComment": "Application is non functional",
+    "Blacklisted": true
   }
 }
   
