@@ -254,7 +254,7 @@
   },
   "sparklyballs/yify-pop": {
     "ModeratorComment": "Application is non functional",
-    "Blacklisted": true
+    "Blacklist": true
   }
 }
   
