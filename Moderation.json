@@ -321,6 +321,10 @@
   },  
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Ubooquity.plg": {
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
-  }    
+  },
+  "lsiodev/owncloud": {
+    "ModeratorComment": "This application has been taken over by dlandon, and it is advised to install his version instead",
+    "Deprecated": true
+  }
 }
   
