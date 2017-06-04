@@ -325,6 +325,9 @@
   "lsiodev/owncloud": {
     "ModeratorComment": "This application has been taken over by dlandon, and it is advised to install his version instead",
     "Deprecated": true
-  }
+  },
+  "owncloud": {
+    "ModeratorComment": "This is the official owncloud docker.  This is probably not optimized for running in the unRaid environment"
+  }    
 }
   
