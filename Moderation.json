@@ -328,6 +328,12 @@
   },
   "owncloud": {
     "ModeratorComment": "This is the official owncloud docker.  This is probably not optimized for running in the unRaid environment"
-  }    
+  },
+  "plexinc/pms-docker": {
+    "ModeratorComment": "This is the official plex docker.  Any issues with this container will be handled on plex's own support forums"
+  },
+  "mysql": {
+    "ModertorComment": "This is the official MySQL docker.  This may not be optimized for running in the unRaid environment"
+  }
 }
   
