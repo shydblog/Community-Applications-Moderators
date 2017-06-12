@@ -257,69 +257,91 @@
     "Blacklist": true
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Btsync.plg": {
+    "MaxVer": "6.4.0-rc2",
     "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Couchpotato.plg": {
+    "MaxVer": "6.4.0-rc2",
     "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Embyserver.plg": {
+    "MaxVer": "6.4.0-rc2",
     "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Filebot.plg": {
+    "MaxVer": "6.4.0-rc2",
     "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Flexget.plg": {
+    "MaxVer": "6.4.0-rc2",
     "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Headphones.plg": {
+    "MaxVer": "6.4.0-rc2",
     "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Maraschino.plg": {
+    "MaxVer": "6.4.0-rc2",
     "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Mylar.plg": {  
+    "MaxVer": "6.4.0-rc2",
     "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Nzbget.plg": {
+    "MaxVer": "6.4.0-rc2",
     "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Nzbmegasearch.plg": {
+    "MaxVer": "6.4.0-rc2",
     "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Plexconnect.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Plexmediaserver.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Resilio.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sabnzbd.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Serviio.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sickbeard_alt.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sickbeard.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },    
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sickrage.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },    
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sonarr.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },   
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Subsonic.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },  
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Transmission.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },  
   "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Ubooquity.plg": {
+    "MaxVer": "6.4.0-rc2",
      "ModeratorComment": "While this application is functional, generally the unRaid community recommends to install the docker version instead"
   },
   "lsiodev/owncloud": {
