@@ -355,7 +355,11 @@
     "ModeratorComment": "This is the official plex docker.  Any issues with this container will be handled on plex's own support forums"
   },
   "mysql": {
-    "ModertorComment": "This is the official MySQL docker.  This may not be optimized for running in the unRaid environment"
-  }
+    "ModeratorComment": "This is the official MySQL docker.  This may not be optimized for running in the unRaid environment"
+  },
+  "aptalca/docker-plexrequests": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.  This app will eventually be blacklisted",
+    "Deprecated": true
+  }    
 }
   
