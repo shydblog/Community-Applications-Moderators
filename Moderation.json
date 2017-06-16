@@ -26,7 +26,8 @@
     "Blacklist": true
     },
   "rix1337/docker-copy": {
-    "ModeratorComment": "This application will cease to operate after May 1st, 2016"
+    "ModeratorComment": "This application will cease to operate after May 1st, 2016",
+    "Blacklist": true
     },
   "sparklyballs/headless-kodi-helix": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
