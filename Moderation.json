@@ -360,6 +360,9 @@
   "aptalca/docker-plexrequests": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.  This app will eventually be blacklisted",
     "Deprecated": true
-  }    
+  },
+  "amacneil/bitcoinunlimited": {
+    "ModeratorComment": "This is a converted template from a general docker container, and may not be optimized for the unRaid environment.  All support is handled on the docker website"
+  }
 }
   
