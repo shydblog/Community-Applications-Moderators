@@ -469,5 +469,10 @@
     "url": "https://github.com/dlandon/docker.templates",
     "name": "dlandon's Repository",
     "profile": "https://forums.lime-technology.com/profile/6013-dlandon/"
+  },
+  {
+    "url": "https://github.com/JustinAiken/unraid-docker-templates",
+    "name": "JustinAiken's Repository",
+    "profile": "https://forums.lime-technology.com/profile/1079-justinaiken/"
   }
 ]
