@@ -367,6 +367,10 @@
   },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.plg": {
     "ModeratorComment": "There have been reports of some issues with this plugin.  See <a href='https://forums.lime-technology.com/topic/55468-preclear-plugin-seems-to-have-stopped-on-post-read/#comment-570245'>here</a>"
+  },
+  "https://raw.githubusercontent.com/Squidly271/UsefulLinks/master/useful_links.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "No longer being maintained, and very out of date"
   }
 }
   
