@@ -474,5 +474,10 @@
     "url": "https://github.com/JustinAiken/unraid-docker-templates",
     "name": "JustinAiken's Repository",
     "profile": "https://forums.lime-technology.com/profile/1079-justinaiken/"
+  },
+  {
+    "url": "https://github.com/deasmi/docker-puppetmaster",
+    "name": "dsmith44's Repository",
+    "profile": "https://forums.lime-technology.com/profile/73313-dsmith44/"
   }
 ]
