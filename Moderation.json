@@ -374,6 +374,12 @@
   },
   "binhex/arch-sickrage": {
     "ModeratorComment": "There is currently DMCA restrictions on running this application.  This is outside the maintainer's control."
+  },
+  "linuxserver/medusa": {
+    "ModeratorComment": "There is currently DMCA restrictions on running this application.  For the time being, new installations will not work.  This is outside the maintainer's control."
+  },
+  "binhex/arch-medusa": {
+    "ModeratorComment": "There is currently DMCA restrictions on running this application.  This is outside the maintainer's control."
   }
 }
   
