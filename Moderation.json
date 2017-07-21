@@ -380,6 +380,10 @@
   },
   "binhex/arch-medusa": {
     "ModeratorComment": "There is currently DMCA restrictions on running this application.  This is outside the maintainer's control."
-  }
+  },
+  "sparklyballs/beardrage": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Deprecated": true
+  },
 }
   
