@@ -370,16 +370,10 @@
     "ModeratorComment": "No longer being maintained, and very out of date"
   },
   "linuxserver/sickrage": {
-    "ModeratorComment": "There is currently DMCA restrictions on running this application.  For the time being, new installations will not work.  This is outside the maintainer's control."
-  },
-  "binhex/arch-sickrage": {
-    "ModeratorComment": "There is currently DMCA restrictions on running this application.  This is outside the maintainer's control."
+    "ModeratorComment": "Currently due to situation beyond linuxserver.io’s control this image is not suitable for new users until the DMCA notice is resolved on the git repository"
   },
   "linuxserver/medusa": {
-    "ModeratorComment": "There is currently DMCA restrictions on running this application.  For the time being, new installations will not work.  This is outside the maintainer's control."
-  },
-  "binhex/arch-medusa": {
-    "ModeratorComment": "There is currently DMCA restrictions on running this application.  This is outside the maintainer's control."
+    "ModeratorComment": "Currently due to situation beyond linuxserver.io’s control this image is not suitable for new users until the DMCA notice is resolved on the git repository"
   },
   "sparklyballs/beardrage": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
