@@ -368,6 +368,12 @@
   "https://raw.githubusercontent.com/Squidly271/UsefulLinks/master/useful_links.plg": {
     "Deprecated": true,
     "ModeratorComment": "No longer being maintained, and very out of date"
+  },
+  "linuxserver/sickrage": {
+    "ModeratorComment": "There is currently DMCA restrictions on running this application.  For the time being, new installations will not work.  This is outside the maintainer's control."
+  },
+  "binhex/arch-sickrage": {
+    "ModeratorComment": "There is currently DMCA restrictions on running this application.  This is outside the maintainer's control."
   }
 }
   
