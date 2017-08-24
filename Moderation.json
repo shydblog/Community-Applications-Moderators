@@ -372,6 +372,13 @@
   "sparklyballs/beardrage": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
     "Deprecated": true
+  },
+  "jlesage/crashplan": {
+    "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version will no longer allow subscription renewals, and the program will be non-functional after October 2018.  If you wish to continue using CrashPlan, it is recommended to switch to the CrashPlan Pro application.",
+    "Deprecated": true
+  },
+  "gfjardim/crashplan": {
+    "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version is no longer available.  This application will automatically update itself to CrashPlan Pro, but if for whatever reason you have to redo your appdata from scratch, this application will then be non-functional"
   }
 }
   
