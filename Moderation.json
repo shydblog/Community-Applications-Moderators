@@ -366,7 +366,7 @@
     "ModeratorComment": "This is a converted template from a general docker container, and may not be optimized for the unRaid environment.  All support is handled on the docker website"
   },
   "https://raw.githubusercontent.com/Squidly271/UsefulLinks/master/useful_links.plg": {
-    "Deprecated": false,
+    "Deprecated": true,
     "ModeratorComment": "No longer being maintained, and very out of date"
   },
   "sparklyballs/beardrage": {
