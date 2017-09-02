@@ -379,6 +379,10 @@
   },
   "gfjardim/crashplan": {
     "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version is no longer available.  This application will automatically update itself to CrashPlan Pro, but if for whatever reason you have to redo your appdata from scratch, this application will then be non-functional.  See <a href='https://forums.lime-technology.com/topic/32220-container-crashplan-amp-crashplan-desktop/?page=53#comment-585118' target='_blank'>here</a>"
+  },
+  "https://raw.githubusercontent.com/Squidly271/repo.update/master/plugins/community.repositories.plg": {
+    "ModeratorComment": "Long ago replaced by <a href='https://forums.lime-technology.com/topic/38582-plug-in-community-applications/' target='_blank'>Community Applications</a>.  CR is no longer functional and may have adverse effects on any running server, and should be uninstalled immediately and replaced with Community Applications",
+    "Blacklist": true
   }
 }
   
