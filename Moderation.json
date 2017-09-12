@@ -383,6 +383,18 @@
   "https://raw.githubusercontent.com/Squidly271/repo.update/master/plugins/community.repositories.plg": {
     "ModeratorComment": "Long ago replaced by <a href='https://forums.lime-technology.com/topic/38582-plug-in-community-applications/' target='_blank'>Community Applications</a>.  CR is no longer functional and may have adverse effects on any running server, and should be uninstalled immediately and replaced with Community Applications",
     "Blacklist": true
-  }
+  },
+  "hernandito/calibreserver-docker": {
+    "ModeratorComment": "Deprecated in favour of the application available from Aptalca / LinuxServer",
+    "Deprecated": true
+  },
+  "hernandito/hernando-apachephp-docker": {
+    "ModeratorComment": "Deprecated in favour of the application available from LinuxServer",
+    "Deprecated": true
+  },
+  "hernandito/docker-apache-php-adminer": {
+    "ModeratorComment": "Deprecated in favour of the application available from LinuxServer",
+    "Deprecated": true
+  }  
 }
   
