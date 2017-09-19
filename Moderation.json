@@ -395,6 +395,10 @@
   "hernandito/docker-apache-php-adminer": {
     "ModeratorComment": "Deprecated in favour of the application available from LinuxServer",
     "Deprecated": true
-  }  
+  },
+  "https://raw.githubusercontent.com/macexx/plugins/master/nut/nut.plg": {
+    "ModeratorComment": "Deprecated in favour of the Nut plugin from dmacias",
+    "Deprecated": true
+  }
 }
   
