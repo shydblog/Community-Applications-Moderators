@@ -128,20 +128,7 @@
     "ModeratorComment": "The author of this template is now recommending to install this application from a different repository",
     "Deprecated": true
     },
-  "zuhkov/guacamole": {
-    "ModeratorComment": "This application has been abandoned by the template author.  A replacement Guacamole is available within Community Applications (Apps Tab)",
-    "Blacklist": true
-    },
-  "zuhkov/wallabag": {
-    "ModeratorComment": "This template appears to have been abandoned by the template author."
-    },
-  "zuhkov/observium": {
-    "ModeratorComment":  "This template appears to have been abandoned by the template author."
-  },
-  "zuhkov/paperwork": {
-    "ModeratorComment": "This template appears to have been abandoned by the template author."
-  },
-    "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.beta.plg": {
+  "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.beta.plg": {
     "ModeratorComment": "This plugin is now set up to immediately uninstall itself, as it has now been deprecated in favour of the non-beta version.  It will soon become blacklisted within Community Applications",
     "Blacklist": true
   },
