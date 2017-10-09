@@ -33,13 +33,15 @@
     "name": "Sparklyballs' Repository",
     "url": "https://github.com/sparklyballs/docker-repo/tree/templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=37209.0",
-    "profile": "https://forums.lime-technology.com/profile/23888-sparklyballs/"
+    "profile": "https://forums.lime-technology.com/profile/23888-sparklyballs/",
+    "RepoComment": "While still functional, development on this application's container has ceased"
   },
   {
     "name": "Sparklyballs' Beta Repository",
     "url": "https://github.com/sparklyballs/beta-repo/tree/master/Sparkly-Beta",
     "forum": "http://lime-technology.com/forum/index.php?topic=38232.0",
-    "profile": "https://forums.lime-technology.com/profile/23888-sparklyballs/"
+    "profile": "https://forums.lime-technology.com/profile/23888-sparklyballs/",
+    "RepoComment": "While still functional, development on this application's container has ceased"
   },
   {
     "name": "Balloob's Repository",
