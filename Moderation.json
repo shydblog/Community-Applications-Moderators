@@ -389,6 +389,9 @@
   },
   "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
     "ModeratorComment": "This plugin is incompatible with 6.4+ if you utilize https to access your server"
+  },
+  "lsiocommunity/polipo": {
+    "ModeratorComment": "The polipo application itself is no longer being maintained. (Primarily because most web traffic is HTTPS)"
   }
 }
   
