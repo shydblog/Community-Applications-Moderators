@@ -63,13 +63,15 @@
     "name": "Zuhkov's Repository",
     "url": "https://github.com/Zuhkov/docker-containers/tree/templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=38410.0",
-    "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/"
+    "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/",
+    "RepoComment": "This template appears to have been abandoned by the author"
   },
   {
     "name": "Zuhkov's Beta Repository",
     "url": "https://github.com/Zuhkov/docker-containers/tree/beta-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=38410.0",
-    "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/"
+    "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/",
+    "RepoComment": "This template appears to have been abandoned by the author"
   },
   {
     "name": "Spants' Repository",
