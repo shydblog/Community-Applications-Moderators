@@ -497,6 +497,9 @@
   {
     "url": "https://github.com/malvarez00/unRAID-Docker-Templates/tree/master/malvarez00",
     "name": "malvarez00's Repository",
-    "profile": "https://forums.lime-technology.com/profile/77549-malvarez00/"
+    "profile": "https://forums.lime-technology.com/profile/77549-malvarez00/",
+    "blacklisted": {
+      "gitlab/gitlab-ce"
+    }
   }
 ]
