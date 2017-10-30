@@ -3,9 +3,6 @@
     "ModeratorComment": "This application is no longer functional.",
     "Blacklist": true
     },
-  "digitalman2112/duc": {
-    "ModeratorComment": "While still functional, this application appears to have been abandoned"
-    },
   "tobbenb/tvheadend-stable": {
     "ModeratorComment": "Deprecated Version (V3.9) - Use author's tvheadend container for V4 stable releases",
     "Deprecated": true
