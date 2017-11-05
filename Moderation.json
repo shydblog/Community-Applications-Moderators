@@ -389,6 +389,10 @@
   },
   "lsiocommunity/polipo": {
     "ModeratorComment": "The polipo application itself is no longer being maintained. (Primarily because most web traffic is HTTPS)"
-  }
+  },
+  "https://raw.githubusercontent.com/Squidly271/ca.backup/master/plugins/ca.backup.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "While fully functional, development has ceased on this plugin and been replaced by v2.  See <a href='https://forums.lime-technology.com/topic/61211-plugin-ca-appdata-backup-restore-v2/'>HERE</a>"
+  }    
 }
   
