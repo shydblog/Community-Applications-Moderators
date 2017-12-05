@@ -504,5 +504,10 @@
     "duplicated": {
       "gitlab/gitlab-ce": true
     }
+  },
+  {
+    "url": "https://github.com/rroller/unraid-templates",
+    "name": "runraid's Repositoru",
+    "profile": "https://forums.lime-technology.com/profile/75343-runraid/"
   }
 ]
