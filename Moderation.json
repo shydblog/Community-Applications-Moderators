@@ -395,7 +395,7 @@
     "ModeratorComment": "For the time being, using the EDGE variable to update this application to the latest versions (3.11+) will break this application."
   },
   "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
-    "MaxVer": "6.5"
+    "MaxVer": "6.3.5"
   }
 }
   
