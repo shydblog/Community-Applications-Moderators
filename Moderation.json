@@ -396,6 +396,9 @@
   },
   "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
     "MaxVer": "6.3.5"
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.ssd.trim.plg": {
+    "MinVer": "6.1.9"
   }
 }
   
