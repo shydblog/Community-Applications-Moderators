@@ -401,7 +401,7 @@
     "MinVer": "6.1.9"
   },
   "jlesage/mkvcleaver": {
-    "ModeratorComment": "This application is currently incompatible with unRaid 6.4"
+    "MaxVer": "6.3.5"
   }
 }
   
