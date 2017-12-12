@@ -399,6 +399,9 @@
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.ssd.trim.plg": {
     "MinVer": "6.1.9"
+  },
+  "jlesage/mkvcleaver": {
+    "MaxVer": "9.9"
   }
 }
   
