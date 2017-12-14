@@ -402,6 +402,9 @@
   },
   "jlesage/mkvcleaver": {
     "MaxVer": "9.9"
+  },
+  "nicolargo/glances": {
+    "Icon": "https://nicolargo.github.io/glances/public/images/glances.png"
   }
 }
   
