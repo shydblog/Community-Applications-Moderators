@@ -399,6 +399,13 @@
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.ssd.trim.plg": {
     "MinVer": "6.1.9"
+  },
+  "openhab/openhab:amd64-offline": {
+    "Blacklist": true,
+    "ModeratorComment": "Blacklisted due to tag no longer available"
+  },
+  "openhab/openhab:amd64-online": {
+    "Repository": "openhab/openhab:2.1.0-amd64-debian"
   }
 }
   
