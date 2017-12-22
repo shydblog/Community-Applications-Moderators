@@ -406,6 +406,9 @@
   },
   "openhab/openhab:amd64-online": {
     "Repository": "openhab/openhab:2.1.0-amd64-debian"
+  },
+  "https://raw.githubusercontent.com/theone11/serverlayout_plugin/master/serverlayout.plg": {
+    "MaxVer": "6.3.5"
   }
 }
   
