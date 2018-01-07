@@ -391,9 +391,6 @@
     "Deprecated": true,
     "ModeratorComment": "While fully functional, development has ceased on this plugin and been replaced by v2.  See <a href='https://forums.lime-technology.com/topic/61211-plugin-ca-appdata-backup-restore-v2/'>HERE</a>"
   },
-  "aptalca/docker-rdp-calibre": {
-    "ModeratorComment": "For the time being, using the EDGE variable to update this application to the latest versions (3.11+) will break this application."
-  },
   "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
     "MaxVer": "6.3.5"
   },
