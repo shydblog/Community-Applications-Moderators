@@ -406,6 +406,9 @@
   },
   "https://raw.githubusercontent.com/theone11/serverlayout_plugin/master/serverlayout.plg": {
     "MaxVer": "6.3.5"
+  },
+  "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.plg": {
+    "CAComment": "This is a test"
   }
 }
   
