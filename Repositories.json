@@ -504,7 +504,12 @@
   },
   {
     "url": "https://github.com/rroller/unraid-templates",
-    "name": "runraid's Repositoru",
+    "name": "runraid's Repository",
     "profile": "https://forums.lime-technology.com/profile/75343-runraid/"
+  },
+  {
+    "url": "https://github.com/ArnoldDeRuiter/unraid-phpmyadmin/tree/master/template",
+    "name":  "Arndroid's Repository",
+    "profile": "https://lime-technology.com/profile/70349-arndroid/"
   }
 ]
