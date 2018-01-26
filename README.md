@@ -1,28 +1,17 @@
 Instructions:
 
-Blacklist.json - completely blacklists a container / plugin
-format:
-[
-  {
-    "reponame |url to plugin": "Reasoning",
-    "2nd repo name | url to plugin": "Reasoning"
-  }
-]
-  
-Moderator.json - Adds a moderator comment to a container / plugin.
-format: Same as blacklist.json
+ 
+Moderation.json - Adds a moderator comment to a container / plugin.
 
-Versions.json - Moderator override on compatible os versions for a plugin / container
-format:
-{
-  "repo name | url to plugin":
-  {
-    "MinVer": "x.y.z",
-    "MaxVer": "a.b.c"
-  },
-  {
-    and so on
-  }
-}
-  
+
+Some special items can be added:
+
+MinVer - Minimum OS version allowed
+MaxVer - Maximum OS version allowed
+Deprecated - True/False
+Blacklisted - True/False
+DeprecatedMaxVer - unRaid version that the template gets deprecated when on.
+ModeratorComment - a comment to place within the app.  Also triggers warning on FCP
+CAComment - a comment to place within the app.  Will NOT trigger a warning on FCP
+
   Note that both MinVer and MaxVer do not have to be present
