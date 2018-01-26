@@ -409,6 +409,9 @@
   },
   "http://unraid.zeron.ca/plugins/open-vm-tools/openVMTools.plg": {
     "MaxVer": "6.3.5"
+  },
+  "https://raw.githubusercontent.com/Squidly271/docker.categorize/master/plugins/docker.categorize.plg": {
+    "DeprecatedMaxVer": "6.3.5"
   }
 }
   
