@@ -489,7 +489,7 @@
     "name": "fanningert's Repository",
     "profile": "https://forums.lime-technology.com/profile/77170-fanningert/",
     "duplicated": {
-      "coderaiser/cloudcmd": true
+      "coderaiser/cloudcmd:latest-alpine": true
     }
   },
   {
