@@ -487,7 +487,10 @@
   {
     "url": "https://github.com/fanningert/unraid-docker-templates",
     "name": "fanningert's Repository",
-    "profile": "https://forums.lime-technology.com/profile/77170-fanningert/"
+    "profile": "https://forums.lime-technology.com/profile/77170-fanningert/",
+    "duplicated": {
+      "coderaiser/cloudcmd": true
+    }
   },
   {
     "url": "https://github.com/Malfurious/docker-templates",
