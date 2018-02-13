@@ -513,7 +513,10 @@
   {
     "url": "https://github.com/MarkusMcNugen/docker-templates",
     "name": "MarkusMcNugen's Repository",
-    "profile": "https://lime-technology.com/profile/79684-markusmcnugen/"
+    "profile": "https://lime-technology.com/profile/79684-markusmcnugen/",
+    "duplicated": {
+      "technosoft2000/calibre-web": true
+    }
   },
   {
     "url": "https://github.com/juusujanar/unraid-templates",
