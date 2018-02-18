@@ -413,11 +413,20 @@
   "https://raw.githubusercontent.com/Squidly271/docker.categorize/master/plugins/docker.categorize.plg": {
     "DeprecatedMaxVer": "6.3.5"
   },
-	"https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/advanced.buttons.plg": {
-		"MaxVer": "6.4.0"
-	},
-	"https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.plg": {
-	  "MaxVer": "6.4.0"
-	}
+  "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/advanced.buttons.plg": {
+    "MaxVer": "6.4.0"
+  },
+  "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.plg": {
+    "MaxVer": "6.4.0"
+  },
+  "mccloud/ps3netsrv:debian": {
+    "Blacklist": true
+  },
+  "mccloud/ps3netsrv:ubuntu": {
+    "Blacklist": true
+  },
+  "mccloud/ps3netsrv:phusion": {
+    "Blacklist": true
+  }
 }
   
