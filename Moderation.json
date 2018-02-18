@@ -420,13 +420,16 @@
     "MaxVer": "6.4.0"
   },
   "mccloud/ps3netsrv:debian": {
-    "Blacklist": true
+    "Blacklist": true,
+    "ModeratorComment": "Effective duplicate of same app just different base OS"
   },
   "mccloud/ps3netsrv:ubuntu": {
-    "Blacklist": true
+    "Blacklist": true,
+    "ModeratorComment": "Effective duplicate of same app just different base OS"
   },
   "mccloud/ps3netsrv:phusion": {
-    "Blacklist": true
+    "Blacklist": true,
+    "ModeratorComment": "Effective duplicate of same app just different base OS"
   }
 }
   
