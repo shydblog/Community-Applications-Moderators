@@ -427,6 +427,9 @@
   "mccloud/ps3netsrv:phusion": {
     "Blacklist": true,
     "ModeratorComment": "Effective duplicate of same app just different base OS"
+  },
+  "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
+    "MaxVer": "6.3.5"
   }
 }
   
