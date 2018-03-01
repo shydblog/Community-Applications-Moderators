@@ -430,6 +430,9 @@
   },
   "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
     "MaxVer": "6.3.5"
+  },
+  "zuhkov/guacamole": {
+    "Deprecated": true
   }
 }
   
