@@ -527,5 +527,9 @@
     "url": "https://github.com/tombowditch/docker-templates/tree/master/tombowditch",
     "name": "tombowditch's Repository",
     "profile": "https://lime-technology.com/profile/80184-tombowditch/"
+  },
+  {
+    "url": "https://github.com/Tautulli/docker-template",
+    "name": "Tautulli's Repository"
   }
 ]
