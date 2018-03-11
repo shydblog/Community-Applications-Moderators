@@ -433,6 +433,10 @@
   },
   "zuhkov/guacamole": {
     "Deprecated": true
+  },
+  "https://raw.githubusercontent.com/bshakil/unraid-libvirt-usbhotplug/master/plugins/libvirt.hotplug.usb.plg": {
+    "DeprecatedMaxVer": "6.5.0-rc4",
+    "ModeratorComment": "Deprecated in favour of dlandon's version"
   }
 }
   
