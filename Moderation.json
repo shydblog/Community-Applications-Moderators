@@ -441,6 +441,9 @@
   "linuxserver/plexpy": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of Tautulli.  (Project renamed)"
+  },
+  "https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/plugins/UnraidDVB.plg": {
+    "MinVer": "6.4.0"
   }
 }
   
