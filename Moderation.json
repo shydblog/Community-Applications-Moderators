@@ -146,7 +146,7 @@
     "Deprecated": true
   },
   "linuxserver/kodi-headless": {
-    "ModeratorComment": "Due to reasons beyond linuxserver's control, there are some issues with the Jarvis branch of this application which may cause it to not function correctly.  See support thread for details"
+    "CaComment": "Due to reasons beyond linuxserver's control, there are some issues with the Jarvis branch of this application which may cause it to not function correctly.  See support thread for details"
   },
   "aptalca/nginx-letsencrypt": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version   See <a href='http://lime-technology.com/forum/index.php?topic=39413.msg521591#msg521591' target='_blank'>THIS POST</a> for details",
@@ -204,8 +204,7 @@
     "Deprecated": true
   },
   "jshridha/motioneye:latest": {
-    "ModeratorComment": "Note: This application's template was converted via Community Applications.  This application may not be optimized for running under unRaid.",
-    "Blacklist": false
+    "ModeratorComment": "Note: This application's template was converted via Community Applications.  This application may not be optimized for running under unRaid."
   },
   "aptalca/zoneminder-1.29": {
     "ModeratorComment": "This app is fully functional.  But due to technical reasons, it is no longer being updated to later versions.  See <a href='https://forums.lime-technology.com/topic/37735-support-aptalcas-docker-templates/?page=40#comment-550005' target='_blank'>HERE</a>.  This app has been deprecated in favour of one being maintained by dlandon <a href='https://forums.lime-technology.com/topic/56632-support-dlandon-zoneminder-130/' target='_blank'>HERE</a>",
