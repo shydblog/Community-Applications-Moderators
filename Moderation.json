@@ -443,10 +443,6 @@
   },
   "https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/plugins/UnraidDVB.plg": {
     "MinVer": "6.4.0"
-  },
-  "graylog2/allinone": {
-    "ModeratorComment": "No longer exists on dockerHub",
-    "Blacklist": true
   }
 }
   
