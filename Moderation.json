@@ -413,7 +413,7 @@
     "MaxVer": "6.4.0"
   },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.plg": {
-    "MaxVer": "6.4.0"
+    "MaxVer": "6.5.0"
   },
   "mccloud/ps3netsrv:debian": {
     "Blacklist": true,
