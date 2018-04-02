@@ -15,3 +15,5 @@ ModeratorComment - a comment to place within the app.  Also triggers warning on 
 CAComment - a comment to place within the app.  Will NOT trigger a warning on FCP
 
   Note that both MinVer and MaxVer do not have to be present
+
+PublicServiceAnnouncement:  Contents of this file are read in case of an appfeed failure and display to the user.  Edit and update accordingly during an extended outage
