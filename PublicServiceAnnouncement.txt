@@ -1,1 +1,1 @@
-Currently there is an outage affecting the application feed servers.  Switching to Legacy Mode should allow you to continue using CA
+
