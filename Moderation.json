@@ -440,6 +440,9 @@
   },
   "https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/plugins/UnraidDVB.plg": {
     "MinVer": "6.4.0"
+  },
+  "jcreynolds/nodelink": {
+    "ModeratorComment": "The template does not work properly.  Review the support thread for details"
   }
 }
   
