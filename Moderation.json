@@ -443,6 +443,14 @@
   },
   "jcreynolds/nodelink": {
     "ModeratorComment": "The template does not work properly.  Review the support thread for details"
+  },
+  "sparklyballs/mariadb-mywebsql": {
+    "Deprecated": true,
+    "ModeratorComment": "This application does not function out of the box.  However existing installations may operate."
+  },
+  "sparklyballs/baikal": {
+    "Deprecated": true,
+    "ModeratorComment": "This application does not function out of the box.  However existing installations may operate."
   }
 }
   
