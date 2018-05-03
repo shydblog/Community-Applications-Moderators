@@ -273,12 +273,6 @@
     "profile": "https://forums.lime-technology.com/profile/16166-slrg/"
   },
   {
-    "name": "PhAzE's plugin Repository",
-    "url":  "https://github.com/PhAzE-Variance/PhAzE-Plugin-Repository",
-    "forum": "http://lime-technology.com/forum/index.php?topic=33341.0",
-    "profile": "https://forums.lime-technology.com/profile/49530-phaze/"
-  },
-  {
     "name": "Emby Repository",
     "url":  "https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/emby",
     "forum": "https://lime-technology.com/forum/index.php?topic=45444.0"
