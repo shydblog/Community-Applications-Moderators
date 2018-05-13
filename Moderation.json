@@ -354,6 +354,10 @@
   "sparklyballs/baikal": {
     "Deprecated": true,
     "ModeratorComment": "This application does not function out of the box.  However existing installations may operate."
+  },
+  "https://raw.githubusercontent.com/coppit/unraid-mosh/master/mosh.plg": {
+    "MaxVer": "6.4.1",
+    "ModeratorComment": "Mosh is now available for installation via the NerdPack plugin when running unRaid 6.5+"
   }
 }
   
