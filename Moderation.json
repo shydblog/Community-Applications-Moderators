@@ -358,6 +358,14 @@
   "https://raw.githubusercontent.com/coppit/unraid-mosh/master/mosh.plg": {
     "MaxVer": "6.4.1",
     "ModeratorComment": "Mosh is now available for installation via the NerdPack plugin when running unRaid 6.5+"
+  },
+  "linuxserver/plexrequests": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Ombi"
+  },
+  "nativedude/plex-requests": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Ombi"
   }
 }
   
