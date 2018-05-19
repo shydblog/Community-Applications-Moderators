@@ -536,5 +536,10 @@
     "url": "https://github.com/zyphermonkey/docker-templates",
     "name": "zyphermonkey's Repository",
     "profile": "https://lime-technology.com/profile/67871-zyphermonkey/"
+  },
+  {
+    "url": "https://github.com/Mudislander/docker-templates",
+    "name": "Mudislander's Repository",
+    "profile": "https://lime-technology.com/profile/67039-mudislander/"
   }
 ]
