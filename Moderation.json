@@ -370,6 +370,9 @@
   "sparklyballs/krusader": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of the version from Binhex"
+  },
+  "https://raw.githubusercontent.com/theone11/virtualbox_plugin/master/virtualbox.plg": {
+    "MaxVer": "6.3.5"
   }
 }
   
