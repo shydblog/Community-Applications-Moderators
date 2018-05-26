@@ -157,7 +157,6 @@
     "name":  "linuxserver's Repository",
     "url":  "https://github.com/linuxserver/docker-templates",
     "forum":  "http://lime-technology.com/forum/index.php?topic=42092.0",
-    "logo": "http://i61.tinypic.com/id537n.png",
     "web":  "https://www.linuxserver.io/"   
   },
   {
@@ -188,7 +187,6 @@
     "name": "linuxserver.io-Dev Repository",
     "url":  "https://github.com/linuxserver/beta-templates",
     "forum":  "http://lime-technology.com/forum/index.php?topic=42092.0",
-    "logo": "http://i61.tinypic.com/id537n.png",
     "web":  "https://www.linuxserver.io/"  
   },
   {
@@ -318,7 +316,6 @@
   {
     "name":  "Linuxserver's Plugin Repository",
     "url": "https://github.com/linuxserver/linuxserver-Plugin-Repository",
-    "logo": "http://i61.tinypic.com/id537n.png",
     "web":  "https://www.linuxserver.io/"
   },
   {
@@ -385,7 +382,6 @@
   {
     "name": "Linuxserver's Community Repository",
     "url": "https://github.com/linuxserver/community-templates/tree/master/lsiocommunity",
-    "logo": "http://i61.tinypic.com/id537n.png",
     "web":  "https://www.linuxserver.io/"  
   },
   {
