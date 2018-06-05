@@ -537,5 +537,17 @@
     "url": "https://github.com/Mudislander/docker-templates",
     "name": "Mudislander's Repository",
     "profile": "https://lime-technology.com/profile/67039-mudislander/"
+  },
+  {
+    "url": "https://github.com/Spikhalskiy/docker-templates",
+    "name": "Spikhalskiy's Repository",
+    "profile": "https://lime-technology.com/profile/82549-dmitry-spikhalskiy/"
+  },
+  {
+    "url": "https://github.com/digiblur/unraid-docker-templates",
+    "name": "digiblur's Repository",
+    "profile": "https://lime-technology.com/profile/75995-digiblur/",
+    "forum": "https://lime-technology.com/forums/topic/72033-support-digiblurs-docker-template-repository/"
   }
+  
 ]
