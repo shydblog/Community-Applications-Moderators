@@ -391,10 +391,10 @@
     "ModeratorComment": "Deprecated in favour of SteamCacheBundle https://lime-technology.com/forums/topic/54183-support-cheesemarathons-repo/?page=7&tab=comments#comment-664053"
   },
   "https://raw.githubusercontent.com/Waseh/rclone-unraid/beta/plugin/rclone.plg": {
-    "ModeratorComment": "By design, this plugin will not reinstall at boot time on unRaid.  See <a href='https://lime-technology.com/forums/topic/72339-rclone-not-saved-on-reboot/?tab=comments#comment-665024'>This Thread</a> for a workaround"
+    "ModeratorComment": "By design, this plugin will not reinstall at boot time on unRaid.  See <a href='https://lime-technology.com/forums/topic/72339-rclone-not-saved-on-reboot/?tab=comments#comment-665024' target='_blank'>This Thread</a> for a workaround"
   },
   "https://raw.githubusercontent.com/Waseh/rclone-unraid/master/plugin/rclone.plg": {
-    "ModeratorComment": "By design, this plugin will not reinstall at boot time on unRaid.  See <a href='https://lime-technology.com/forums/topic/72339-rclone-not-saved-on-reboot/?tab=comments#comment-665024'>This Thread</a> for a workaround"
+    "ModeratorComment": "By design, this plugin will not reinstall at boot time on unRaid.  See <a href='https://lime-technology.com/forums/topic/72339-rclone-not-saved-on-reboot/?tab=comments#comment-665024' target='_blank'>This Thread</a> for a workaround"
   }
 }
   
