@@ -396,9 +396,9 @@
   "https://raw.githubusercontent.com/Waseh/rclone-unraid/master/plugin/rclone.plg": {
     "ModeratorComment": "By design, this plugin will not reinstall at boot time on unRaid.  See <a href='https://lime-technology.com/forums/topic/72339-rclone-not-saved-on-reboot/?tab=comments#comment-665024' target='_blank'>This Thread</a> for a workaround"
   },
-  "othrayte/amp": {
+  "sparklyballs/mate-calibre": {
     "Deprecated": true,
-    "ModeratorComment": "No longer supported by maintainer per <a href='https://lime-technology.com/forums/topic/47092-support-bjonness406s-repo/?page=3&tab=comments#comment-666586' target='_blank'>THIS</a>"
-  }    
+    "ModeratorComment": "Deprecated in favour of one of the other Calibre applications"
+  }
 }
   
