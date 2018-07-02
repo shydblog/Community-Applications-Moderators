@@ -375,8 +375,7 @@
     "MaxVer": "6.3.5"
   },
   "https://raw.githubusercontent.com/Squidly271/ransomware.bait/master/plugins/newransomware.bait.plg": {
-    "MaxVer": "6.4.1",
-    "ModeratorComment": "Due to underlying changes in unRaid, this plugin no longer works correctly under unRaid 6.5+.  Additionally, this plugin is reactive, and not proactive, and therefore is not the correct approach you should take when dealing with malware."
+    "Deprecated": true
   },
   "steamcache/steamcache-dns:latest": {
     "Deprecated": true,
