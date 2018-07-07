@@ -558,5 +558,10 @@
     "url": "https://github.com/mlebjerg/docker-templates",
     "name": "mlebjerg's Repository",
     "profile": "https://lime-technology.com/profile/76816-mlebjerg/"
+  },
+  {
+    "url": "https://github.com/cmccambridge/unraid-templates/tree/master/cmccambridge",
+    "name": "cmccambridge's Repository",
+    "profile": "https://lime-technology.com/profile/83181-cmccambridge/"
   }
 ]
