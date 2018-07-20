@@ -398,6 +398,10 @@
   "sparklyballs/mate-calibre": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of one of the other Calibre applications"
+  },
+  "sparklyballs/filezilla": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the version from DJoss"
   }
 }
   
