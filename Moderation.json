@@ -402,6 +402,10 @@
   "sparklyballs/filezilla": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of the version from DJoss"
+  },
+  "sparklyballs/moviegrabber": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the version from BinHex"
   }
 }
   
