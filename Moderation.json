@@ -404,7 +404,7 @@
     "ModeratorComment": "Deprecated in favour of the version from BinHex"
   },
   "google/cadvisor:latest": {
-    "WebUI": "http://[IP]:[PORT:8081]"
+    "WebUI": "http://[IP]:[PORT:8080]"
   }
 }
   
