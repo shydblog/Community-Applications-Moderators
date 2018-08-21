@@ -573,5 +573,10 @@
     "url": "https://github.com/thetarkus/docker-templates",
     "name": "thetarkus' Repository",
     "profile": "https://lime-technology.com/profile/84238-tarkus/"
-  } 
+  },
+  {
+    "url": "https://github.com/mdarkness1988/rust-server-template",
+    "name": "mdarkness1988's Repository",
+    "profile": "https://lime-technology.com/profile/84443-mdarkness1988/"
+  }
 ]
