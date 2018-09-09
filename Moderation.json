@@ -4,8 +4,8 @@
     "Blacklist": true
     },
   "tobbenb/tvheadend-stable": {
-    "ModeratorComment": "Deprecated Version (V3.9) - Use author's tvheadend container for V4 stable releases",
-    "Deprecated": true
+    "ModeratorComment": "Repository no longer available on dockerHub",
+    "Blacklist": true
     },
   "https://raw.githubusercontent.com/Steini1984/unRAID6-ZFS/master/unRAID6-ZFS.plg": {
     "ModeratorComment": "Expert Only: Not recommended for the casual user",
@@ -233,8 +233,8 @@
     "Deprecated": true
   },
   "ironicbadger/booksonic": {
-    "ModeratorComment": "As the actual author of the image is a member of linuxserver, and linuxserver has their own version of this application, it is recommended to install the linux server version",
-    "Deprecated": true
+    "ModeratorComment": "Repository no longer available on dockerHub",
+    "Blacklist": true
   },
   "sparklyballs/yify-pop": {
     "ModeratorComment": "Application is non functional",
