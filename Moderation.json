@@ -3,10 +3,6 @@
     "ModeratorComment": "This application is no longer functional.",
     "Blacklist": true
     },
-  "tobbenb/tvheadend-stable": {
-    "ModeratorComment": "Repository no longer available on dockerHub",
-    "Blacklist": true
-    },
   "https://raw.githubusercontent.com/Steini1984/unRAID6-ZFS/master/unRAID6-ZFS.plg": {
     "ModeratorComment": "Expert Only: Not recommended for the casual user",
     "MinVer": "6.1.4"
@@ -139,7 +135,7 @@
   },
   "tobbenb/tvheadend": {
     "ModeratorComment": "Repository no longer exists on dockerHub",
-    "Blacklisted": true
+    "Blacklist": true
   },
   "tobbenb/oscam": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.  This app will eventually be blacklisted",
