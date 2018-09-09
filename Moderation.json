@@ -407,7 +407,8 @@
     "CAComment": "Default username and password is guacadmin"
   },
   "tombowditch/telly": {
-    "Deprecated": "dockerHub repository no longer exists.  Existing installs should still work"
+    "Deprecated": true,
+    "ModeratorComment": "dockerHub repository no longer exists.  Existing installs should still work"
   }
 }
   
