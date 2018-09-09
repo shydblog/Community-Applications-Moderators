@@ -405,6 +405,9 @@
   },
   "jasonbean/guacamole": {
     "CAComment": "Default username and password is guacadmin"
+  },
+  "tombowditch/telly": {
+    "Deprecated": "dockerHub repository no longer exists.  Existing installs should still work"
   }
 }
   
