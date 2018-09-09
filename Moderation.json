@@ -134,8 +134,8 @@
     "Deprecated": true
   },
   "tobbenb/tvheadend-unstable": {
-    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "ModeratorComment": "Repository no longer exists",
+    "Blacklist": true
   },
   "tobbenb/tvheadend": {
     "ModeratorComment": "Repository no longer exists on dockerHub",
