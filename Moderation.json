@@ -405,6 +405,10 @@
   "tombowditch/telly": {
     "Deprecated": true,
     "ModeratorComment": "dockerHub repository no longer exists.  Existing installs should still work"
+  },
+  "kmb32123/youtube-dl-server": {
+    "Blacklist": true,
+    "ModeratorComment": "Application is non-funcational"
   }
 }
   
