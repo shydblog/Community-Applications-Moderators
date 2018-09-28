@@ -587,5 +587,9 @@
   {
     "url": "https://github.com/rix1337/docker-templates",
     "name": "Rix1337's Repository"
+  },
+  {
+    "url": "https://github.com/Squidly271/docker-test-repo",
+    "name": "Squid's test repo"
   }
 ]
