@@ -565,12 +565,6 @@
     "profile": "https://lime-technology.com/profile/79298-nord/"
   },
   {
-    "name": "Rix's Repository",
-    "url":  "https://github.com/rix1337/docker-templates",
-    "forum": "http://lime-technology.com/forum/index.php?topic=43669.0",
-    "profile": "https://forums.lime-technology.com/profile/67339-rix/"
-  },
-  {
     "url": "https://github.com/Squidly271/docker-test-repo",
     "name": "Squid's test repo"
   }
