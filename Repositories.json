@@ -56,6 +56,20 @@
     "profile": "https://forums.lime-technology.com/profile/11148-binhex/"
   },
   {
+    "name": "Zuhkov's Repository",
+    "url": "https://github.com/Zuhkov/docker-containers/tree/templates",
+    "forum": "http://lime-technology.com/forum/index.php?topic=38410.0",
+    "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/",
+    "RepoComment": "While still functional, development on this application's container has ceased"
+  },
+  {
+    "name": "Zuhkov's Beta Repository",
+    "url": "https://github.com/Zuhkov/docker-containers/tree/beta-templates",
+    "forum": "http://lime-technology.com/forum/index.php?topic=38410.0",
+    "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/",
+    "RepoComment": "While still functional, development on this application's container has ceased"
+  },
+  {
     "name": "Spants' Repository",
     "url": "https://github.com/spants/unraidtemplates",
     "forum": "http://lime-technology.com/forum/index.php?topic=38486.0",
@@ -162,6 +176,12 @@
     "url":  "https://github.com/snoopy86/docker-repo/tree/master/snoopy",
     "forum":  "http://lime-technology.com/forum/index.php?topic=43610.0",
     "profile": "https://forums.lime-technology.com/profile/26537-snoopy86/"
+  },
+  {
+    "name": "rix's Repository",
+    "url":  "https://github.com/rix1337/docker-templates",
+    "forum": "http://lime-technology.com/forum/index.php?topic=43669.0",
+    "profile": "https://forums.lime-technology.com/profile/67339-rix/"
   },
   {
     "name": "linuxserver.io-Dev Repository",
@@ -563,13 +583,5 @@
     "url": "https://github.com/DyonR/docker-templates/tree/master/Templates",
     "name": "Nord's Repository",
     "profile": "https://lime-technology.com/profile/79298-nord/"
-  },
-  {
-    "url": "https://github.com/Squidly271/docker-test-repo",
-    "name": "Squid's test repo"
-  },
-  {
-    "url": "https://github.com/rix1337/docker-templates",
-    "name": "rix's Repository"
   }
 ]
