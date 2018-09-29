@@ -567,5 +567,9 @@
   {
     "url": "https://github.com/Squidly271/docker-test-repo",
     "name": "Squid's test repo"
+  },
+  {
+    "url": "https://github.com/rix1337/docker-templates",
+    "name": "rix's Repository"
   }
 ]
