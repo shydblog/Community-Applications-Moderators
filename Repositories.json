@@ -582,5 +582,11 @@
     "url": "https://github.com/dorgan/unraid-templates",
     "name": "dorgan's Plugin Repository",
     "profile": "https://forums.unraid.net/profile/78375-dorgan/"
-  }
+  },
+  {
+    "name": "rix's Repository",
+    "url":  "https://github.com/rix1337/docker-templates/tree/master/rix1337",
+    "forum": "http://lime-technology.com/forum/index.php?topic=43669.0",
+    "profile": "https://forums.lime-technology.com/profile/67339-rix/"
+  } 
 ]
