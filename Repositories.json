@@ -588,5 +588,10 @@
     "url":  "https://github.com/rix1337/docker-templates/tree/master/rix1337",
     "forum": "http://lime-technology.com/forum/index.php?topic=43669.0",
     "profile": "https://forums.lime-technology.com/profile/67339-rix/"
-  } 
+  },
+  {
+    "name": "shrmn's Repository",
+    "url": "https://github.com/shrmnk/docker-templates/tree/master/shrmn",
+    "profile": "https://forums.unraid.net/profile/77786-shrmn/"
+  }
 ]
