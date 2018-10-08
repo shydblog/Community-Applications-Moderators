@@ -405,6 +405,9 @@
   "tombowditch/telly": {
     "Deprecated": true,
     "ModeratorComment": "dockerHub repository no longer exists.  Existing installs should still work"
+  },
+  "https://raw.githubusercontent.com/dorgan/Unraid-networkstats/master/networkstats.plg": {
+    "ModeratorComment": "There are currently some issues with this plugin that may affect your ability to stop the array.  The author is working on it"
   }
 }
   
