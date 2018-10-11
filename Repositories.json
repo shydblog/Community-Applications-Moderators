@@ -593,5 +593,10 @@
     "name": "shrmn's Repository",
     "url": "https://github.com/shrmnk/docker-templates/tree/master/shrmn",
     "profile": "https://forums.unraid.net/profile/77786-shrmn/"
+  },
+  {
+    "url": "https://github.com/organizrTools/docker-organizr-v2",
+    "name": "tronyx's Repository",
+    "profile": "https://forums.unraid.net/profile/77876-tronyx/"
   }
 ]
