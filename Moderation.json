@@ -168,7 +168,7 @@
     "Deprecated": true
   },
   "needo/mariadb": {
-    "ModeratorComment": "The unRaid community generally recommends to install the MariaDB application from either linuxserver's or binhex's repositories",
+    "ModeratorComment": "The unRaid community generally recommends to install the MariaDB application from linuxserver's repositories",
     "Deprecated": true
   },
   "needo/nzbget": {
@@ -304,9 +304,6 @@
   },
   "http://unraid.zeron.ca/plugins/open-vm-tools/openVMTools.plg": {
     "MaxVer": "6.3.5"
-  },
-  "https://raw.githubusercontent.com/Squidly271/docker.categorize/master/plugins/docker.categorize.plg": {
-    "DeprecatedMaxVer": "6.3.5"
   },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/advanced.buttons.plg": {
     "MaxVer": "6.4.0"
