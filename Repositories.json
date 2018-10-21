@@ -598,5 +598,10 @@
     "url": "https://github.com/organizrTools/docker-organizr-v2",
     "name": "tronyx's Repository",
     "profile": "https://forums.unraid.net/profile/77876-tronyx/"
+  },
+  {
+    "url": "https://hub.docker.com/r/uberchuckie/observium/",
+    "name": "uberchuckie's Repository",
+    "profile": "https://forums.unraid.net/profile/64811-uberchuckie/"
   }
 ]
