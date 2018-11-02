@@ -408,6 +408,9 @@
   "zuhkov/observium": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favor of uberchuckie's application"
+  },
+  "captinsano/foldingathome": {
+    "CAComment": "Note: This application is fully functional.  However it will not process all work units so it may be idle at times"
   }
 }
   
