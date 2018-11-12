@@ -603,5 +603,10 @@
     "url": "https://github.com/charlescng/docker-containers/tree/master/unraid-templates",
     "name": "uberchuckie's Repository",
     "profile": "https://forums.unraid.net/profile/64811-uberchuckie/"
+  },
+  {
+    "url": "https://github.com/SiwatINC/unraid-ca-repository",
+    "name": "Siwat2545's Repository",
+    "profile": "https://forums.unraid.net/profile/72489-siwat2545/"
   }
 ]
