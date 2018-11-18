@@ -259,6 +259,10 @@
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
     "Deprecated": true
   },
+  "tobbenb/webgrabplusplus": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Deprecated": true
+  },    
   "jlesage/crashplan": {
     "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version no longer functions as of Oct 22.  If you wish to continue using CrashPlan, you will have to switch to the CrashPlan Pro application.",
     "Deprecated": true
