@@ -424,6 +424,9 @@
   },
   "https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/plugins/UnraidDVB.plg": {
     "CAComment": "Note that currently this plugin will only install the drivers up to unRaid v6.6.1  There are however some other builds of the plugin (review the support thread) that will install the drivers for latter versions of unRaid"
-  }   
+  },
+  "linuxserver/diskover": {
+    "CAComment": "This application requires elasticsearch to be installed.  Enable get additional results from dockerHub in CA Settings, then search for and install the official version of elasticsearch.  See support thread for details"
+  }
 }
   
