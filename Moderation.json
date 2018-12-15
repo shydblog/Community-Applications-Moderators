@@ -424,6 +424,9 @@
   },
   "linuxserver/diskover": {
     "CAComment": "This application requires elasticsearch to be installed.  Enable get additional results from dockerHub in CA Settings, then search for and install the official version of elasticsearch.  See support thread for details"
+  },
+  "https://raw.githubusercontent.com/theone11/serverlayout_plugin/master/serverlayout.plg": {
+    "CAComment": "This application does not display correctly if using unRaid's Black theme"
   }
 }
   
