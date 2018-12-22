@@ -428,9 +428,6 @@
   },
   "https://raw.githubusercontent.com/theone11/serverlayout_plugin/master/serverlayout.plg": {
     "CAComment": "This application does not display correctly if using unRaid's Black theme"
-  },
-  "yujiod/minecraft-mineos": {
-    "CAComment": "When installing this app, ensure you change the path in the template from /mnt/appdata/mineos to instead be /mnt/user/appdata/mineos"
   }
 }
   
