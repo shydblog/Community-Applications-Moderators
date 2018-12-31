@@ -618,5 +618,10 @@
     "url": "https://github.com/dersimn/docker-unraid-templates/tree/master/dersimn",
     "name": "seim's Repository",
     "profile": "https://forums.unraid.net/profile/11673-seim/"
+  },
+  {
+    "url": "https://github.com/fithwum/files-for-dockers/tree/master/templates",
+    "name": "fithwum's Repository",
+    "profile": "https://forums.unraid.net/profile/82177-fithwum/"
   }
 ]
