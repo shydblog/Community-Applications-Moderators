@@ -623,5 +623,10 @@
     "url": "https://github.com/fithwum/files-for-dockers/tree/master/templates",
     "name": "fithwum's Repository",
     "profile": "https://forums.unraid.net/profile/82177-fithwum/"
+  },
+  {
+    "url": "https://github.com/olehj/disklocation-ca/tree/master",
+    "name": "olehj's Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/86216-olehj/"
   }
 ]
