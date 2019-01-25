@@ -628,5 +628,10 @@
     "url": "https://github.com/olehj/disklocation-ca/tree/master",
     "name": "olehj's Plugin Repository",
     "profile": "https://forums.unraid.net/profile/86216-olehj/"
+  },
+  {
+    "url": "https://github.com/GregYankovoy/docker-templates/tree/master/greg",
+    "profile": "https://forums.unraid.net/profile/88760-grack/",
+    "name": "Grack's Repository"
   }
 ]
