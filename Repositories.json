@@ -628,5 +628,13 @@
     "url": "https://github.com/GregYankovoy/docker-templates/tree/master/greg",
     "profile": "https://forums.unraid.net/profile/88760-grack/",
     "name": "Grack's Repository"
+  },
+  {
+    "url": "https://github.com/RazorSiM/docker-templates",
+    "name": "raz's Repository",
+    "profile": "https://forums.unraid.net/profile/84655-raz/",
+    "duplicated": {
+      "mprasil/bitwarden": true
+    }
   }
 ]
