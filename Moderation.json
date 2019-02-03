@@ -431,6 +431,10 @@
   },
   "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.stats.plg": {
     "UpdateMinVer": "6.7.0-rc1"
+  },
+  "ninthwalker/nowshowing": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favor of NowShowing v2"
   }
 }
   
