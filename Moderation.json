@@ -435,6 +435,10 @@
   "yujiod/minecraft-mineos": {
     "Deprecated": true,
     "ModeratorComment": "Project Abandoned"
+  },
+  "ninthwalker/nowshowing": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Now Showing V2"
   }
 }
   
