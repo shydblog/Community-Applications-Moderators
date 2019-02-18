@@ -439,6 +439,10 @@
   "ninthwalker/nowshowing": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of Now Showing V2"
+  },
+  "linuxserver/unifi": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of a new app from linuxserver"
   }
 }
   
