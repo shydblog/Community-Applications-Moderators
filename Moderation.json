@@ -443,6 +443,10 @@
   "linuxserver/unifi": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of a new app from linuxserver"
+  },
+  "https://raw.githubusercontent.com/Squidly271/fix.common.problems/master/plugins/fix.common.problems.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "Because this plugin has the ability to delete your entire array in the case of a severely misconfigured docker application, it is now deprecated in favour of manually deleting the appdata folders via Krusader and the like."
   }
 }
   
