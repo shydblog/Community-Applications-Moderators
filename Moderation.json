@@ -265,11 +265,11 @@
   },    
   "jlesage/crashplan": {
     "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version no longer functions as of Oct 22.  If you wish to continue using CrashPlan, you will have to switch to the CrashPlan Pro application.",
-    "Deprecated": true
+    "Blacklist": true
   },
   "gfjardim/crashplan": {
     "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version no longer functions as of Oct 22.  If you wish to continue using CrashPlan, you will have to switch to the CrashPlan Pro application.",
-    "Deprecated": true
+    "Blacklist": true
   },
   "https://raw.githubusercontent.com/Squidly271/repo.update/master/plugins/community.repositories.plg": {
     "ModeratorComment": "Long ago replaced by <a href='https://forums.lime-technology.com/topic/38582-plug-in-community-applications/' target='_blank'>Community Applications</a>.  CR is no longer functional and may have adverse effects on any running server, and should be uninstalled immediately and replaced with Community Applications",
