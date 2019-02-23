@@ -14,76 +14,76 @@
     "ModeratorComment": "Development has ceased on this plugin.  No support will be given on issues.  But, it is functional.  Alternatives however would include Dynamix File Integrity Checker"
     },
   "gfjardim/crashplan-desktop": {
-    "ModeratorComment": "This docker app has been merged with the Crashplan application.  There is now no longer any need to install this app.  This app will soon be deprecated",
+    "ModeratorComment": "This docker app has been merged with the Crashplan application.",
     "Blacklist": true
     },
   "rix1337/docker-copy": {
-    "ModeratorComment": "This application will cease to operate after May 1st, 2016",
+    "ModeratorComment": "This application ceased to operate after May 1st, 2016",
     "Blacklist": true
     },
   "sparklyballs/headless-kodi-helix": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/headless-kodi-isengard": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/photoshow": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/piwigo": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/pydio": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/readerself": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "smdion/docker-headphones": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "hurricane/docker-couchpotato": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "hurricane/docker-sonarr": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "hurricane/docker-sabnzbd": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "smdion/docker-htpcmanager": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "smdion/docker-beets": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "smdion/docker-polipo": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/serviio": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/znc": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "aptalca/docker-amazon-echo-ha-bridge": {
     "ModeratorComment": "Container Deprecated in favor of a different one",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/couchtest": {
     "ModeratorComment": "Presumably no harm will come from blacklisting this application",
@@ -91,11 +91,11 @@
     },
   "sparklyballs/daapd-server": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/musicbrainz": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/unassigned.devices.plg": {
     "ModeratorComment": "dlandon has taken over this project and your should be installing his version.",
@@ -118,7 +118,7 @@
     },
   "gfjardim/transmission": {
     "ModeratorComment": "The author of this template is now recommending to install this application from a different repository",
-    "Deprecated": true
+    "Blacklist": true
     },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.beta.plg": {
     "ModeratorComment": "This plugin is now set up to immediately uninstall itself, as it has now been deprecated in favour of the non-beta version.  It will soon become blacklisted within Community Applications",
@@ -145,7 +145,7 @@
   },
   "aptalca/nginx-letsencrypt": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version   See <a href='http://lime-technology.com/forum/index.php?topic=39413.msg521591#msg521591' target='_blank'>THIS POST</a> for details",
-    "Deprecated": true
+    "Blacklist": true
   },
   "ruippeixotog/google-musicmanager:dev": {
     "ModeratorComment": "There are some challenges involved in using this particular application.  Might be wise to install instead the version from rix1337"
@@ -238,7 +238,7 @@
   },
   "lsiodev/owncloud": {
     "ModeratorComment": "This application has been taken over by dlandon, and it is advised to install his version instead",
-    "Deprecated": true
+    "Blacklist": true
   },
   "aptalca/docker-plexrequests": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.",
@@ -253,11 +253,11 @@
   },
   "sparklyballs/beardrage": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
   },
   "aptalca/docker-duckdns": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
   },
   "tobbenb/webgrabplusplus": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
@@ -292,7 +292,8 @@
     "Deprecated": true
   },
   "lsiocommunity/polipo": {
-    "ModeratorComment": "The polipo application itself is no longer being maintained. (Primarily because most web traffic is HTTPS)"
+    "ModeratorComment": "The polipo application itself is no longer being maintained. (Primarily because most web traffic is HTTPS)",
+    "Deprecated": true
   },
   "https://raw.githubusercontent.com/Squidly271/ca.backup/master/plugins/ca.backup.plg": {
     "Deprecated": true,
@@ -389,7 +390,7 @@
     "ModeratorComment": "Deprecated in favour of SteamCacheBundle https://lime-technology.com/forums/topic/54183-support-cheesemarathons-repo/?page=7&tab=comments#comment-664053"
   },
   "sparklyballs/mate-calibre": {
-    "Deprecated": true,
+    "Blacklist": true,
     "ModeratorComment": "Deprecated in favour of one of the other Calibre applications"
   },
   "sparklyballs/filezilla": {
@@ -410,11 +411,11 @@
     "CAComment": "Default username and password is guacadmin"
   },
   "tombowditch/telly": {
-    "Deprecated": true,
+    "Blacklist": true,
     "ModeratorComment": "dockerHub repository no longer exists.  Existing installs should still work"
   },
   "zuhkov/observium": {
-    "Deprecated": true,
+    "Blacklist": true,
     "ModeratorComment": "Deprecated in favor of uberchuckie's application"
   },
   "captinsano/foldingathome": {
