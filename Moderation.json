@@ -137,8 +137,8 @@
     "Blacklist": true
   },
   "tobbenb/oscam": {
-    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.  This app will eventually be blacklisted",
-    "Deprecated": true
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.",
+    "Blacklist": true
   },
   "linuxserver/kodi-headless": {
     "CAComment": "Due to reasons beyond linuxserver's control, there are some issues with the Jarvis branch of this application which may cause it to not function correctly.  See support thread for details"
@@ -241,8 +241,8 @@
     "Deprecated": true
   },
   "aptalca/docker-plexrequests": {
-    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.  This app will eventually be blacklisted",
-    "Deprecated": true
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.",
+    "Blacklist": true
   },
   "amacneil/bitcoinunlimited": {
     "ModeratorComment": "This is a converted template from a general docker container, and may not be optimized for the unRaid environment.  All support is handled on the docker website"
