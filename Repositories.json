@@ -630,10 +630,5 @@
     "duplicated": {
       "mprasil/bitwarden": true
     }
-  },
-  {
-    "url": "https://github.com/maschhoff/docker/tree/master/unraid%20xml",
-    "name": "knex666's Repository",
-    "profile": "https://forums.unraid.net/profile/71048-knex666/"
   }
 ]
