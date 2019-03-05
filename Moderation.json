@@ -460,6 +460,9 @@
   "dreamcat4/pipework": {
     "Deprecated": true,
     "ModeratorComment": "While there still may be use for this application, the author has stated that under recent versions of docker, the use of this container is probably not required"
+  },
+  "https://raw.githubusercontent.com/dorgan/Unraid-networkstats/master/networkstats.plg": {
+    "MinVer": 6.6.0
   }
 }
   
