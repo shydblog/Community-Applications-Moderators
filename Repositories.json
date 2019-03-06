@@ -601,7 +601,10 @@
   {
     "url": "https://github.com/benderstwin/docker-templates",
     "name": "Bender's Repository",
-    "profile": "https://forums.unraid.net/profile/11326-bryanwirth/"
+    "profile": "https://forums.unraid.net/profile/11326-bryanwirth/",
+    "duplicated": {
+    	"acockburn/appdaemon": true
+    }
   },
   {
     "url": "https://github.com/dersimn/docker-unraid-templates/tree/master/dersimn",
