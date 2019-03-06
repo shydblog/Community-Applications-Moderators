@@ -465,7 +465,7 @@
     "MinVer": "6.6.0"
   },
   "sparklyballs/shout-irc": {
-    "Deprecated": true,
+    "Blacklist": true,
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
   }
 }
