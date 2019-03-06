@@ -463,6 +463,10 @@
   },
   "https://raw.githubusercontent.com/dorgan/Unraid-networkstats/master/networkstats.plg": {
     "MinVer": "6.6.0"
+  },
+  "sparklyballs/shout-irc": {
+    "Deprecated": true,
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
   }
 }
   
