@@ -470,6 +470,9 @@
   },
   "https://raw.githubusercontent.com/itimpi/parity.check.tuning/master/parity.check.tuning.plg": {
     "Blacklist": true
+  },
+  "lsiocommunity/serviio": {
+    "CAComment": "LinuxServer.io has deprecated this container, and no further updates or fixes will be made to it."
   }
 }
   
