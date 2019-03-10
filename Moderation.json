@@ -317,7 +317,6 @@
     "MaxVer": "6.3.5"
   },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/advanced.buttons.plg": {
-    "MaxVer": "6.4.0",
     "Blacklist": true,
     "ModeratorComment": ".plg file no longer available"
   },
