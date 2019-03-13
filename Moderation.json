@@ -472,6 +472,10 @@
   "lsiocommunity/serviio": {
     "CAComment": "LinuxServer.io has deprecated this container, and no further updates or fixes will be made to it."
   },
+  "sparklyballs/lychee": {
+    "Blacklist": true,
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
+  },    
   "gfjardim/owncloud": {
     "Deprecated": true,
     "ModeratorComment": "While this app is presumably still functional, a more up to date and support version is available in dlandon's repository"
