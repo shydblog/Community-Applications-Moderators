@@ -479,6 +479,10 @@
   "gfjardim/owncloud": {
     "Deprecated": true,
     "ModeratorComment": "While this app is presumably still functional, a more up to date and support version is available in dlandon's repository"
+  },
+  "captinsano/foldingathome": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the more up to date version from MobiusNine"
   }
 }
   
