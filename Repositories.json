@@ -638,5 +638,10 @@
     "url": "https://github.com/maschhoff/docker/tree/master/unraid%20xml",
     "name": "knex666's Repository",
     "profile": "https://forums.unraid.net/profile/71048-knex666/"
+  },
+  {
+    "url": "https://github.com/MobiusNine/docker-templates/tree/master/MobiusNine",
+    "name": "MobiusNine's Repository",
+    "profile": "https://forums.unraid.net/profile/84666-mobiusnine/"
   }
 ]
