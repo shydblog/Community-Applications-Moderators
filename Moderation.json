@@ -484,7 +484,7 @@
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of the more up to date version from MobiusNine"
   },
-  "	plexinc/pms-docker": {
+  "	plexinc/pms-docker: {
     "Support": "https://forums.plex.tv/"
   }
 }
