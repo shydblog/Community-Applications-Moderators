@@ -486,6 +486,12 @@
   },
   "plexinc/pms-docker": {
     "Support": "https://forums.plex.tv/"
-  }
+  },
+  "https://raw.githubusercontent.com/coppit/unraid-snmp/master/snmp.plg": {
+    "CAComment": "Currently this plugin does not work with unRaid 6.7+.  It will eventually be listed as being incompatible"
+  },
+  "https://raw.githubusercontent.com/coppit/unraid-mosh/master/mosh.plg": {
+    "CAComment": "Currently this plugin does not work with unRaid 6.7+.  It will eventually be listed as being incompatible"
+  }    
 }
   
