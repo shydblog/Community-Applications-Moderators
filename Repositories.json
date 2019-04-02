@@ -653,5 +653,10 @@
     "url": "https://github.com/rpj2/docker-templates",
     "name": "rpj2's Repository",
     "profile": "https://forums.unraid.net/profile/90412-rpj2/"
+  },
+  {
+    "url": "https://github.com/FoxxMD/unraid-docker-templates/tree/master/foxxmd",
+    "name": "FoxMD's Repository",
+    "profile": "https://forums.unraid.net/profile/85599-foxxmd/"
   }
 ]
