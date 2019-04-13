@@ -419,17 +419,14 @@
     "Blacklist": true,
     "ModeratorComment": "Deprecated in favor of uberchuckie's application"
   },
-  "captinsano/foldingathome": {
-    "CAComment": "Note: This application is fully functional.  However it will not process all work units so it may be idle at times"
-  },
   "yujiod/minecraft-mineos": {
     "ModeratorComment": "The default path of /mnt/appdata/minecraftos/ is incorrect.  You must change it to /mnt/user/appdata/minecraftos for proper functioning."
   },
   "linuxserver/diskover": {
-    "CAComment": "This application requires elasticsearch to be installed.  Enable get additional results from dockerHub in CA Settings, then search for and install the official version of elasticsearch.  See support thread for details"
+    "CAComment": "This application requires elasticsearch to be installed."
   },
   "https://raw.githubusercontent.com/theone11/serverlayout_plugin/master/serverlayout.plg": {
-    "CAComment": "This application does not display correctly if using unRaid's Black theme"
+    "CAComment": "This application does not display correctly if using unRaid's Black theme.  There is an alternative plugin under active devlopment titled Disk Location"
   },
   "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.stats.plg": {
     "UpdateMinVer": "6.7.0-rc1"
@@ -470,7 +467,8 @@
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
   },
   "lsiocommunity/serviio": {
-    "CAComment": "LinuxServer.io has deprecated this container, and no further updates or fixes will be made to it."
+    "CAComment": "LinuxServer.io has deprecated this container, and no further updates or fixes will be made to it.",
+    "Deprecated": true
   },
   "sparklyballs/lychee": {
     "Blacklist": true,
