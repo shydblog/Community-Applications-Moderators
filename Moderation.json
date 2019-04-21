@@ -492,6 +492,9 @@
   "https://raw.githubusercontent.com/coppit/unraid-mosh/master/mosh.plg": {
     "CAComment": "Currently this plugin does not work with unRaid 6.7+",
     "MaxVer": "6.6.7"
+  },
+  "https://github.com/SlrG/unRAID/raw/master/Plugins/advCPaMV.plg": {
+    "MinVer": "6.7.0-rc1"
   }
 }
   
