@@ -503,6 +503,13 @@
   "mace/qbittorrent": {
     "ModeratorComment": "Generally recommended to install the version from linuxserver instead",
     "Deprecated": true
+  },
+  "volikon/lidarr": {
+    "ModeratorComment": "Generally recommended to install the version from linuxserver instead",
+    "Deprecated": true
+  },
+  "pducharme/plexconnect": {
+    "CAComment": "Note that this application is unsupported"
   }
 }
   
