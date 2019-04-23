@@ -494,7 +494,7 @@
     "MaxVer": "6.6.7"
   },
   "https://github.com/SlrG/unRAID/raw/master/Plugins/advCPaMV.plg": {
-    "Blacklist": true
+    "MinVer": "6.6.7"
   },
   "mace/openvpn-as": {
     "ModeratorComment": "Generally recommended to install the version from linuxserver instead",
