@@ -543,7 +543,7 @@
                     "@attributes": {
                         "Type": "Port",
                         "Name": "SSH Port",
-                        "Target": "9022",
+                        "Target": "22",
                         "Default": "9022",
                         "Mode": "tcp",
                         "Display": "always-hide",
