@@ -239,7 +239,7 @@
   "aptalca/docker-plexrequests": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.",
     "Blacklist": true
-  }
+  },
   "https://raw.githubusercontent.com/Squidly271/UsefulLinks/master/useful_links.plg": {
     "Deprecated": true,
     "ModeratorComment": "No longer being maintained, and very out of date"
