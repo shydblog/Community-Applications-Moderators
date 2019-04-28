@@ -197,11 +197,7 @@
   "needo/plexwatch": {
     "ModeratorComment": "The unRaid community generally recommends to install the PlexWatch application from either linuxserver's or binhex's repositories",
     "Deprecated": true
-  },
-  "jshridha/motioneye:latest": {
-    "ModeratorComment": "Obvious CA converted templates are no longer allowed in CA",
-    "Blacklist": true
-  },
+  }
   "aptalca/zoneminder-1.29": {
     "ModeratorComment": "This app is fully functional.  But due to technical reasons, it is no longer being updated to later versions.  See <a href='https://forums.lime-technology.com/topic/37735-support-aptalcas-docker-templates/?page=40#comment-550005' target='_blank'>HERE</a>.  This app has been deprecated in favour of one being maintained by dlandon <a href='https://forums.lime-technology.com/topic/56632-support-dlandon-zoneminder-130/' target='_blank'>HERE</a>",
     "Deprecated": true
@@ -243,10 +239,7 @@
   "aptalca/docker-plexrequests": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.",
     "Blacklist": true
-  },
-  "amacneil/bitcoinunlimited": {
-    "ModeratorComment": "This is a converted template from a general docker container, and may not be optimized for the unRaid environment.  All support is handled on the docker website"
-  },
+  }
   "https://raw.githubusercontent.com/Squidly271/UsefulLinks/master/useful_links.plg": {
     "Deprecated": true,
     "ModeratorComment": "No longer being maintained, and very out of date"
