@@ -505,8 +505,87 @@
     "CAComment": "Note that this application is unsupported"
   },
   "gitlab/gitlab-ce": {
-    "CAComment": "The HOST port of the template needs to be changed from 9022 to instead be 22"
-  },
+           "Config": [
+                {
+                    "@attributes": {
+                        "Type": "Port",
+                        "Name": "Web Interface Port (HTTP)",
+                        "Target": "9080",
+                        "Default": "9080",
+                        "Mode": "tcp",
+                        "Display": "always-hide",
+                        "Required": "true",
+                        "Description": "This is GitLab's Web UI port you can access via a web browser."
+                    },
+                    "value": "9080"
+                },
+                {
+                    "@attributes": {
+                        "Type": "Port",
+                        "Name": "Web Interface Port (HTTPS)",
+                        "Target": "9443",
+                        "Default": "9443",
+                        "Mode": "tcp",
+                        "Display": "always-hide",
+                        "Required": "true",
+                        "Description": "This is GitLab's Web UI SSL port you can access via a web browser."
+                    },
+                    "value": "9443"
+                },
+                {
+                    "@attributes": {
+                        "Type": "Port",
+                        "Name": "SSH Port",
+                        "Target": "22",
+                        "Default": "9022",
+                        "Mode": "tcp",
+                        "Display": "always-hide",
+                        "Required": "true",
+                        "Description": "This is GitLab's SSH port."
+                    },
+                    "value": "9022"
+                },
+               {
+                    "@attributes": {
+                        "Type": "Path",
+                        "Name": "Config Storage Path",
+                        "Target": "/etc/gitlab",
+                        "Default": "/mnt/cache/appdata/gitlab-ce/config",
+                        "Mode": "rw",
+                        "Display": "advanced-hide",
+                        "Required": "true",
+                        "Description": "This is where GitLab will store its configuration files (use cache drive)."
+                    },
+                    "value": "/mnt/cache/appdata/gitlab-ce/config"
+                },
+                {
+                    "@attributes": {
+                        "Type": "Path",
+                        "Name": "Application Data Storage Path",
+                        "Target": "/var/opt/gitlab",
+                        "Default": "/mnt/cache/appdata/gitlab-ce/data",
+                        "Mode": "rw",
+                        "Display": "advanced-hide",
+                        "Required": "true",
+                        "Description": "This is where GitLab will store its application data (use cache drive)."
+                    },
+                    "value": "/mnt/cache/appdata/gitlab-ce/data"
+                },
+                {
+                    "@attributes": {
+                        "Type": "Path",
+                        "Name": "Log Storage Path",
+                        "Target": "/var/log/gitlab",
+                        "Default": "/mnt/cache/appdata/gitlab-ce/log",
+                        "Mode": "rw",
+                        "Display": "advanced-hide",
+                        "Required": "true",
+                        "Description": "This is where GitLab will store its logs."
+                    },
+                    "value": "/mnt/cache/appdata/gitlab-ce/log"
+                }
+            ]
+      },
   "linuxserver/kanzi": {
    "CAComment": "You must review the directions here in order to properly set up: https://github.com/linuxserver/docker-kanzi"
   }
