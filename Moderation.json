@@ -587,7 +587,7 @@
             ]
       },
   "linuxserver/kanzi": {
-   "CAComment": "You must review the directions here in order to properly set up: https://github.com/linuxserver/docker-kanzi"
+   "CAComment": "You must review the directions <a href='https://github.com/linuxserver/docker-kanzi' target='_blank'>HERE</a> in order to properly set up"
   }
 }
   
