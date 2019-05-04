@@ -586,5 +586,8 @@
                 }
             ]
       }
-    }
+    },
+"linuxserver/kanzi": {
+  "CAComment": "You must review the directions here in order to properly set up: https://github.com/linuxserver/docker-kanzi"
+}
   
