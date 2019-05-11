@@ -506,6 +506,10 @@
   },
   "linuxserver/kanzi": {
    "CAComment": "You must review the directions <a href='https://github.com/linuxserver/docker-kanzi' target='_blank'>HERE</a> in order to properly set up"
+  },
+  "fithwum/teamspeak-debian": {
+    "Blacklist": true,
+    "ModeratorComment": "Effective Duplicate of teamspeak-alpine.  Only base OS differs"
   }
 }
   
