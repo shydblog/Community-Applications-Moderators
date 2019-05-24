@@ -513,7 +513,7 @@
     "ModeratorComment": "Effective Duplicate of teamspeak-alpine.  Only base OS differs"
   },
   "https://github.com/SlrG/unRAID/raw/master/Plugins/ProFTPd.plg": {
-    "MinVer": "6.7.0"
+    "UpdateMinVer": "6.7.0"
   }
 }
   
