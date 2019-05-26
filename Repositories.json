@@ -668,5 +668,10 @@
     "url": "https://github.com/Josh5/unraid-docker-templates",
     "name": "Josh.5's Repository",
     "profile": "https://forums.unraid.net/profile/76627-josh5/"
+  },
+  {
+    "url": "https://github.com/angelics/unraid-docker-template",
+    "name": "josywong's Repository",
+    "profile": "https://forums.unraid.net/profile/7122-josywong/"
   }
 ]
