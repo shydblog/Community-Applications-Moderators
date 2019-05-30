@@ -172,12 +172,6 @@
     "profile": "https://forums.lime-technology.com/profile/26537-snoopy86/"
   },
   {
-    "name": "linuxserver.io-Dev Repository",
-    "url":  "https://github.com/linuxserver/beta-templates",
-    "forum":  "http://lime-technology.com/forum/index.php?topic=42092.0",
-    "web":  "https://www.linuxserver.io/"  
-  },
-  {
     "name": "tinglis1's Repository",
     "url":  "https://github.com/tinglis1/docker-containers/tree/master/pipework",
     "forum": "http://lime-technology.com/forum/index.php?topic=43970.0",
@@ -356,11 +350,6 @@
     "name": "JugniJi's Repository",
     "url": "https://github.com/shaf/unraid-docker-templates/tree/master/shaf",
     "profile": "https://forums.lime-technology.com/profile/71085-jugniji/"
-  },
-  {
-    "name": "Linuxserver's Community Repository",
-    "url": "https://github.com/linuxserver/community-templates/tree/master/lsiocommunity",
-    "web":  "https://www.linuxserver.io/"  
   },
   {
     "name": "atribe's Repository",
