@@ -667,5 +667,10 @@
     "url": "https://github.com/kubedzero/unraid-community-apps-xml",
     "name": "kubed_zero's Plugin Repository",
     "profile": "https://forums.unraid.net/profile/12026-kubed_zero/"
+  },
+  {
+    "url": "https://github.com/gtsatsis/unraid-ca-apps",
+    "name": "gtsatsis' Repository",
+    "profile": "https://forums.unraid.net/profile/92048-gtsatsis/"
   }
 ]
