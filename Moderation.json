@@ -480,7 +480,7 @@
     "Support": "https://forums.plex.tv/"
   },
   "https://raw.githubusercontent.com/coppit/unraid-snmp/master/snmp.plg": {
-    "CAComment": "Currently this plugin does not work with unRaid 6.7+",
+    "ModeratorComment": "Currently this plugin does not work with unRaid 6.7+.  A compatible version from another author is now available in the apps tab",
     "MaxVer": "6.6.7"
   },
   "https://raw.githubusercontent.com/coppit/unraid-mosh/master/mosh.plg": {
