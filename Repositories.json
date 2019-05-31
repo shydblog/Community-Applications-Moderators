@@ -662,5 +662,10 @@
     "url": "https://github.com/angelics/unraid-docker-template",
     "name": "josywong's Repository",
     "profile": "https://forums.unraid.net/profile/7122-josywong/"
+  },
+  {
+    "url": "https://github.com/kubedzero/unraid-community-apps-xml",
+    "name": "kubed_zero's Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/12026-kubed_zero/"
   }
 ]
