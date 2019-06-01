@@ -514,6 +514,10 @@
   },
   "https://github.com/SlrG/unRAID/raw/master/Plugins/ProFTPd.plg": {
     "UpdateMinVer": "6.7.0"
+  },
+  "snoopy86/emoncms": {
+    "Blacklist": true,
+    "ModeratorComment": "Repository no longer exists on dockerHub"
   }
 }
   
