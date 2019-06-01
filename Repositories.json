@@ -672,5 +672,10 @@
     "url": "https://github.com/gtsatsis/unraid-ca-apps",
     "name": "gtsatsis' Repository",
     "profile": "https://forums.unraid.net/profile/92048-gtsatsis/"
+  },
+  {
+    "url": "https://github.com/MstrDC/docker-templates",
+    "name": "_DC_'s Repository",
+    "profile": "https://forums.unraid.net/profile/77425-_dc_/"
   }
 ]
