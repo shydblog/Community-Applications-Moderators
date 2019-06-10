@@ -518,6 +518,9 @@
   "snoopy86/emoncms": {
     "Blacklist": true,
     "ModeratorComment": "Repository no longer exists on dockerHub"
+  },
+  "mace/ddclient": {
+    "CAComment": "While still functional, a ddclient app from linuxserver is available which may be better supported"
   }
 }
   
