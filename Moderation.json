@@ -525,6 +525,13 @@
   "sparklyballs/dokuwiki": {
     "ModeratorComment": "While (presumably) still functional, this app has been deprecated in favour of the version of linuxserver.io"
     "Deprecated": true
+  },
+  "linuxserver/codiad": {
+    "ModeratorComment": "Deprecated as per linuxserver.io",
+    "Deprecated": true
+  },
+  "linuxserver/sickrage": {
+    "ModeratorComment": "Deprecated as per linuxserver.io",
+    "Deprecated": true
   }
-}
-  
+} 
