@@ -681,5 +681,10 @@
   {
     "url": "https://github.com/ijabz/songkong_unraid/",
     "name": "Official Songkong Repository"
+  },
+  {
+    "url": "https://github.com/tquizzle/Docker-xml",
+    "name": "TQ's Repository",
+    "profile": "https://forums.unraid.net/profile/13228-tq/"
   }
 ]
