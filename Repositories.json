@@ -686,5 +686,10 @@
     "url": "https://github.com/tquizzle/Docker-xml",
     "name": "TQ's Repository",
     "profile": "https://forums.unraid.net/profile/13228-tq/"
+  },
+  {
+    "url": "https://github.com/andrew207/splunk",
+    "name": "Andrew207's Repository",
+    "profile": "https://forums.unraid.net/profile/77842-andrew207/"
   }
 ]
