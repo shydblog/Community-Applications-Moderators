@@ -339,7 +339,7 @@
   "sparklyballs/mariadb-mywebsql": {
     "Blacklist": true,
     "ModeratorComment": "This application does not function out of the box.  However existing installations may operate."
-  }
+  },
   "linuxserver/plexrequests": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of Ombi"
