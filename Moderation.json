@@ -538,5 +538,9 @@
   "captinsano/ddclient": {
     "ModeratorComment": "Generally the unRaid community recommends installing the version from linuxserver.io",
     "Deprecated": true
+  },
+  "mace/ddclient": {
+    "ModeratorComment": "Generally the unRaid community recommends installing the version from linuxserver.io",
+    "Deprecated": true 
   }
 } 
