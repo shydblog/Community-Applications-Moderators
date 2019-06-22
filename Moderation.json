@@ -550,5 +550,9 @@
   "zyphermonkey/splunk": {
     "ModeratorComment": "Probably would be best to install the up to date version from Andrew207",
     "Deprecated": true
+  },
+  "snoopy86/logitechmediaserver": {
+    "ModeratorComment": "A more up to date version is available in dlandon's repository",
+    "Deprecated": true
   }
 } 
