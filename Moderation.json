@@ -542,7 +542,7 @@
     "ModeratorComment": "While still presumably functional, you will be better off installing the version from binhex",
     "Deprecated": true
   },
-  "captinsano/rutorrent: {
+  "captinsano/rutorrent": {
    "ModeratorComment": "While still presumably functional, you will be better off installing the version from binhex or linuxserver",
    "Deprecated": true
   }, 
