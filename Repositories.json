@@ -34,6 +34,7 @@
     "url": "https://github.com/sparklyballs/docker-repo/tree/templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=37209.0",
     "profile": "https://forums.lime-technology.com/profile/23888-sparklyballs/",
+    "ModeratorComment": "Deprecated due to no support, most likely does not operate correctly",
     "Deprecated": true
   },
   {
@@ -41,6 +42,7 @@
     "url": "https://github.com/sparklyballs/beta-repo/tree/master/Sparkly-Beta",
     "forum": "http://lime-technology.com/forum/index.php?topic=38232.0",
     "profile": "https://forums.lime-technology.com/profile/23888-sparklyballs/",
+    "ModeratorComment": "Deprecated due to no support, most likely does not operate correctly",    
     "Deprecated": true
   },
   {
@@ -60,6 +62,7 @@
     "url": "https://github.com/Zuhkov/docker-containers/tree/templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=38410.0",
     "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/",
+    "ModeratorComment": "Deprecated due to no support, most likely does not operate correctly",
     "Deprecated": true
   },
   {
@@ -67,6 +70,7 @@
     "url": "https://github.com/Zuhkov/docker-containers/tree/beta-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=38410.0",
     "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/",
+    "ModeratorComment": "Deprecated due to no support, most likely does not operate correctly",
     "Deprecated": true
   },
   {
