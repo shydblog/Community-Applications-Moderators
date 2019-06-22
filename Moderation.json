@@ -212,18 +212,11 @@
     "ModeratorComment": "This app has been deprecated in favour of 'Now Showing' from ninthwalker",
     "Deprecated": true
   },
-  "sparklyballs/amule": {
-    "ModeratorComment": "Default Password is 'amule'"
-  },
   "https://raw.githubusercontent.com/theone11/swapfile_plugin/master/swapfile.plg": {
     "ModeratorComment": "Note that btrfs formatted drives do NOT support having a swap file placed onto them"
   },
   "gfjardim/logitechmediaserver": {
     "ModeratorComment": "Although this app is presumably still functional, a more up-to-date version in dlandon's repository is available"
-  },
-  "sparklyballs/handbrake": {
-    "ModeratorComment": "Although this app is still functional, there are other handbrake applications available which may be more up to date and better supported.  New installations are recommended to utilize one of the other options",
-    "Deprecated": true
   },
   "ironicbadger/booksonic": {
     "ModeratorComment": "Repository no longer available on dockerHub",
@@ -328,10 +321,7 @@
   },
   "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
     "MaxVer": "6.3.5"
-  },
-  "zuhkov/guacamole": {
-    "Deprecated": true
-  },
+  }
   "https://raw.githubusercontent.com/bshakil/unraid-libvirt-usbhotplug/master/plugins/libvirt.hotplug.usb.plg": {
     "DeprecatedMaxVer": "6.5.0-rc4",
     "ModeratorComment": "Deprecated in favour of dlandon's version"
@@ -349,11 +339,7 @@
   "sparklyballs/mariadb-mywebsql": {
     "Blacklist": true,
     "ModeratorComment": "This application does not function out of the box.  However existing installations may operate."
-  },
-  "sparklyballs/baikal": {
-    "Deprecated": true,
-    "ModeratorComment": "This application does not function out of the box.  However existing installations may operate."
-  },
+  }
   "linuxserver/plexrequests": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of Ombi"
@@ -361,11 +347,7 @@
   "nativedude/plex-requests": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of Ombi"
-  },
-  "sparklyballs/krusader": {
-    "Deprecated": true,
-    "ModeratorComment": "Deprecated in favour of the version from Binhex"
-  },
+  }
   "https://raw.githubusercontent.com/theone11/virtualbox_plugin/master/virtualbox.plg": {
     "MaxVer": "6.3.5"
   },
@@ -387,10 +369,6 @@
   "sparklyballs/mate-calibre": {
     "Blacklist": true,
     "ModeratorComment": "Deprecated in favour of one of the other Calibre applications"
-  },
-  "sparklyballs/filezilla": {
-    "Deprecated": true,
-    "ModeratorComment": "Deprecated in favour of the version from DJoss"
   },
   "sparklyballs/moviegrabber": {
     "Deprecated": true,
@@ -521,10 +499,6 @@
   },
   "mace/ddclient": {
     "CAComment": "While still functional, a ddclient app from linuxserver is available which may be better supported"
-  },
-  "sparklyballs/dokuwiki": {
-    "ModeratorComment": "While (presumably) still functional, this app has been deprecated in favour of the version of linuxserver.io",
-    "Deprecated": true
   },
   "linuxserver/codiad": {
     "ModeratorComment": "Deprecated as per linuxserver.io",
