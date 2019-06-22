@@ -534,5 +534,9 @@
   "sdesbure/domoticz": {
     "ModeratorComment": "Would possibly be wise to utilize instead the version from linuxserver.io",
     "Deprecated": true
+  },
+  "captinsano/ddclient": {
+    "ModeratorComment": "Generally the unRaid community recommends installing the version from linuxserver.io",
+    "Deprecated": true
   }
 } 
