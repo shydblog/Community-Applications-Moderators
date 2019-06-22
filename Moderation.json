@@ -554,5 +554,9 @@
   "snoopy86/logitechmediaserver": {
     "ModeratorComment": "A more up to date version is available in dlandon's repository",
     "Deprecated": true
+  },
+  "coppit/handbrake": {
+    "ModeratorComment": "A better supported and more up to date app is available from DJoss",
+    "Deprecated": true
   }
 } 
