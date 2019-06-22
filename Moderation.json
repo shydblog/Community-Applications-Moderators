@@ -321,7 +321,7 @@
   },
   "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
     "MaxVer": "6.3.5"
-  }
+  },
   "https://raw.githubusercontent.com/bshakil/unraid-libvirt-usbhotplug/master/plugins/libvirt.hotplug.usb.plg": {
     "DeprecatedMaxVer": "6.5.0-rc4",
     "ModeratorComment": "Deprecated in favour of dlandon's version"
@@ -347,7 +347,7 @@
   "nativedude/plex-requests": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of Ombi"
-  }
+  },
   "https://raw.githubusercontent.com/theone11/virtualbox_plugin/master/virtualbox.plg": {
     "MaxVer": "6.3.5"
   },
