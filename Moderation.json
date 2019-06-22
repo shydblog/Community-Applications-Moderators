@@ -392,7 +392,7 @@
   "zuhkov/observium": {
     "Blacklist": true,
     "ModeratorComment": "Deprecated in favor of uberchuckie's application"
-  }
+  },
   "linuxserver/diskover": {
     "CAComment": "This application requires elasticsearch to be installed."
   },
