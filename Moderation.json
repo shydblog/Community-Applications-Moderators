@@ -530,5 +530,9 @@
   "cmer/seafile": {
     "ModeratorComment": "Deprecated in favour of the official version available within CA",
     "Deprecated": true
+  },
+  "sdesbure/domoticz": {
+    "ModeratorComment": "Would possibly be wise to utilize instead the version from linuxserver.io",
+    "Deprecated": true
   }
 } 
