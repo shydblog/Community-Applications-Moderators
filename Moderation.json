@@ -542,5 +542,13 @@
   "mace/ddclient": {
     "ModeratorComment": "Generally the unRaid community recommends installing the version from linuxserver.io",
     "Deprecated": true 
+  },
+  "dmaxwell/splunk": {
+    "ModeratorComment": "Probably would be best to install the up to date version from Andrew207",
+    "Deprecated": true
+  },
+  "zyphermonkey/splunk": {
+    "ModeratorComment": "Probably would be best to install the up to date version from Andrew207",
+    "Deprecated": true
   }
 } 
