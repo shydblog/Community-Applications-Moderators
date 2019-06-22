@@ -533,5 +533,21 @@
   "linuxserver/sickrage": {
     "ModeratorComment": "Deprecated as per linuxserver.io",
     "Deprecated": true
+  },
+  "captinsano/deluge": {
+   "ModeratorComment": "While still presumably functional, you will be better off installing the version from binhex or linuxserver",
+   "Deprecated": true
+  },
+  "captinsano/koel": {
+    "ModeratorComment": "While still presumably functional, you will be better off installing the version from binhex",
+    "Deprecated": true
+  },
+  "captinsano/rutorrent: {
+   "ModeratorComment": "While still presumably functional, you will be better off installing the version from binhex or linuxserver",
+   "Deprecated": true
+  }, 
+  "captinsano/legacyrutorrent": {
+   "ModeratorComment": "While still presumably functional, you will be better off installing the version from binhex or linuxserver",
+   "Deprecated": true
   }
 } 
