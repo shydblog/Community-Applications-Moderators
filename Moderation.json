@@ -558,8 +558,5 @@
   "coppit/handbrake": {
     "ModeratorComment": "A better supported and more up to date app is available from DJoss",
     "Deprecated": true
-  },
-  "https://raw.githubusercontent.com/olehj/disklocation/master/disklocation-master.plg": {
-    "MaxVer": "6.7.1-rc2"
   }
 } 
