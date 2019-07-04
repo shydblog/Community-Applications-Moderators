@@ -558,5 +558,9 @@
   "coppit/handbrake": {
     "ModeratorComment": "A better supported and more up to date app is available from DJoss",
     "Deprecated": true
+  },
+  "tquinnelly/clamav": {
+    "ModeratorComment": "Deprecated in favour of the ClavAV alpine image from the same author",
+    "Deprecated": true
   }
 } 
