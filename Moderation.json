@@ -562,5 +562,8 @@
   "tquinnelly/clamav": {
     "ModeratorComment": "Deprecated in favour of the ClavAV alpine image from the same author",
     "Deprecated": true
+  },
+  "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.plg": {
+    "CAComment": "There have been reports of incompatibility between this plugin and unRaid 6.7+.  Review the support thread for details"
   }
 } 
