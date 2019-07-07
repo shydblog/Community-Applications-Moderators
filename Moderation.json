@@ -564,6 +564,6 @@
     "Deprecated": true
   },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.plg": {
-    "CAComment": "There have been reports of incompatibility between this plugin and unRaid 6.7+.  Review the support thread for details"
+    "ModeratorComment": "There have been reports of incompatibility between this plugin and unRaid 6.7+.  Review the support thread for details"
   }
 } 
