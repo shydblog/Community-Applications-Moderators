@@ -700,5 +700,9 @@
     "url": "https://github.com/jbreed/docker-templates",
     "name": "jbreed's Repository",
     "profile": "https://forums.unraid.net/profile/92695-jbreed/"
+  },
+  {
+    "url": "https://github.com/selfhosters/unRAID-CA-templates/tree/master/templates",
+    "name": "Datahoarding/Homelab's Repository"
   }
 ]
