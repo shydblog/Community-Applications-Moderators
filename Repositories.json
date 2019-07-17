@@ -704,5 +704,10 @@
   {
     "url": "https://github.com/selfhosters/unRAID-CA-templates/tree/master/templates",
     "name": "Data Hoarding/Homelab's Repository"
+  },
+  {
+    "url": "https://github.com/alturismo/unraid_templates",
+    "name": "alturismo's Repository",
+    "profile": "https://forums.unraid.net/profile/70845-alturismo/"
   }
 ]
