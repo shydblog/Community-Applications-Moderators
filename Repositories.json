@@ -194,7 +194,9 @@
   {
     "name": "Squid's plugin Repository",
     "url":  "https://github.com/Squidly271/plugin-repository",
-    "profile": "https://forums.lime-technology.com/profile/10290-squid/"
+    "profile": "https://forums.lime-technology.com/profile/10290-squid/",
+    "donatelink": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7M7CBCVU732XG",
+    "donatetext": "Buy Andrew a beer"
   },
   {
     "name": "peter_sm's plugin Repository",
