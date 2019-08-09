@@ -710,5 +710,10 @@
     "url": "https://github.com/alturismo/unraid_templates",
     "name": "alturismo's Repository",
     "profile": "https://forums.unraid.net/profile/70845-alturismo/"
+  },
+  {
+    "url": "https://github.com/StevenDTX/unraid-plugin-repository",
+    "name": "StevenD's Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/778-stevend/"
   }
 ]
