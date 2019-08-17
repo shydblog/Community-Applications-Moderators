@@ -564,8 +564,5 @@
   "limetech/plex": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of one of the other Plex containers (linuxserver, binhex, or the official Plex container).  This does not mean that you have to switch to another version of Plex.  Only new installations of this version are blocked."
-  },
-  "https://raw.githubusercontent.com/Mettbrot/unRAID/master/tvheadend.plg": {
-    "MaxVer": "6.6.7"
   }
 } 
