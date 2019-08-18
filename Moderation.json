@@ -567,5 +567,8 @@
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.system.temp.plg": {
     "CAComment": "Note that this plugin will not detect all (or any) temperatures or fan speeds on all combinations of hardware.  This is outside of the author's control"
-  }
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.system.autofan.plg": {
+    "CAComment": "Note that this plugin will not detect all (or any) temperatures or fan speeds on all combinations of hardware.  This is outside of the author's control"
+  }    
 } 
