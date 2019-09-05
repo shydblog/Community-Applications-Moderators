@@ -715,5 +715,10 @@
     "url": "https://github.com/StevenDTX/unraid-plugin-repository",
     "name": "StevenD's Plugin Repository",
     "profile": "https://forums.unraid.net/profile/778-stevend/"
+  },
+  {
+    "url": "https://github.com/Conmyster/unraid-docker-templates",
+    "name": "Conmyster's Repository",
+    "profile": "https://forums.unraid.net/profile/77746-conmyster/"
   }
 ]
