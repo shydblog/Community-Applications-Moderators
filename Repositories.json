@@ -725,5 +725,10 @@
     "url": "https://github.com/kiwimato/nut-influxdb-exporter",
     "name": "Mihai's Repository",
     "profile": "https://forums.unraid.net/profile/89549-mihai/"
+  },
+  {
+    "url": "https://github.com/xthursdayx/docker-templates",
+    "profile": "https://forums.unraid.net/profile/69067-zandrsn/",
+    "name": "zandrsn's Repository"
   }
 ]
