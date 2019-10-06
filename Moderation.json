@@ -577,5 +577,9 @@
   "aptalca/home-automation-bridge": {
     "Deprecated": true,
     "ModeratorComment": "Because author a member of linuxserver, recommended to use the version from linuxserver instead"
+  },
+  "aptalca/docker-rdp-calibre": {
+    "Blacklisted": true,
+    "ModeratorComment": "Highly recommended to switch to the calibre application from linuxserver.io"
   }
 } 
