@@ -730,5 +730,10 @@
     "url": "https://github.com/xthursdayx/docker-templates",
     "profile": "https://forums.unraid.net/profile/69067-zandrsn/",
     "name": "xthursdayx's Repository"
+  },
+  {
+    "url": "https://github.com/metaMMA/metaMMA-Docker-Template",
+    "name": "metaMMA's Repository",
+    "profile": "https://forums.unraid.net/profile/84306-metamma/"
   }
 ]
