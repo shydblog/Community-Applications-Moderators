@@ -380,7 +380,8 @@
     "WebUI": "http://[IP]:[PORT:8080]"
   },
   "https://raw.githubusercontent.com/Squidly271/ca.docker.autostart/master/plugins/ca.docker.autostart.plg": {
-    "DeprecatedMaxVer": "6.5.3"
+    "DeprecatedMaxVer": "6.5.3",
+    "MaxVer": "6.5.3"
   },
   "jasonbean/guacamole": {
     "CAComment": "Default username and password is guacadmin"
