@@ -585,5 +585,8 @@
   "metmma/metamma": {
     "Blacklist": true,
     "ModeratorComment": "Repository does not exist"
+  },
+  "https://raw.githubusercontent.com/limetech/Unraid.net/master/Unraid.net.plg": {
+    "Blacklist": true
   }
 } 
