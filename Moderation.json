@@ -588,5 +588,11 @@
   },
   "https://raw.githubusercontent.com/limetech/Unraid.net/master/Unraid.net.plg": {
     "Blacklist": true
-  }
+  },
+  "https://raw.githubusercontent.com/Waseh/rclone-unraid/master/plugin/rclone.plg": {
+    "ModeratorComment": "This plugin is incompatible with 6.8.0-rc1+ unless you run an additional command.  See <a href='https://forums.unraid.net/topic/51633-plugin-rclone/page/22/?tab=comments#comment-780371'>here</a> for details"
+  },
+  "https://raw.githubusercontent.com/Waseh/rclone-unraid/beta/plugin/rclone.plg": {
+    "ModeratorComment": "This plugin is incompatible with 6.8.0-rc1+ unless you run an additional command.  See <a href='https://forums.unraid.net/topic/51633-plugin-rclone/page/22/?tab=comments#comment-780371'>here</a> for details"
+  }    
 } 
