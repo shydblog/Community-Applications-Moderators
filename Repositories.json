@@ -730,5 +730,10 @@
     "url": "https://github.com/xthursdayx/docker-templates",
     "profile": "https://forums.unraid.net/profile/69067-zandrsn/",
     "name": "xthursdayx's Repository"
+  },
+  {
+    "url": "https://github.com/d8sychain/docker-mediawiki",
+    "profile": "https://forums.unraid.net/profile/72950-d8sychain/",
+    "name": "d8sychain's Repository"
   }
 ]
