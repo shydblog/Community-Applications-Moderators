@@ -13,6 +13,7 @@ Blacklisted - True/False
 DeprecatedMaxVer - unRaid version that the template gets deprecated when on.
 ModeratorComment - a comment to place within the app.  Also triggers warning on FCP
 CAComment - a comment to place within the app.  Will NOT trigger a warning on FCP
+RemoveFromCA - completely removes the template.  Does not trigger a deprecation or blacklist
 
   Note that both MinVer and MaxVer do not have to be present
 
