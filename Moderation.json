@@ -581,7 +581,7 @@
   "aptalca/docker-rdp-calibre": {
     "Deprecated": true,
     "ModeratorComment": "Highly recommended to switch to the calibre application from linuxserver.io"
-  }
+  },
   "https://raw.githubusercontent.com/limetech/Unraid.net/master/Unraid.net.plg": {
     "RemoveFromCA": true
   },
