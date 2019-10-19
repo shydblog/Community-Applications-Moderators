@@ -588,5 +588,9 @@
   },
   "https://raw.githubusercontent.com/limetech/Unraid.net/master/Unraid.net.plg": {
     "Blacklist": true
-}
+  },
+  "anojht/invoiceninja": {
+    "Blacklist": true,
+    "ModeratorComment": "Doesn't appear to work, zero support"
+  }
 } 
