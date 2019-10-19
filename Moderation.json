@@ -581,16 +581,11 @@
   "aptalca/docker-rdp-calibre": {
     "Deprecated": true,
     "ModeratorComment": "Highly recommended to switch to the calibre application from linuxserver.io"
-  },
-  "metmma/metamma": {
-    "Blacklist": true,
-    "ModeratorComment": "Repository does not exist"
-  },
+  }
   "https://raw.githubusercontent.com/limetech/Unraid.net/master/Unraid.net.plg": {
-    "Blacklist": true
+    "RemoveFromCA": true
   },
   "anojht/invoiceninja": {
-    "Blacklist": true,
-    "ModeratorComment": "Doesn't appear to work, zero support"
+    "RemoveFromCA": true
   }
 } 
