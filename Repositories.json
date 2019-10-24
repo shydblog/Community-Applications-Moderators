@@ -735,5 +735,10 @@
     "url": "https://github.com/d8sychain/docker-mediawiki",
     "profile": "https://forums.unraid.net/profile/72950-d8sychain/",
     "name": "d8sychain's Repository"
+  },
+  {
+    "url": "https://github.com/Dimtar/unraidtemplates",
+    "profile": "https://forums.unraid.net/profile/7694-dimtar/",
+    "name": "dimtar's Repository"
   }
 ]
