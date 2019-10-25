@@ -740,5 +740,10 @@
     "url": "https://github.com/Dimtar/unraidtemplates",
     "profile": "https://forums.unraid.net/profile/7694-dimtar/",
     "name": "dimtar's Repository"
+  },
+  {
+    "url": "https://github.com/SpaceinvaderOne/Docker-Templates-Unraid",
+    "profile": "https://forums.unraid.net/profile/67288-spaceinvaderone/",
+    "name": "SpaceInvaderOne's Repository"
   }
 ]
