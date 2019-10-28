@@ -587,5 +587,8 @@
   },
   "anojht/invoiceninja": {
     "RemoveFromCA": true
+  },
+  "spaceinvaderone/macinabox": {
+    "MinVer": "6.7.0"
   }
 } 
