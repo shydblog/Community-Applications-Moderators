@@ -590,5 +590,8 @@
   },
   "spaceinvaderone/macinabox": {
     "MinVer": "6.7.0"
+  },
+  "https://raw.githubusercontent.com/kubedzero/unraid-snmp/master/snmp.plg": {
+    "ModeratorComment": "Due to how this plugin is currently designed, it requires a reinstall whenever you reboot your server"
   }
 } 
