@@ -749,5 +749,10 @@
   {
     "url": "https://github.com/d8ahazard/unraid-repository",
     "name": "d8ahazard's Repository"
+  },
+  {
+    "url": "https://github.com/JasonHHouse/Gaps",
+    "name": "Knoxie89's Repository",
+    "profile": "https://forums.unraid.net/profile/78069-knoxie89/"
   }
 ]
