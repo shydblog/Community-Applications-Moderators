@@ -558,9 +558,6 @@
     "ModeratorComment": "Deprecated in favour of the ClavAV alpine image from the same author",
     "Deprecated": true
   },
-  "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.plg": {
-    "ModeratorComment": "There have been reports of incompatibility between this plugin and unRaid 6.7+.  Review the support thread for details"
-  },
   "limetech/plex": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of one of the other Plex containers (linuxserver, binhex, or the official Plex container).  This does not mean that you have to switch to another version of Plex.  Only new installations of this version are blocked."
