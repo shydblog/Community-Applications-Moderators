@@ -764,5 +764,10 @@
     "url": "https://github.com/AMJidovu/unraid-repository",
     "name": "Jidovu Marius Adrian's Repository",
     "profile": "https://forums.unraid.net/profile/86478-jidovu-marius-adrian/"
+  },
+  {
+    "url": "https://github.com/wbynum/docker-templates",
+    "name": "Aggie1999's Repository",
+    "profile": "https://forums.unraid.net/profile/97630-aggie1999/"
   }
 ]
