@@ -769,5 +769,10 @@
     "url": "https://github.com/wbynum/docker-templates",
     "name": "Aggie1999's Repository",
     "profile": "https://forums.unraid.net/profile/97630-aggie1999/"
+  },
+  {
+    "url": "https://github.com/frakman1/docker-templates",
+    "name": "frakman1's Repository",
+    "profile": "https://forums.unraid.net/profile/96005-frakman1"
   }
 ]
