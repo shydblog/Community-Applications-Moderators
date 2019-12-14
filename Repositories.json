@@ -773,6 +773,14 @@
   {
     "url": "https://github.com/frakman1/docker-templates",
     "name": "frakman1's Repository",
-    "profile": "https://forums.unraid.net/profile/96005-frakman1"
+    "profile": "https://forums.unraid.net/profile/96005-frakman1",
+    "duplicated": {
+      "gitlab/gitlab-ce": true,
+      "tynor88/rclone-mount:dev": true,
+      "tynor88/rclone:dev": true,
+      "tynor88/socat": true,
+      "tynor88/unoeuro-dns": true
+    }
+      
   }
 ]
