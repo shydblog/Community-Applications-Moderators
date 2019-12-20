@@ -780,7 +780,11 @@
       "tynor88/rclone:dev": true,
       "tynor88/socat": true,
       "tynor88/unoeuro-dns": true
-    }
-      
+    } 
+  },
+  {
+    "url": "https://github.com/ElectricBrainUK/docker-templates",
+    "name": "ElectricBrainUK's Repository",
+    "profile": "https://forums.unraid.net/profile/98185-electricbrainuk"
   }
 ]
