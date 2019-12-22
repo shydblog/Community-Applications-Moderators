@@ -786,5 +786,10 @@
     "url": "https://github.com/ElectricBrainUK/docker-templates",
     "name": "ElectricBrainUK's Repository",
     "profile": "https://forums.unraid.net/profile/98185-electricbrainuk"
+  },
+  {
+    "url": "https://github.com/JTok/unraid-plugins",
+    "name": "JTok's Plugin Repository",
+    "profile": " https://forums.unraid.net/profile/75269-jtok/"
   }
 ]
