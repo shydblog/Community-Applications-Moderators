@@ -704,7 +704,10 @@
   },
   {
     "url": "https://github.com/selfhosters/unRAID-CA-templates",
-    "name": "Selfhosters Unraid Discord Repository"
+    "name": "Selfhosters Unraid Discord Repository",
+    "duplicated": {
+      "hotio/plex": true
+    }
   },
   {
     "url": "https://github.com/alturismo/unraid_templates",
