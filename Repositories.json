@@ -791,5 +791,10 @@
     "url": "https://github.com/JTok/unraid-plugins",
     "name": "JTok's Plugin Repository",
     "profile": " https://forums.unraid.net/profile/75269-jtok/"
+  },
+  {
+    "url": "https://github.com/hotio/unraid-templates",
+    "name": "hotio's Repository",
+    "profile": "https://forums.unraid.net/profile/94356-hotio"
   }
 ]
