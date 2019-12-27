@@ -590,5 +590,9 @@
   },
   "https://raw.githubusercontent.com/kubedzero/unraid-snmp/master/snmp.plg": {
     "ModeratorComment": "Due to how this plugin is currently designed, it requires a reinstall whenever you reboot your server"
+  },
+  "hotio/plex": {
+    "RemoveFromCA": true,
+    "ModeratorComment": "How many Plex's do you need!?!?"
   }
 } 
