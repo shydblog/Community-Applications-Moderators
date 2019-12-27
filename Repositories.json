@@ -706,7 +706,9 @@
     "url": "https://github.com/selfhosters/unRAID-CA-templates",
     "name": "Selfhosters Unraid Discord Repository",
     "duplicated": {
-      "hotio/plex": true
+      "hotio/plex": true,
+      "hotio/cloudflare-ddns": true,
+      "hotio/hddtemp2influxdb": true
     }
   },
   {
