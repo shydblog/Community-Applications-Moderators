@@ -801,5 +801,10 @@
     "url": "https://github.com/hotio/unraid-templates",
     "name": "hotio's Repository",
     "profile": "https://forums.unraid.net/profile/94356-hotio"
+  },
+  {
+    "url": "https://github.com/CyanLabs/unraid-plugins",
+    "name": "Fma965's Repository",
+    "profile": "https://forums.unraid.net/profile/72406-fma965/"
   }
 ]
