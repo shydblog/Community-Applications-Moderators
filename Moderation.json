@@ -590,5 +590,11 @@
   },
   "https://raw.githubusercontent.com/kubedzero/unraid-snmp/master/snmp.plg": {
     "ModeratorComment": "Due to how this plugin is currently designed, it requires a reinstall whenever you reboot your server"
+  },
+  "https://raw.githubusercontent.com/Fma965/corsairpsu-unraid/master/corsairpsu.plg": {
+    "CAComment": "Note that this plugin is for the intelligent series of power supplies from Corsair.  Not all power supplies will work"
+  },
+  "https://raw.githubusercontent.com/Fma965/corsairpsu-unraid/master/corsairpsu-beta.plg": {
+    "CAComment": "Note that this plugin is for the intelligent series of power supplies from Corsair.  Not all power supplies will work"
   }
 } 
