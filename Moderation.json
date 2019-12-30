@@ -596,5 +596,8 @@
   },
   "https://raw.githubusercontent.com/Fma965/corsairpsu-unraid/master/corsairpsu-beta.plg": {
     "CAComment": "Note that this plugin is for the intelligent series of power supplies from Corsair.  Not all power supplies will work"
+  },
+  "https://raw.githubusercontent.com/Cyanlabs/jsonapi-unraid/master/jsonapi.plg": {
+    "MaxVer": "6.7.9"
   }
 } 
