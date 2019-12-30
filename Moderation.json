@@ -599,5 +599,9 @@
   },
   "https://raw.githubusercontent.com/Cyanlabs/jsonapi-unraid/master/jsonapi.plg": {
     "MaxVer": "6.7.9"
+  },
+  "linuxserver/tt-rss": {
+    "Blacklist": true
+    "ModeratorComment": "Repository no longer available"
   }
 } 
