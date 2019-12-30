@@ -601,7 +601,7 @@
     "MaxVer": "6.7.9"
   },
   "linuxserver/tt-rss": {
-    "Blacklist": true
+    "Blacklist": true,
     "ModeratorComment": "Repository no longer available"
   }
 } 
