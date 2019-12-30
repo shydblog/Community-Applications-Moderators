@@ -351,7 +351,7 @@
     "ModeratorComment": "Deprecated in favour of Ombi"
   },
   "https://raw.githubusercontent.com/theone11/virtualbox_plugin/master/virtualbox.plg": {
-    "MaxVer": "6.3.5"
+    "RemoveFromCA": true
   },
   "https://raw.githubusercontent.com/Squidly271/ransomware.bait/master/plugins/newransomware.bait.plg": {
     "Deprecated": true
