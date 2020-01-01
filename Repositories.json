@@ -360,7 +360,10 @@
     "name": "atribe's Repository",
     "url": "https://github.com/atribe/unRAID-docker",
     "forum": "https://lime-technology.com/forum/index.php?topic=51498.0",
-    "profile": "https://forums.lime-technology.com/profile/70671-atribe/"
+    "profile": "https://forums.lime-technology.com/profile/70671-atribe/",
+    "duplicated": {
+      "hexparrot/mineos:latest": true
+    }
   },
   {
     "name": "Kru-X's Repository",
