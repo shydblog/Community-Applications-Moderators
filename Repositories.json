@@ -809,5 +809,10 @@
     "url": "https://github.com/CyanLabs/unraid-plugins",
     "name": "Fma965's Repository",
     "profile": "https://forums.unraid.net/profile/72406-fma965/"
+  },
+  {
+    "url": "https://github.com/Skitals/unraid-ca-templates",
+    "name": "Skitals Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/97624-skitals/"
   }
 ]
