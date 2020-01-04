@@ -603,5 +603,8 @@
   "linuxserver/tt-rss": {
     "Blacklist": true,
     "ModeratorComment": "Repository no longer available"
+  },
+  "https://raw.githubusercontent.com/ljm42/unraid-upnp/master/plugins/upnp-monitor.plg": {
+    "CAComment": "This plugin also requires the Dynamix Wireguard plugin to be installed"
   }
 } 
