@@ -321,6 +321,10 @@
     "Blacklist": true,
     "ModeratorComment": "Effective duplicate of same app just different base OS"
   },
+  "mccloud/ps3netsrv:alpine": {
+    "Deprecated": true,
+    "ModeratorComment": "Very out of date application and better alternatives available via a dockerHub search"
+  },
   "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
     "MaxVer": "6.3.5"
   },
