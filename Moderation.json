@@ -615,5 +615,9 @@
   "xamindar/syncthing": {
     "Deprecated": true,
     "ModeratorComment": "Very out of date, and an up to date version is available from linuxserver"
+  },
+  "xamindar/quassel-core": {
+    "Deprecated": true,
+    "ModeratorComment": "Very out of date, and an up to date version is available from linuxserver"
   }
 } 
