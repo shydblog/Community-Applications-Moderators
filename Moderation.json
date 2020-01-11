@@ -611,5 +611,9 @@
   "mprasil/bitwarden": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favor of the bitwarden-rs application available within Apps"
+  },
+  "xamindar/syncthing": {
+    "Deprecated": true,
+    "ModeratorComment": "Very out of date, and an up to date version is available from linuxserver"
   }
 } 
