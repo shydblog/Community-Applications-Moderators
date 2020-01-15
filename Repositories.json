@@ -824,5 +824,10 @@
     "url": "https://github.com/dcflachs/plugin-repository",
     "name": "primeval_god's Plugin Repository",
     "profile": "https://forums.unraid.net/profile/63584-primeval_god/"
+  },
+  {
+    "url": "https://github.com/CyaOnDaNet/unraid-templates",
+    "name": "CyaOnDaNet's Repository",
+    "profile": "https://forums.unraid.net/profile/100638-cyaondanet/"
   }
 ]
