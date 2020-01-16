@@ -619,5 +619,8 @@
   "xamindar/quassel-core": {
     "Deprecated": true,
     "ModeratorComment": "Very out of date, and an up to date version is available from linuxserver"
+  },
+  "huxy/xmltv-sd-json": {
+    "CAComment": "While still functional, the author no longer utilizes this application so support may not be forthcoming"
   }
 } 
