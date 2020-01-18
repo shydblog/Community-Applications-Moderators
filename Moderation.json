@@ -628,5 +628,8 @@
   },
   "https://raw.githubusercontent.com/Squidly271/gui-links/master/plugins/gui-links.plg": {
     "Recommended": false
+  },
+  "jbartlett777/diskspeed": {
+    "Recommended": true
   }
 } 
