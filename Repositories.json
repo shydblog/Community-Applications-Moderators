@@ -30,22 +30,6 @@
     "profile": "https://forums.lime-technology.com/profile/40599-captinsano/"
   },
   {
-    "name": "Sparklyballs' Repository",
-    "url": "https://github.com/sparklyballs/docker-repo/tree/templates",
-    "forum": "http://lime-technology.com/forum/index.php?topic=37209.0",
-    "profile": "https://forums.lime-technology.com/profile/23888-sparklyballs/",
-    "RepoComment": "Deprecated due to no support, most likely does not operate correctly",
-    "Deprecated": true
-  },
-  {
-    "name": "Sparklyballs' Beta Repository",
-    "url": "https://github.com/sparklyballs/beta-repo",
-    "forum": "http://lime-technology.com/forum/index.php?topic=38232.0",
-    "profile": "https://forums.lime-technology.com/profile/23888-sparklyballs/",
-    "RepoComment": "Deprecated due to no support, most likely does not operate correctly",    
-    "Deprecated": true
-  },
-  {
     "name": "Balloob's Repository",
     "url": "https://github.com/balloob/unraid-docker-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=36535",
@@ -57,22 +41,6 @@
     "forum": "http://lime-technology.com/forum/index.php?topic=45811.0",
     "profile": "https://forums.lime-technology.com/profile/11148-binhex/",
     "recommended": true
-  },
-  {
-    "name": "Zuhkov's Repository",
-    "url": "https://github.com/Zuhkov/docker-containers/tree/templates",
-    "forum": "http://lime-technology.com/forum/index.php?topic=38410.0",
-    "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/",
-    "RepoComment": "Deprecated due to no support, most likely does not operate correctly",
-    "Deprecated": true
-  },
-  {
-    "name": "Zuhkov's Beta Repository",
-    "url": "https://github.com/Zuhkov/docker-containers/tree/beta-templates",
-    "forum": "http://lime-technology.com/forum/index.php?topic=38410.0",
-    "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/",
-    "RepoComment": "Deprecated due to no support, most likely does not operate correctly",
-    "Deprecated": true
   },
   {
     "name": "Spants' Repository",
