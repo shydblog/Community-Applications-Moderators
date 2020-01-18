@@ -623,9 +623,6 @@
   "huxy/xmltv-sd-json": {
     "CAComment": "While still functional, the author no longer utilizes this application so support may not be forthcoming"
   },
-  "https://raw.githubusercontent.com/Squidly271/ca.backup2/master/plugins/ca.backup2.plg": {
-    "Recommended": false
-  },
   "https://raw.githubusercontent.com/Squidly271/ca.turbo/master/plugins/ca.turbo.plg": {
     "Recommended": false
   },
