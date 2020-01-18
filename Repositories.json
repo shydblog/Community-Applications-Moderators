@@ -208,7 +208,8 @@
     "donatelink": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TXFVJQVYZRBBU&lc=SE&item_name=openvpn&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted",
     "donateimg": "https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif",
     "donatetext": "I'm out of beer",
-    "profile": "https://forums.lime-technology.com/profile/1297-peter_sm/"
+    "profile": "https://forums.lime-technology.com/profile/1297-peter_sm/",
+    "recommended": true
   },
   {
     "name": "Dynamix plugin Repository",
@@ -257,7 +258,8 @@
   {
     "name": "SlrG's plugin Repository",
     "url":  "https://github.com/SlrG/unRAID",
-    "profile": "https://forums.lime-technology.com/profile/16166-slrg/"
+    "profile": "https://forums.lime-technology.com/profile/16166-slrg/",
+    "recommended": true
   },
   {
     "name": "Emby Repository",
