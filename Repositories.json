@@ -407,7 +407,8 @@
   {
     "name": "cheesemarathon's Repository",
     "url": "https://github.com/cheesemarathon/docker-templates",
-    "profile": "https://forums.lime-technology.com/profile/70291-cheesemarathon/"
+    "profile": "https://forums.lime-technology.com/profile/70291-cheesemarathon/",
+    "recommended": true
   },
   {
     "name": "Taddeusz' Repository",
@@ -426,7 +427,8 @@
   {
     "name": "clowrym's Repository",
     "url": "https://github.com/clowrym/docker-templates",
-    "profile": "https://forums.lime-technology.com/profile/26570-clowrym/"
+    "profile": "https://forums.lime-technology.com/profile/26570-clowrym/",
+    "recommended": true
   },
   {
     "url": "https://github.com/brettm357/docker-templates",
