@@ -385,12 +385,14 @@
   {
     "name": "jbrodriguez's plugin Repository",
     "url":  "https://github.com/jbrodriguez/unraid",
-    "profile": "https://forums.lime-technology.com/profile/593-jbrodriguez/"
+    "profile": "https://forums.lime-technology.com/profile/593-jbrodriguez/",
+    "Recommended": true
   },
   {
     "name": "Waseh's plugin Repository",
     "url": "https://github.com/Waseh/unraidtemplates",
-    "profile": "https://forums.lime-technology.com/profile/5193-waseh/"
+    "profile": "https://forums.lime-technology.com/profile/5193-waseh/",
+    "Recommended": true
   },
   {
     "name": "Uirel's Repository",
