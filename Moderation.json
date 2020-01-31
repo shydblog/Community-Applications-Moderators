@@ -631,5 +631,11 @@
   },
   "jbartlett777/diskspeed": {
     "Recommended": true
+  },
+  "https://raw.githubusercontent.com/dmacias72/unRAID-DevPack/master/plugin/DevPack.plg": {
+    "CAComment": "Only advanced users should consider installing this"
+  },
+  "https://raw.githubusercontent.com/dmacias72/unRAID-NerdPack/master/plugin/NerdPack.plg": {
+    "CAComment": "Only advanced users should consider installing this"
   }
 } 
