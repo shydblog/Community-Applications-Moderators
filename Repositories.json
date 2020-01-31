@@ -804,8 +804,7 @@
   {
     "url": "https://github.com/Skitals/unraid-ca-templates",
     "name": "Skitals Plugin Repository",
-    "profile": "https://forums.unraid.net/profile/97624-skitals/",
-    "recommended": true
+    "profile": "https://forums.unraid.net/profile/97624-skitals/"
   },
   {
     "url": "https://github.com/ljm42/unraid-templates",
