@@ -645,5 +645,9 @@
   "ninthwalker/dashbtn": {
     "ModeratorComment": "Reported this application is not functional.  See <a href='https://forums.unraid.net/topic/55444-support-ninthwalker-docker-repository-plexreport-slack-invite-dashbtn/page/2/?tab=comments#comment-811428'>here</a>",
     "Deprecated": true
+  },
+  "rix1337/docker-jottacloud": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerhub"
   }
 } 
