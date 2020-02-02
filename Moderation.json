@@ -311,19 +311,19 @@
   },
   "mccloud/ps3netsrv:debian": {
     "Blacklist": true,
-    "ModeratorComment": "Effective duplicate of same app just different base OS"
+    "ModeratorComment": "Dockerhub tag no longer available"
   },
   "mccloud/ps3netsrv:ubuntu": {
     "Blacklist": true,
-    "ModeratorComment": "Effective duplicate of same app just different base OS"
+    "ModeratorComment": "Dockerhub tag no longer available"
   },
   "mccloud/ps3netsrv:phusion": {
     "Blacklist": true,
-    "ModeratorComment": "Effective duplicate of same app just different base OS"
+    "ModeratorComment": "Dockerhub tag no longer available"
   },
   "mccloud/ps3netsrv:alpine": {
-    "Deprecated": true,
-    "ModeratorComment": "Very out of date application and better alternatives available via a dockerHub search"
+    "Blacklist": true,
+    "ModeratorComment": "Dockerhub tag no longer available"
   },
   "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
     "MaxVer": "6.3.5"
