@@ -649,5 +649,9 @@
   "rix1337/docker-jottacloud": {
     "Blacklist": true,
     "ModeratorComment": "No longer available on dockerhub"
+  },
+  "https://raw.githubusercontent.com/Skitals/unraid-dark-plugin/master/plugins/dark.theme.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the theme engine plugin"
   }
 } 
