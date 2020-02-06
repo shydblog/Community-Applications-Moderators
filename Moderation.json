@@ -653,5 +653,8 @@
   "https://raw.githubusercontent.com/Skitals/unraid-dark-plugin/master/plugins/dark.theme.plg": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of the theme engine plugin"
+  },
+  "https://raw.githubusercontent.com/limetech/sysdream/master/sysdream.plg": {
+    "Recommended": true
   }
 } 
