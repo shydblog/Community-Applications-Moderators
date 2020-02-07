@@ -655,6 +655,7 @@
     "ModeratorComment": "Deprecated in favour of the theme engine plugin"
   },
   "https://raw.githubusercontent.com/limetech/sysdream/master/sysdream.plg": {
-    "Recommended": true
+    "Recommended": true,
+    "Support": "https://forums.unraid.net/topic/88253-critical-security-vulnerabilies-discovered/"
   }
 } 
