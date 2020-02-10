@@ -816,5 +816,10 @@
     "url": "https://github.com/CyaOnDaNet/unraid-templates",
     "name": "CyaOnDaNet's Repository",
     "profile": "https://forums.unraid.net/profile/100638-cyaondanet/"
+  },
+  {
+    "url": "https://github.com/A75G/docker-templates",
+    "name": "A75G's Repository",
+    "profile": "https://forums.unraid.net/profile/92683-a75g/"
   }
 ]
