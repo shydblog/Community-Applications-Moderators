@@ -659,7 +659,7 @@
     "Blacklist": true,
     "ModeratorComment": "Reports have surfaced that crypto mining software has been embedded in this container"
   },
-  "mccloud/ps3netsrv:latest": 
+  "mccloud/ps3netsrv:latest": {
     "Blacklist": true,
     "ModeratorComment": "Reports have surfaced that crypto mining software has been embedded in this container"
   } 
