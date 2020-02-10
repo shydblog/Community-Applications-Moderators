@@ -654,5 +654,13 @@
   "https://raw.githubusercontent.com/limetech/sysdream/master/sysdream.plg": {
     "Recommended": true,
     "Support": "https://forums.unraid.net/topic/88253-critical-security-vulnerabilies-discovered/"
-  }
+  },
+  "mccloud/ps3netsrv": {
+    "Blacklist": true,
+    "ModeratorComment": "Reports have surfaced that crypto mining software has been embedded in this container"
+  },
+  "mccloud/ps3netsrv:latest": 
+    "Blacklist": true,
+    "ModeratorComment": "Reports have surfaced that crypto mining software has been embedded in this container"
+  } 
 } 
