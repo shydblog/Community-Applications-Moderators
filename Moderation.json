@@ -659,5 +659,8 @@
   "mccloud/ps3netsrv:latest": {
     "Blacklist": true,
     "ModeratorComment": "Reports have surfaced that crypto mining software has been embedded in this container"
-  } 
+  },
+  "bitwardenrs/server": {
+    "Recommended": true
+  }
 } 
