@@ -583,9 +583,6 @@
   "https://raw.githubusercontent.com/limetech/Unraid.net/master/Unraid.net.plg": {
     "RemoveFromCA": true
   },
-  "anojht/invoiceninja": {
-    "RemoveFromCA": true
-  },
   "spaceinvaderone/macinabox": {
     "MinVer": "6.7.0"
   },
