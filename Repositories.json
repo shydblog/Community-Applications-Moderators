@@ -254,7 +254,9 @@
     "name": "dexn's Repository",
     "url":  "https://github.com/dexn/docker-templates",
     "forum": "https://lime-technology.com/forum/index.php?topic=37859.0",
-    "profile": "https://forums.lime-technology.com/profile/10981-dexn/"
+    "profile": "https://forums.lime-technology.com/profile/10981-dexn/",
+    "Blacklist": true,
+    "RepoComment": "Blacklisted because author's repository has been hacked an now applications have crypto mining software embedded within"
   },
   {
     "name":  "magmpzero's Repository",
