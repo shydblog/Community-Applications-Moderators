@@ -615,7 +615,10 @@
   {
     "url": "https://github.com/maschhoff/docker",
     "name": "knex666's Repository",
-    "profile": "https://forums.unraid.net/profile/71048-knex666/"
+    "profile": "https://forums.unraid.net/profile/71048-knex666/",
+    "duplicated": {
+      "adolfintel/speedtest": true
+    }
   },
   {
     "url": "https://github.com/MobiusNine/docker-templates",
