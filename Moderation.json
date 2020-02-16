@@ -663,9 +663,6 @@
   "bitwardenrs/server": {
     "Recommended": true
   },
-  "https://raw.githubusercontent.com/dorgan/Unraid-networkstats/master/networkstats.plg": {
-    "ModeratorComment": "Currently this plugin does not install correctly.  If you already have it installed, it is advised to not update it.  Eventually, this plugin may be listed as being incompatible"
-  },
   "storjlabs/storagenode:alpha": {
     "RemoveFromCA": true
   }
