@@ -175,8 +175,7 @@
     "donatelink": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=TXFVJQVYZRBBU&lc=SE&item_name=openvpn&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted",
     "donateimg": "https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif",
     "donatetext": "I'm out of beer",
-    "profile": "https://forums.lime-technology.com/profile/1297-peter_sm/",
-    "recommended": true
+    "profile": "https://forums.lime-technology.com/profile/1297-peter_sm/"
   },
   {
     "name": "Dynamix plugin Repository",
@@ -188,8 +187,7 @@
   {
     "name": "gfjardim's plugin Repository",
     "url": "https://github.com/gfjardim/unRAID-plugins/tree/templates",
-    "profile": "https://forums.lime-technology.com/profile/1694-gfjardim/",
-    "recommended": true
+    "profile": "https://forums.lime-technology.com/profile/1694-gfjardim/"
   },
   {
     "name": "bb12489's Repository",
@@ -204,8 +202,7 @@
   {
     "name": "dmacias' plugin Repository",
     "url":  "https://github.com/dmacias72/unRAID-CA",
-    "profile": "https://forums.lime-technology.com/profile/11874-dmacias/",
-    "recommended": true
+    "profile": "https://forums.lime-technology.com/profile/11874-dmacias/"
   },
   {
     "name": "theone's plugin Repository",
@@ -225,8 +222,7 @@
   {
     "name": "SlrG's plugin Repository",
     "url":  "https://github.com/SlrG/unRAID",
-    "profile": "https://forums.lime-technology.com/profile/16166-slrg/",
-    "recommended": true
+    "profile": "https://forums.lime-technology.com/profile/16166-slrg/"
   },
   {
     "name": "Emby Repository",
@@ -362,8 +358,7 @@
   {
     "name": "Waseh's plugin Repository",
     "url": "https://github.com/Waseh/unraidtemplates",
-    "profile": "https://forums.lime-technology.com/profile/5193-waseh/",
-    "recommended": true
+    "profile": "https://forums.lime-technology.com/profile/5193-waseh/"
   },
   {
     "name": "Uirel's Repository",
@@ -548,8 +543,7 @@
   {
     "url": "https://github.com/dorgan/unraid-templates",
     "name": "dorgan's Plugin Repository",
-    "profile": "https://forums.unraid.net/profile/78375-dorgan/",
-    "recommended": true
+    "profile": "https://forums.unraid.net/profile/78375-dorgan/"
   },
   {
     "name": "rix's Repository",
@@ -598,8 +592,7 @@
   {
     "url": "https://github.com/olehj/disklocation-ca",
     "name": "olehj's Plugin Repository",
-    "profile": "https://forums.unraid.net/profile/86216-olehj/",
-    "recommended": true
+    "profile": "https://forums.unraid.net/profile/86216-olehj/"
   },
   {
     "url": "https://github.com/GregYankovoy/docker-templates",
