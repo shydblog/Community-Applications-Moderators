@@ -181,13 +181,13 @@
     "name": "Dynamix plugin Repository",
     "url":  "https://github.com/bergware/dynamix-plugins",
     "forum":  "http://lime-technology.com/forum/index.php?topic=36543.0",
-    "profile": "https://forums.lime-technology.com/profile/2736-bonienl/",
-    "recommended": true
+    "profile": "https://forums.lime-technology.com/profile/2736-bonienl/"
   },
   {
     "name": "gfjardim's plugin Repository",
     "url": "https://github.com/gfjardim/unRAID-plugins/tree/templates",
-    "profile": "https://forums.lime-technology.com/profile/1694-gfjardim/"
+    "profile": "https://forums.lime-technology.com/profile/1694-gfjardim/",
+    "recommended": true
   },
   {
     "name": "bb12489's Repository",
