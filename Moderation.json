@@ -670,24 +670,24 @@
     "ModeratorComment": "Background checks do not run when using unRaid 6.8+.  Manual checking of integrity does work fine"
   },
   "hotio/radarr": {
-    "recommended": false
+    "Recommended": false
   },
   "hotio/sonarr": {
-    "recommended": false
+    "Recommended": false
   },
   "hotio/sabnzbd": {
-    "recommended": false
+    "Recommended": false
   },
   "hotio/plex": {
-    "recommended": false
+    "Recommended": false
   },
   "hotio/nzbget": {
-    "recommended": false
+    "Recommended": false
   },
   "hotio/jackett": {
-    "recommended": false
+    "Recommended": false
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg": {
-    "recommended": true
+    "Recommended": true
   }
 } 
