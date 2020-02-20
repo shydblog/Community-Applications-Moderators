@@ -686,5 +686,8 @@
   },
   "hotio/jackett": {
     "recommended": false
-  }  
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg": {
+    "recommended": true
+  }
 } 
