@@ -785,7 +785,8 @@
   {
     "url": "https://github.com/hotio/unraid-templates",
     "name": "hotio's Repository",
-    "profile": "https://forums.unraid.net/profile/94356-hotio"
+    "profile": "https://forums.unraid.net/profile/94356-hotio",
+    "recommended": true
   },
   {
     "url": "https://github.com/CyanLabs/unraid-plugins",
