@@ -689,8 +689,5 @@
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg": {
     "Recommended": true
-  },
-  "https://raw.githubusercontent.com/olehj/disklocation/master/disklocation-master.plg": {
-    "CAComment": "This plugin may cause excessive writes to your flash drive to happen"
   }
 } 
