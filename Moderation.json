@@ -689,5 +689,9 @@
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg": {
     "Recommended": true
+  },
+  "linuxserver/organizr": {
+    "Deprecated": true,
+    "ModeratorComment": "Application itself is deprecated by the author, and is recommended by them to switch to OrganizrV2"
   }
 } 
