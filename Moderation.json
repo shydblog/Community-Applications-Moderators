@@ -692,6 +692,6 @@
   },
   "linuxserver/organizr": {
     "Deprecated": true,
-    "ModeratorComment": "Application itself is deprecated by the author, and is recommended by them to switch to OrganizrV2"
+    "ModeratorComment": "Application itself is deprecated by the author, and is recommended by them to switch to OrganizrV2.  However since there is no official method of switching from v1 to v2 if you're not having any issues you may wish to continue using this existing application"
   }
 } 
