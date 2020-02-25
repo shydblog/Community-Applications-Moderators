@@ -701,5 +701,9 @@
   "mlebjerg/steamcachebundle": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of the lan cache bundle by Josh.5"
+  },
+  "aptalca/docker-calibre": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the calibre applications from LinuxServer.io"
   }
 } 
