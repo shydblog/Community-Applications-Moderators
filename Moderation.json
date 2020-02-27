@@ -570,7 +570,7 @@
     "CAComment": "Note that this plugin will not detect all (or any) temperatures or fan speeds on all combinations of hardware.  This is outside of the author's control"
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.s3.sleep.plg": {
-    "CAComment": "Note that this plugin does not work with all combinations of hardware.  Additionally, it appears that the latest version is non-operational.  It may soon become blacklisted"
+    "CAComment": "Note that this plugin does not work with all combinations of hardware.  Additionally, it appears under this plugin will not automatically sleep your server when there is no disk activity.  Manually sleeping your server will work."
   },
   "aptalca/home-automation-bridge": {
     "Deprecated": true,
