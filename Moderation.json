@@ -705,5 +705,8 @@
   "aptalca/docker-calibre": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of the calibre applications from LinuxServer.io"
+  },
+  "gfjardim/cups": {
+    "RemoveFromCA": true
   }
 } 
