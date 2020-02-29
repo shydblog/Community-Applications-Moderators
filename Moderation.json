@@ -633,8 +633,7 @@
     "CAComment": "Only advanced users should consider installing this"
   },
   "mobiusnine/foldingathome": {
-    "CAComment": "The webUI for this application does not work.  You can however control the app via a client on another computer and its advanced control module",
-    "WebUI": ""
+    "CAComment": "The webUI for this application does not work.  See <a href='https://forums.unraid.net/topic/36054-release-foldinghome-docker/page/5/?tab=comments#comment-828096' target='_blank'>this post</a> for the fix"
   },
   "ninthwalker/dashbtn": {
     "ModeratorComment": "Reported this application is not functional.  See <a href='https://forums.unraid.net/topic/55444-support-ninthwalker-docker-repository-plexreport-slack-invite-dashbtn/page/2/?tab=comments#comment-811428'>here</a>",
