@@ -1,5 +1,5 @@
 {
-  "binhex/arch-krusader": {
+  "binhex/arch-krusader:*": {
     "ID": 1
   }
 }
