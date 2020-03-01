@@ -19,7 +19,7 @@
 				[ ">","2016.01.03" ],
 				[ "<","2020.02.01" ]
 			],
-			"code": "file_put_contents('/tmp/blah','version: $unraidVersion   ');version_compare($unraidVersion,'6.8.0','>');"
+			"code": "is_file('/tmp/blah');"
 		}
 	}
 }
