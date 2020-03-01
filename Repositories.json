@@ -824,5 +824,10 @@
     "url": "https://github.com/dalekseevs/Unraid-Docker-Templates",
     "name": "MrChunky's Repository",
     "profile": "https://forums.unraid.net/profile/74482-mrchunky"
+  },
+  {
+    "url": "https://github.com/RandomNinjaAtk/unraid-templates",
+    "name": "randomninjaatk's Repository",
+    "profile": "https://forums.unraid.net/profile/9890-randomninjaatk/"
   }
 ]
