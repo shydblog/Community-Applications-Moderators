@@ -1,1 +1,1 @@
-Currently there is an outage affecting the application feed servers.  Switching to Legacy Mode should allow you to continue using CA
+There is a chance that some countries may also block CA from communicating with the application feed servers.  Some reports have surfaced that China and Russia may be doing this.  Utilizing a VPN service may help.

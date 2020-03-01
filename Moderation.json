@@ -3,92 +3,88 @@
     "ModeratorComment": "This application is no longer functional.",
     "Blacklist": true
     },
-  "tobbenb/tvheadend-stable": {
-    "ModeratorComment": "Deprecated Version (V3.9) - Use author's tvheadend container for V4 stable releases",
-    "Deprecated": true
-    },
   "https://raw.githubusercontent.com/Steini1984/unRAID6-ZFS/master/unRAID6-ZFS.plg": {
-    "ModeratorComment": "Expert Only: Not recommended for the casual user",
+    "CAComment": "Expert Only: Not recommended for the casual user",
     "MinVer": "6.1.4"
     },
   "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg": {
     "ModeratorComment": "USING THIS PLUGIN ON DISKS FORMATTED IN REISERFS MAY LEAD TO SYSTEM INSTABILITY. IT IS ADVISED TO USE XFS"
     },
   "https://raw.githubusercontent.com/Squidly271/checksum/master/plugins/checksum.plg": {
-    "ModeratorComment": "Development has ceased on this plugin.  Advised to use Dynamix File Integrity Checker instead",
-    "Deprecated": true
+    "Deprecated": true,
+    "ModeratorComment": "Development has ceased on this plugin.  No support will be given on issues.  But, it is functional.  Alternatives however would include Dynamix File Integrity Checker"
     },
   "gfjardim/crashplan-desktop": {
-    "ModeratorComment": "This docker app has been merged with the Crashplan application.  There is now no longer any need to install this app.  This app will soon be deprecated",
+    "ModeratorComment": "This docker app has been merged with the Crashplan application.",
     "Blacklist": true
     },
   "rix1337/docker-copy": {
-    "ModeratorComment": "This application will cease to operate after May 1st, 2016",
+    "ModeratorComment": "This application ceased to operate after May 1st, 2016",
     "Blacklist": true
     },
   "sparklyballs/headless-kodi-helix": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/headless-kodi-isengard": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/photoshow": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/piwigo": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/pydio": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/readerself": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "smdion/docker-headphones": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "hurricane/docker-couchpotato": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "hurricane/docker-sonarr": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "hurricane/docker-sabnzbd": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "smdion/docker-htpcmanager": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "smdion/docker-beets": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "smdion/docker-polipo": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/serviio": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/znc": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "aptalca/docker-amazon-echo-ha-bridge": {
     "ModeratorComment": "Container Deprecated in favor of a different one",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/couchtest": {
     "ModeratorComment": "Presumably no harm will come from blacklisting this application",
@@ -96,11 +92,11 @@
     },
   "sparklyballs/daapd-server": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "sparklyballs/musicbrainz": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
     },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/unassigned.devices.plg": {
     "ModeratorComment": "dlandon has taken over this project and your should be installing his version.",
@@ -123,37 +119,38 @@
     },
   "gfjardim/transmission": {
     "ModeratorComment": "The author of this template is now recommending to install this application from a different repository",
-    "Deprecated": true
+    "Blacklist": true
     },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/preclear.disk.beta.plg": {
     "ModeratorComment": "This plugin is now set up to immediately uninstall itself, as it has now been deprecated in favour of the non-beta version.  It will soon become blacklisted within Community Applications",
     "Blacklist": true
   },
   "tobbenb/tvheadend-stable": {
-    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "ModeratorComment": "Repository no longer available on dockerHub",
+    "Blacklist": true
   },
   "tobbenb/tvheadend-unstable": {
-    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "ModeratorComment": "Repository no longer exists",
+    "Blacklist": true
   },
   "tobbenb/tvheadend": {
-    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "ModeratorComment": "Repository no longer exists on dockerHub",
+    "Blacklist": true
   },
   "tobbenb/oscam": {
-    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.  This app will eventually be blacklisted",
-    "Deprecated": true
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.",
+    "Blacklist": true
   },
   "linuxserver/kodi-headless": {
-    "CaComment": "Due to reasons beyond linuxserver's control, there are some issues with the Jarvis branch of this application which may cause it to not function correctly.  See support thread for details"
+    "CAComment": "Due to reasons beyond linuxserver's control, there are some issues with the Jarvis branch of this application which may cause it to not function correctly.  See support thread for details"
   },
   "aptalca/nginx-letsencrypt": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version   See <a href='http://lime-technology.com/forum/index.php?topic=39413.msg521591#msg521591' target='_blank'>THIS POST</a> for details",
-    "Deprecated": true
+    "Blacklist": true
   },
   "ruippeixotog/google-musicmanager:dev": {
-    "ModeratorComment": "There are some challenges involved in using this application.  Review the support thread for details"
+    "ModeratorComment": "There are some challenges involved in using this particular application.  Might be wise to install instead the version from rix1337",
+    "Deprecated": true
   },
   "spants/unraid-hole": {
     "ModeratorComment": "Per the description of the container (DO NOT USE), this application has been blacklisted",
@@ -172,7 +169,7 @@
     "Deprecated": true
   },
   "needo/mariadb": {
-    "ModeratorComment": "The unRaid community generally recommends to install the MariaDB application from either linuxserver's or binhex's repositories",
+    "ModeratorComment": "The unRaid community generally recommends to install the MariaDB application from linuxserver's repositories",
     "Deprecated": true
   },
   "needo/nzbget": {
@@ -203,9 +200,6 @@
     "ModeratorComment": "The unRaid community generally recommends to install the PlexWatch application from either linuxserver's or binhex's repositories",
     "Deprecated": true
   },
-  "jshridha/motioneye:latest": {
-    "ModeratorComment": "Note: This application's template was converted via Community Applications.  This application may not be optimized for running under unRaid."
-  },
   "aptalca/zoneminder-1.29": {
     "ModeratorComment": "This app is fully functional.  But due to technical reasons, it is no longer being updated to later versions.  See <a href='https://forums.lime-technology.com/topic/37735-support-aptalcas-docker-templates/?page=40#comment-550005' target='_blank'>HERE</a>.  This app has been deprecated in favour of one being maintained by dlandon <a href='https://forums.lime-technology.com/topic/56632-support-dlandon-zoneminder-130/' target='_blank'>HERE</a>",
     "Deprecated": true
@@ -219,134 +213,28 @@
     "ModeratorComment": "This app has been deprecated in favour of 'Now Showing' from ninthwalker",
     "Deprecated": true
   },
-  "sparklyballs/amule": {
-    "ModeratorComment": "Default Password is 'amule'"
-  },
   "https://raw.githubusercontent.com/theone11/swapfile_plugin/master/swapfile.plg": {
     "ModeratorComment": "Note that btrfs formatted drives do NOT support having a swap file placed onto them"
   },
   "gfjardim/logitechmediaserver": {
-    "ModeratorComment": "Although this app is presumably still functional, a more up-to-date version in dlandon's repository is available"
-  },
-  "sparklyballs/handbrake": {
-    "ModeratorComment": "Although this app is still functional, there are other handbrake applications available which may be more up to date and better supported.  New installations are recommended to utilize one of the other options",
+    "ModeratorComment": "Although this app is presumably still functional, a more up-to-date version in dlandon's repository is available",
     "Deprecated": true
   },
   "ironicbadger/booksonic": {
-    "ModeratorComment": "As the actual author of the image is a member of linuxserver, and linuxserver has their own version of this application, it is recommended to install the linux server version",
-    "Deprecated": true
+    "ModeratorComment": "Repository no longer available on dockerHub",
+    "Blacklist": true
   },
   "sparklyballs/yify-pop": {
     "ModeratorComment": "Application is non functional",
     "Blacklist": true
   },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Btsync.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Couchpotato.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Embyserver.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Filebot.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Flexget.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Headphones.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Maraschino.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Mylar.plg": {  
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Nzbget.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Nzbmegasearch.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Plexconnect.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Plexmediaserver.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Resilio.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sabnzbd.plg": {
-    "MaxVer": "6.4.0-rc2",
-     "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Serviio.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sickbeard_alt.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sickbeard.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },    
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sickrage.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },    
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sonarr.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },   
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Subsonic.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },  
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Transmission.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },  
-  "https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Ubooquity.plg": {
-    "MaxVer": "6.4.0-rc2",
-    "ModeratorComment": "The unRaid community recommends to install the docker version instead"
-  },
   "lsiodev/owncloud": {
     "ModeratorComment": "This application has been taken over by dlandon, and it is advised to install his version instead",
-    "Deprecated": true
-  },
-  "owncloud": {
-    "ModeratorComment": "This is the official owncloud docker.  This is probably not optimized for running in the unRaid environment"
-  },
-  "plexinc/pms-docker": {
-    "ModeratorComment": "This is the official plex docker.  Any issues with this container will be handled on plex's own support forums"
-  },
-  "mysql": {
-    "ModeratorComment": "This is the official MySQL docker.  This may not be optimized for running in the unRaid environment"
+    "Blacklist": true
   },
   "aptalca/docker-plexrequests": {
-    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.  This app will eventually be blacklisted",
-    "Deprecated": true
-  },
-  "amacneil/bitcoinunlimited": {
-    "ModeratorComment": "This is a converted template from a general docker container, and may not be optimized for the unRaid environment.  All support is handled on the docker website"
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version.",
+    "Blacklist": true
   },
   "https://raw.githubusercontent.com/Squidly271/UsefulLinks/master/useful_links.plg": {
     "Deprecated": true,
@@ -354,14 +242,23 @@
   },
   "sparklyballs/beardrage": {
     "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
-    "Deprecated": true
+    "Blacklist": true
   },
+  "aptalca/docker-duckdns": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Blacklist": true
+  },
+  "tobbenb/webgrabplusplus": {
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version",
+    "Deprecated": true
+  },    
   "jlesage/crashplan": {
-    "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version will no longer allow subscription renewals, and the program will be non-functional after October 2018.  If you wish to continue using CrashPlan, it is recommended to switch to the CrashPlan Pro application.",
-    "Deprecated": false
+    "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version no longer functions as of Oct 22.  If you wish to continue using CrashPlan, you will have to switch to the CrashPlan Pro application.",
+    "Blacklist": true
   },
   "gfjardim/crashplan": {
-    "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version is no longer available.  This application will automatically update itself to CrashPlan Pro, but if for whatever reason you have to redo your appdata from scratch, this application will then be non-functional.  See <a href='https://forums.lime-technology.com/topic/32220-container-crashplan-amp-crashplan-desktop/?page=53#comment-585118' target='_blank'>here</a>"
+    "ModeratorComment": "Due to changes made by Code42, CrashPlan Home version no longer functions as of Oct 22.  If you wish to continue using CrashPlan, you will have to switch to the CrashPlan Pro application.",
+    "Blacklist": true
   },
   "https://raw.githubusercontent.com/Squidly271/repo.update/master/plugins/community.repositories.plg": {
     "ModeratorComment": "Long ago replaced by <a href='https://forums.lime-technology.com/topic/38582-plug-in-community-applications/' target='_blank'>Community Applications</a>.  CR is no longer functional and may have adverse effects on any running server, and should be uninstalled immediately and replaced with Community Applications",
@@ -384,7 +281,8 @@
     "Deprecated": true
   },
   "lsiocommunity/polipo": {
-    "ModeratorComment": "The polipo application itself is no longer being maintained. (Primarily because most web traffic is HTTPS)"
+    "ModeratorComment": "The polipo application itself is no longer being maintained. (Primarily because most web traffic is HTTPS)",
+    "Deprecated": true
   },
   "https://raw.githubusercontent.com/Squidly271/ca.backup/master/plugins/ca.backup.plg": {
     "Deprecated": true,
@@ -398,7 +296,8 @@
     "ModeratorComment": "Blacklisted due to tag no longer available"
   },
   "openhab/openhab:amd64-online": {
-    "Repository": "openhab/openhab:2.1.0-amd64-debian"
+    "Blacklist": true,
+    "ModeratorComment": "Blacklisted due to tag no longer available"
   },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/statistics.sender.plg": {
     "CAComment": "This plugin is optionally installed when installing the preclear plugin.  There is zero reason to have it installed without also having Preclear installed"
@@ -406,29 +305,28 @@
   "http://unraid.zeron.ca/plugins/open-vm-tools/openVMTools.plg": {
     "MaxVer": "6.3.5"
   },
-  "https://raw.githubusercontent.com/Squidly271/docker.categorize/master/plugins/docker.categorize.plg": {
-    "DeprecatedMaxVer": "6.3.5"
-  },
   "https://raw.githubusercontent.com/gfjardim/unRAID-plugins/master/plugins/advanced.buttons.plg": {
-    "MaxVer": "6.4.0"
+    "Blacklist": true,
+    "ModeratorComment": ".plg file no longer available"
   },
   "mccloud/ps3netsrv:debian": {
     "Blacklist": true,
-    "ModeratorComment": "Effective duplicate of same app just different base OS"
+    "ModeratorComment": "Dockerhub tag no longer available"
   },
   "mccloud/ps3netsrv:ubuntu": {
     "Blacklist": true,
-    "ModeratorComment": "Effective duplicate of same app just different base OS"
+    "ModeratorComment": "Dockerhub tag no longer available"
   },
   "mccloud/ps3netsrv:phusion": {
     "Blacklist": true,
-    "ModeratorComment": "Effective duplicate of same app just different base OS"
+    "ModeratorComment": "Dockerhub tag no longer available"
+  },
+  "mccloud/ps3netsrv:alpine": {
+    "Blacklist": true,
+    "ModeratorComment": "Dockerhub tag no longer available"
   },
   "https://raw.githubusercontent.com/Squidly271/ca.resource.monitor/master/plugins/ca.resource.monitor.plg": {
     "MaxVer": "6.3.5"
-  },
-  "zuhkov/guacamole": {
-    "Deprecated": true
   },
   "https://raw.githubusercontent.com/bshakil/unraid-libvirt-usbhotplug/master/plugins/libvirt.hotplug.usb.plg": {
     "DeprecatedMaxVer": "6.5.0-rc4",
@@ -440,6 +338,374 @@
   },
   "https://raw.githubusercontent.com/linuxserver/Unraid-DVB-Plugin/master/plugins/UnraidDVB.plg": {
     "MinVer": "6.4.0"
+  },
+  "sparklyballs/mariadb-mywebsql": {
+    "Blacklist": true,
+    "ModeratorComment": "This application does not function out of the box.  However existing installations may operate."
+  },
+  "linuxserver/plexrequests": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Ombi"
+  },
+  "nativedude/plex-requests": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Ombi"
+  },
+  "https://raw.githubusercontent.com/theone11/virtualbox_plugin/master/virtualbox.plg": {
+    "RemoveFromCA": true
+  },
+  "https://raw.githubusercontent.com/Squidly271/ransomware.bait/master/plugins/newransomware.bait.plg": {
+    "Deprecated": true
+  },
+  "steamcache/steamcache-dns:latest": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Lan Cache from Josh.5"
+  },
+  "steamcache/generic:latest": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Lan Cache from Josh.5"
+  },
+  "steamcache/sniproxy:latest": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Lan Cache from Josh.5"
+  },
+  "sparklyballs/mate-calibre": {
+    "Blacklist": true,
+    "ModeratorComment": "Deprecated in favour of one of the other Calibre applications"
+  },
+  "sparklyballs/moviegrabber": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the version from BinHex"
+  },
+  "google/cadvisor:latest": {
+    "WebUI": "http://[IP]:[PORT:8080]"
+  },
+  "https://raw.githubusercontent.com/Squidly271/ca.docker.autostart/master/plugins/ca.docker.autostart.plg": {
+    "MaxVer": "6.5.3"
+  },
+  "jasonbean/guacamole": {
+    "CAComment": "Default username and password is guacadmin"
+  },
+  "tombowditch/telly": {
+    "Blacklist": true,
+    "ModeratorComment": "dockerHub repository no longer exists.  Existing installs should still work"
+  },
+  "zuhkov/observium": {
+    "Blacklist": true,
+    "ModeratorComment": "Deprecated in favor of uberchuckie's application"
+  },
+  "linuxserver/diskover": {
+    "CAComment": "This application requires elasticsearch to be installed."
+  },
+  "https://raw.githubusercontent.com/theone11/serverlayout_plugin/master/serverlayout.plg": {
+    "CAComment": "This application does not display correctly if using unRaid's Black theme.  There is an alternative plugin under active devlopment titled Disk Location"
+  },
+  "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.system.stats.plg": {
+    "UpdateMinVer": "6.7.0-rc1"
+  },
+  "yujiod/minecraft-mineos": {
+    "Deprecated": true,
+    "ModeratorComment": "Project Abandoned"
+  },
+  "ninthwalker/nowshowing": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Now Showing V2"
+  },
+  "linuxserver/unifi": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of a new app from linuxserver"
+  },
+  "https://raw.githubusercontent.com/Squidly271/ca.cleanup.appdata/master/plugins/ca.cleanup.appdata.plg": {
+    "ModeratorComment": "In case of a severely misconfigured docker application, this plugin has the ability to delete an entire share.  It is YOUR responsibility to confirm what folders the plugin offers to delete.  The author takes no responsibility if you inadvertently delete an entire share due to your own mistakes"
+  },
+  "dreamcat4/pipework:1.1.5": {
+    "Deprecated": true,
+    "ModeratorComment": "While there still may be use for this application, the author has stated that under recent versions of docker, the use of this container is probably not required"
+  },
+   "dreamcat4/pipework:1.1.3": {
+    "Deprecated": true,
+    "ModeratorComment": "While there still may be use for this application, the author has stated that under recent versions of docker, the use of this container is probably not required"
+  },
+  "dreamcat4/pipework": {
+    "Deprecated": true,
+    "ModeratorComment": "While there still may be use for this application, the author has stated that under recent versions of docker, the use of this container is probably not required"
+  },
+  "https://raw.githubusercontent.com/dorgan/Unraid-networkstats/master/networkstats.plg": {
+    "MinVer": "6.6.0"
+  },
+  "sparklyballs/shout-irc": {
+    "Blacklist": true,
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
+  },
+  "lsiocommunity/serviio": {
+    "CAComment": "LinuxServer.io has deprecated this container, and no further updates or fixes will be made to it.",
+    "Deprecated": true
+  },
+  "sparklyballs/lychee": {
+    "Blacklist": true,
+    "ModeratorComment": "As author now a member of linuxserver, would recommend use of the linuxserver.io version"
+  },    
+  "gfjardim/owncloud": {
+    "Deprecated": true,
+    "ModeratorComment": "While this app is presumably still functional, a more up to date and support version is available in dlandon's repository"
+  },
+  "captinsano/foldingathome": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the more up to date version from MobiusNine"
+  },
+  "plexinc/pms-docker": {
+    "Support": "https://forums.plex.tv/"
+  },
+  "https://raw.githubusercontent.com/coppit/unraid-snmp/master/snmp.plg": {
+    "ModeratorComment": "Currently this plugin does not work with unRaid 6.7+.  A compatible version from another author is now available in the apps tab",
+    "MaxVer": "6.6.7"
+  },
+  "https://raw.githubusercontent.com/coppit/unraid-mosh/master/mosh.plg": {
+    "CAComment": "Currently this plugin does not work with unRaid 6.7+",
+    "MaxVer": "6.6.7"
+  },
+  "https://github.com/SlrG/unRAID/raw/master/Plugins/advCPaMV.plg": {
+    "MinVer": "6.6.7"
+  },
+  "mace/openvpn-as": {
+    "ModeratorComment": "Generally recommended to install the version from linuxserver instead",
+    "Deprecated": true
+  },
+  "mace/qbittorrent": {
+    "ModeratorComment": "Generally recommended to install the version from linuxserver instead",
+    "Deprecated": true
+  },
+  "volikon/lidarr": {
+    "ModeratorComment": "Generally recommended to install the version from linuxserver instead",
+    "Deprecated": true
+  },
+  "pducharme/plexconnect": {
+    "CAComment": "Note that this application is unsupported"
+  },
+  "linuxserver/kanzi": {
+   "CAComment": "You must review the directions <a href='https://github.com/linuxserver/docker-kanzi' target='_blank'>HERE</a> in order to properly set up"
+  },
+  "fithwum/teamspeak-debian": {
+    "Blacklist": true,
+    "ModeratorComment": "Effective Duplicate of teamspeak-alpine.  Only base OS differs"
+  },
+  "https://github.com/SlrG/unRAID/raw/master/Plugins/ProFTPd.plg": {
+    "UpdateMinVer": "6.7.0"
+  },
+  "snoopy86/emoncms": {
+    "Blacklist": true,
+    "ModeratorComment": "Repository no longer exists on dockerHub"
+  },
+  "mace/ddclient": {
+    "CAComment": "While still functional, a ddclient app from linuxserver is available which may be better supported"
+  },
+  "linuxserver/codiad": {
+    "ModeratorComment": "Deprecated as per linuxserver.io",
+    "Deprecated": true
+  },
+  "linuxserver/sickrage": {
+    "ModeratorComment": "Deprecated as per linuxserver.io",
+    "Deprecated": true
+  },
+  "captinsano/deluge": {
+   "ModeratorComment": "While still presumably functional, you will be better off installing the version from binhex or linuxserver",
+   "Deprecated": true
+  },
+  "captinsano/koel": {
+    "ModeratorComment": "While still presumably functional, you will be better off installing the version from binhex",
+    "Deprecated": true
+  },
+  "captinsano/rutorrent": {
+   "ModeratorComment": "While still presumably functional, you will be better off installing the version from binhex or linuxserver",
+   "Deprecated": true
+  }, 
+  "captinsano/legacyrutorrent": {
+   "ModeratorComment": "While still presumably functional, you will be better off installing the version from binhex or linuxserver",
+   "Deprecated": true
+  },
+  "chvb/docker-webgrabplus": {
+    "ModeratorComment": "Would be generally recommended to install the version from linuxserver.io",
+    "Deprecated": true
+  },
+  "cmer/seafile": {
+    "ModeratorComment": "Deprecated in favour of the official version available within CA",
+    "Deprecated": true
+  },
+  "sdesbure/domoticz": {
+    "ModeratorComment": "Would possibly be wise to utilize instead the version from linuxserver.io",
+    "Deprecated": true
+  },
+  "captinsano/ddclient": {
+    "ModeratorComment": "Generally the unRaid community recommends installing the version from linuxserver.io",
+    "Deprecated": true
+  },
+  "mace/ddclient": {
+    "ModeratorComment": "Generally the unRaid community recommends installing the version from linuxserver.io",
+    "Deprecated": true 
+  },
+  "dmaxwell/splunk": {
+    "ModeratorComment": "Probably would be best to install the up to date version from Andrew207",
+    "Deprecated": true
+  },
+  "snoopy86/logitechmediaserver": {
+    "ModeratorComment": "A more up to date version is available in dlandon's repository",
+    "Deprecated": true
+  },
+  "coppit/handbrake": {
+    "ModeratorComment": "A better supported and more up to date app is available from DJoss",
+    "Deprecated": true
+  },
+  "tquinnelly/clamav": {
+    "ModeratorComment": "Deprecated in favour of the ClavAV alpine image from the same author",
+    "Deprecated": true
+  },
+  "limetech/plex": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of one of the other Plex containers (linuxserver, binhex, or the official Plex container).  This does not mean that you have to switch to another version of Plex.  Only new installations of this version are blocked."
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.system.temp.plg": {
+    "CAComment": "Note that this plugin will not detect all (or any) temperatures or fan speeds on all combinations of hardware.  This is outside of the author's control"
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.system.autofan.plg": {
+    "CAComment": "Note that this plugin will not detect all (or any) temperatures or fan speeds on all combinations of hardware.  This is outside of the author's control"
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.s3.sleep.plg": {
+    "CAComment": "Note that this plugin does not work with all combinations of hardware.  Additionally, it appears under this plugin will not automatically sleep your server when there is no disk activity.  Manually sleeping your server will work."
+  },
+  "aptalca/home-automation-bridge": {
+    "Deprecated": true,
+    "ModeratorComment": "Because author a member of linuxserver, recommended to use the version from linuxserver instead"
+  },
+  "aptalca/docker-rdp-calibre": {
+    "Deprecated": true,
+    "ModeratorComment": "Highly recommended to switch to the calibre application from linuxserver.io"
+  },
+  "https://raw.githubusercontent.com/limetech/Unraid.net/master/Unraid.net.plg": {
+    "RemoveFromCA": true
+  },
+  "spaceinvaderone/macinabox": {
+    "MinVer": "6.7.0"
+  },
+  "https://raw.githubusercontent.com/kubedzero/unraid-snmp/master/snmp.plg": {
+    "ModeratorComment": "Due to how this plugin is currently designed, it requires a reinstall whenever you reboot your server"
+  },
+  "https://raw.githubusercontent.com/Fma965/corsairpsu-unraid/master/corsairpsu.plg": {
+    "CAComment": "Note that this plugin is for the intelligent series of power supplies from Corsair.  Not all power supplies will work"
+  },
+  "https://raw.githubusercontent.com/Cyanlabs/jsonapi-unraid/master/jsonapi.plg": {
+    "MaxVer": "6.7.9"
+  },
+  "linuxserver/tt-rss": {
+    "Blacklist": true,
+    "ModeratorComment": "Repository no longer available"
+  },
+  "mprasil/bitwarden": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favor of the bitwarden-rs application available within Apps"
+  },
+  "xamindar/syncthing": {
+    "Deprecated": true,
+    "ModeratorComment": "Very out of date, and an up to date version is available from linuxserver"
+  },
+  "xamindar/quassel-core": {
+    "Deprecated": true,
+    "ModeratorComment": "Very out of date, and an up to date version is available from linuxserver"
+  },
+  "huxy/xmltv-sd-json": {
+    "CAComment": "While still functional, the author no longer utilizes this application so support may not be forthcoming"
+  },
+  "https://raw.githubusercontent.com/Squidly271/ca.turbo/master/plugins/ca.turbo.plg": {
+    "Recommended": false
+  },
+  "https://raw.githubusercontent.com/Squidly271/ca.mover.tuning/master/plugins/ca.mover.tuning.plg": {
+    "Recommended": false
+  },
+  "https://raw.githubusercontent.com/Squidly271/gui-links/master/plugins/gui-links.plg": {
+    "Recommended": false
+  },
+  "jbartlett777/diskspeed": {
+    "Recommended": true
+  },
+  "https://raw.githubusercontent.com/dmacias72/unRAID-DevPack/master/plugin/DevPack.plg": {
+    "CAComment": "Only advanced users should consider installing this"
+  },
+  "https://raw.githubusercontent.com/dmacias72/unRAID-NerdPack/master/plugin/NerdPack.plg": {
+    "CAComment": "Only advanced users should consider installing this"
+  },
+  "mobiusnine/foldingathome": {
+    "CAComment": "The webUI for this application does not work.  See <a href='https://forums.unraid.net/topic/36054-release-foldinghome-docker/page/5/?tab=comments#comment-828096' target='_blank'>this post</a> for the fix"
+  },
+  "ninthwalker/dashbtn": {
+    "ModeratorComment": "Reported this application is not functional.  See <a href='https://forums.unraid.net/topic/55444-support-ninthwalker-docker-repository-plexreport-slack-invite-dashbtn/page/2/?tab=comments#comment-811428'>here</a>",
+    "Deprecated": true
+  },
+  "rix1337/docker-jottacloud": {
+    "Blacklist": true,
+    "ModeratorComment": "No longer available on dockerhub"
+  },
+  "https://raw.githubusercontent.com/Skitals/unraid-dark-plugin/master/plugins/dark.theme.plg": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the theme engine plugin"
+  },
+  "https://raw.githubusercontent.com/limetech/sysdream/master/sysdream.plg": {
+    "Recommended": true,
+    "Support": "https://forums.unraid.net/topic/88253-critical-security-vulnerabilies-discovered/"
+  },
+  "mccloud/ps3netsrv": {
+    "Blacklist": true,
+    "ModeratorComment": "Reports have surfaced that crypto mining software has been embedded in this container"
+  },
+  "mccloud/ps3netsrv:latest": {
+    "Blacklist": true,
+    "ModeratorComment": "Reports have surfaced that crypto mining software has been embedded in this container"
+  },
+  "bitwardenrs/server": {
+    "Recommended": true
+  },
+  "storjlabs/storagenode:alpha": {
+    "RemoveFromCA": true
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg": {
+    "ModeratorComment": "Background checks do not run when using unRaid 6.8+.  Manual checking of integrity does work fine"
+  },
+  "hotio/radarr": {
+    "Recommended": false
+  },
+  "hotio/sonarr": {
+    "Recommended": false
+  },
+  "hotio/sabnzbd": {
+    "Recommended": false
+  },
+  "hotio/plex": {
+    "Recommended": false
+  },
+  "hotio/nzbget": {
+    "Recommended": false
+  },
+  "hotio/jackett": {
+    "Recommended": false
+  },
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg": {
+    "Recommended": true
+  },
+  "linuxserver/organizr": {
+    "Deprecated": true,
+    "ModeratorComment": "Application itself is deprecated by the author, and is recommended by them to switch to OrganizrV2.  However since there is no official method of switching from v1 to v2 if you're not having any issues you may wish to continue using this existing application"
+  },
+  "mlebjerg/steamcachebundle:latest": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the lan cache bundle by Josh.5"
+  },
+  "mlebjerg/steamcachebundle": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the lan cache bundle by Josh.5"
+  },
+  "aptalca/docker-calibre": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the calibre applications from LinuxServer.io"
+  },
+  "gfjardim/cups": {
+    "RemoveFromCA": true
   }
-}
-  
+} 

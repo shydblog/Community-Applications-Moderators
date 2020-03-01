@@ -30,20 +30,6 @@
     "profile": "https://forums.lime-technology.com/profile/40599-captinsano/"
   },
   {
-    "name": "Sparklyballs' Repository",
-    "url": "https://github.com/sparklyballs/docker-repo/tree/templates",
-    "forum": "http://lime-technology.com/forum/index.php?topic=37209.0",
-    "profile": "https://forums.lime-technology.com/profile/23888-sparklyballs/",
-    "RepoComment": "While still functional, development on this application's container has ceased"
-  },
-  {
-    "name": "Sparklyballs' Beta Repository",
-    "url": "https://github.com/sparklyballs/beta-repo/tree/master/Sparkly-Beta",
-    "forum": "http://lime-technology.com/forum/index.php?topic=38232.0",
-    "profile": "https://forums.lime-technology.com/profile/23888-sparklyballs/",
-    "RepoComment": "While still functional, development on this application's container has ceased"
-  },
-  {
     "name": "Balloob's Repository",
     "url": "https://github.com/balloob/unraid-docker-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=36535",
@@ -53,21 +39,8 @@
     "name": "Binhex's Repository",
     "url": "https://github.com/binhex/docker-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=45811.0",
-    "profile": "https://forums.lime-technology.com/profile/11148-binhex/"
-  },
-  {
-    "name": "Zuhkov's Repository",
-    "url": "https://github.com/Zuhkov/docker-containers/tree/templates",
-    "forum": "http://lime-technology.com/forum/index.php?topic=38410.0",
-    "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/",
-    "RepoComment": "While still functional, development on this application's container has ceased"
-  },
-  {
-    "name": "Zuhkov's Beta Repository",
-    "url": "https://github.com/Zuhkov/docker-containers/tree/beta-templates",
-    "forum": "http://lime-technology.com/forum/index.php?topic=38410.0",
-    "profile": "https://forums.lime-technology.com/profile/8723-zuhkov/",
-    "RepoComment": "While still functional, development on this application's container has ceased"
+    "profile": "https://forums.lime-technology.com/profile/11148-binhex/",
+    "recommended": true
   },
   {
     "name": "Spants' Repository",
@@ -89,7 +62,7 @@
   },
   {
     "name": "pinion's Repository",
-    "url": "https://github.com/noinip/container-templates/tree/master/pinion",
+    "url": "https://github.com/noinip/container-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=38602.0",
     "profile": "https://forums.lime-technology.com/profile/10946-pinion/"
   },
@@ -125,19 +98,13 @@
   },
   {
     "name": "xamindar's Repository",
-    "url": "https://github.com/xamindar/docker-templates/tree/master/xamindar",
+    "url": "https://github.com/xamindar/docker-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=39910.0",
     "profile": "https://forums.lime-technology.com/profile/1543-xamindar/"
   },
   {
-    "name": "Nativedude's Repository",
-    "url":  "https://github.com/Nativedude/docker-templates",
-    "forum": "http://lime-technology.com/forum/index.php?topic=40161.0",
-    "profile": "https://forums.lime-technology.com/profile/65863-nativedude/"
-  },
-  {
     "name": "soana's Repository",
-    "url":  "https://github.com/soana/unraid-docker-templates/tree/master/soana",
+    "url":  "https://github.com/soana/unraid-docker-templates",
     "forum": "",
     "profile": "https://forums.lime-technology.com/profile/10065-soana/"
   },
@@ -157,8 +124,8 @@
     "name":  "linuxserver's Repository",
     "url":  "https://github.com/linuxserver/docker-templates",
     "forum":  "http://lime-technology.com/forum/index.php?topic=42092.0",
-    "logo": "http://i61.tinypic.com/id537n.png",
-    "web":  "https://www.linuxserver.io/"   
+    "web":  "https://www.linuxserver.io/",
+    "recommended": true
   },
   {
     "name":  "sdesbure's Repository",
@@ -174,33 +141,21 @@
   },
   {
     "name": "snoopy86's Repository",
-    "url":  "https://github.com/snoopy86/docker-repo/tree/master/snoopy",
+    "url":  "https://github.com/snoopy86/docker-repo",
     "forum":  "http://lime-technology.com/forum/index.php?topic=43610.0",
     "profile": "https://forums.lime-technology.com/profile/26537-snoopy86/"
   },
   {
-    "name": "rix's Repository",
-    "url":  "https://github.com/rix1337/docker-templates",
-    "forum": "http://lime-technology.com/forum/index.php?topic=43669.0",
-    "profile": "https://forums.lime-technology.com/profile/67339-rix/"
-  },
-  {
-    "name": "linuxserver.io-Dev Repository",
-    "url":  "https://github.com/linuxserver/beta-templates",
-    "forum":  "http://lime-technology.com/forum/index.php?topic=42092.0",
-    "logo": "http://i61.tinypic.com/id537n.png",
-    "web":  "https://www.linuxserver.io/"  
-  },
-  {
     "name": "tinglis1's Repository",
-    "url":  "https://github.com/tinglis1/docker-containers/tree/master/pipework",
+    "url":  "https://github.com/tinglis1/docker-containers",
     "forum": "http://lime-technology.com/forum/index.php?topic=43970.0",
     "profile": "https://forums.lime-technology.com/profile/6492-tinglis1/"
   },
   {
     "name": "dlandon's plugin Repository",
     "url":  "https://github.com/dlandon/apps.plugins/",
-    "profile": "https://forums.lime-technology.com/profile/6013-dlandon/"
+    "profile": "https://forums.lime-technology.com/profile/6013-dlandon/",
+    "recommended": true
   },
   {
     "name": "macester's plugin Repository",
@@ -210,7 +165,8 @@
   {
     "name": "Squid's plugin Repository",
     "url":  "https://github.com/Squidly271/plugin-repository",
-    "profile": "https://forums.lime-technology.com/profile/10290-squid/"
+    "profile": "https://forums.lime-technology.com/profile/10290-squid/",
+    "recommended": true
   },
   {
     "name": "peter_sm's plugin Repository",
@@ -222,7 +178,7 @@
     "profile": "https://forums.lime-technology.com/profile/1297-peter_sm/"
   },
   {
-    "name": "bergware's dynamix plugin Repository",
+    "name": "Dynamix plugin Repository",
     "url":  "https://github.com/bergware/dynamix-plugins",
     "forum":  "http://lime-technology.com/forum/index.php?topic=36543.0",
     "profile": "https://forums.lime-technology.com/profile/2736-bonienl/"
@@ -230,11 +186,12 @@
   {
     "name": "gfjardim's plugin Repository",
     "url": "https://github.com/gfjardim/unRAID-plugins/tree/templates",
-    "profile": "https://forums.lime-technology.com/profile/1694-gfjardim/"
+    "profile": "https://forums.lime-technology.com/profile/1694-gfjardim/",
+    "recommended": true
   },
   {
     "name": "bb12489's Repository",
-    "url":  "https://github.com/bb12489/docker-templates/tree/master/bb12489",
+    "url":  "https://github.com/bb12489/docker-templates",
     "profile": "https://forums.lime-technology.com/profile/67777-bb12489/"
   },
   {
@@ -244,18 +201,13 @@
   },
   {
     "name": "dmacias' plugin Repository",
-    "url":  "https://github.com/dmacias72/unRAID-CA/tree/master/plugins",
+    "url":  "https://github.com/dmacias72/unRAID-CA",
     "profile": "https://forums.lime-technology.com/profile/11874-dmacias/"
   },
   {
     "name": "theone's plugin Repository",
     "url":  "https://github.com/Squidly271/theone-plugin-repository/",
     "profile": "https://forums.lime-technology.com/profile/2231-theone/"
-  },
-  {
-    "name":  "Zeron's plugin Repository",
-    "url":  "https://github.com/Squidly271/zeron-plugin-repository",
-    "profile": "https://forums.lime-technology.com/profile/6570-zeron/"
   },
   {
     "name": "steini84's plugin Repository",
@@ -269,18 +221,12 @@
   },
   {
     "name": "SlrG's plugin Repository",
-    "url":  "https://github.com/SlrG/unRAID/tree/master/CAxml",
+    "url":  "https://github.com/SlrG/unRAID",
     "profile": "https://forums.lime-technology.com/profile/16166-slrg/"
   },
   {
-    "name": "PhAzE's plugin Repository",
-    "url":  "https://github.com/PhAzE-Variance/PhAzE-Plugin-Repository",
-    "forum": "http://lime-technology.com/forum/index.php?topic=33341.0",
-    "profile": "https://forums.lime-technology.com/profile/49530-phaze/"
-  },
-  {
     "name": "Emby Repository",
-    "url":  "https://github.com/MediaBrowser/Emby.Build/tree/master/unraid-templates/emby",
+    "url":  "https://github.com/MediaBrowser/Emby.Build",
     "forum": "https://lime-technology.com/forum/index.php?topic=45444.0"
   },
   {
@@ -290,7 +236,7 @@
   },
   {
     "name": "johnodon's Repository",
-    "url":  "https://github.com/johnodon/docker-templates/tree/master/johnodon",
+    "url":  "https://github.com/johnodon/docker-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=46330.0",
     "profile": "https://forums.lime-technology.com/profile/6506-johnodon/"
   },
@@ -302,19 +248,16 @@
   },
   {
     "name": "dexn's Repository",
-    "url":  "https://github.com/dexn/docker-templates/tree/master/dexn",
+    "url":  "https://github.com/dexn/docker-templates",
     "forum": "https://lime-technology.com/forum/index.php?topic=37859.0",
-    "profile": "https://forums.lime-technology.com/profile/10981-dexn/"
+    "profile": "https://forums.lime-technology.com/profile/10981-dexn/",
+    "Blacklist": true,
+    "RepoComment": "Blacklisted because author's repository has been hacked an now applications have crypto mining software embedded within"
   },
   {
     "name":  "magmpzero's Repository",
     "url":  "https://github.com/magmpzero/docker-templates",
     "profile": "https://forums.lime-technology.com/profile/69284-magmpzero/"
-  },
-  {
-    "name":  "bshakil's Plugin Repository",
-    "url":   "https://github.com/bshakil/unraid-libvirt-usbhotplug-CA",
-    "profile": "https://forums.lime-technology.com/profile/67394-bshakil/"
   },
   {
     "name":  "docgyver's Plugin Repository",
@@ -324,8 +267,8 @@
   {
     "name":  "Linuxserver's Plugin Repository",
     "url": "https://github.com/linuxserver/linuxserver-Plugin-Repository",
-    "logo": "http://i61.tinypic.com/id537n.png",
-    "web":  "https://www.linuxserver.io/"
+    "web":  "https://www.linuxserver.io/",
+    "recommended": true
   },
   {
     "name":  "bashNinja's Repository",
@@ -349,7 +292,7 @@
   },
   {
     "name": "thomast_88's Repository",
-    "url":  "https://github.com/tynor88/docker-templates/tree/master/tynor88",
+    "url":  "https://github.com/tynor88/docker-templates",
     "profile": "https://forums.lime-technology.com/profile/70206-thomast_88/"
   },
   {
@@ -359,7 +302,7 @@
   },
   {
     "name": "activ's Repository",
-    "url": "https://github.com/activ/docker-templates/tree/master/activ",
+    "url": "https://github.com/activ/docker-templates",
     "profile": "https://forums.lime-technology.com/profile/69882-activ/"
   },
   {
@@ -385,24 +328,21 @@
   },
   {
     "name": "JugniJi's Repository",
-    "url": "https://github.com/shaf/unraid-docker-templates/tree/master/shaf",
+    "url": "https://github.com/shaf/unraid-docker-templates",
     "profile": "https://forums.lime-technology.com/profile/71085-jugniji/"
-  },
-  {
-    "name": "Linuxserver's Community Repository",
-    "url": "https://github.com/linuxserver/community-templates/tree/master/lsiocommunity",
-    "logo": "http://i61.tinypic.com/id537n.png",
-    "web":  "https://www.linuxserver.io/"  
   },
   {
     "name": "atribe's Repository",
     "url": "https://github.com/atribe/unRAID-docker",
     "forum": "https://lime-technology.com/forum/index.php?topic=51498.0",
-    "profile": "https://forums.lime-technology.com/profile/70671-atribe/"
+    "profile": "https://forums.lime-technology.com/profile/70671-atribe/",
+    "duplicated": {
+      "hexparrot/mineos:latest": true
+    }
   },
   {
     "name": "Kru-X's Repository",
-    "url": "https://github.com/Kru-x/unraid-docker-templates/tree/master/Kru-x",
+    "url": "https://github.com/Kru-x/unraid-docker-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=52687.0",
     "profile": "https://forums.lime-technology.com/profile/69435-kru-x/",
     "duplicated": {
@@ -411,8 +351,9 @@
   },
   {
     "name": "jbrodriguez's plugin Repository",
-    "url":  "https://github.com/jbrodriguez/unraid/tree/master/plugins",
-    "profile": "https://forums.lime-technology.com/profile/593-jbrodriguez/"
+    "url":  "https://github.com/jbrodriguez/unraid",
+    "profile": "https://forums.lime-technology.com/profile/593-jbrodriguez/",
+    "recommended": true
   },
   {
     "name": "Waseh's plugin Repository",
@@ -426,13 +367,14 @@
   },
   {
     "name": "Thraxis' Repository",
-    "url": "https://github.com/Thraxis/docker-templates/tree/master/thraxis",
+    "url": "https://github.com/Thraxis/docker-templates",
     "profile": "https://forums.lime-technology.com/profile/9802-thraxis/"
   },
   {
     "name": "cheesemarathon's Repository",
     "url": "https://github.com/cheesemarathon/docker-templates",
-    "profile": "https://forums.lime-technology.com/profile/70291-cheesemarathon/"
+    "profile": "https://forums.lime-technology.com/profile/70291-cheesemarathon/",
+    "recommended": true
   },
   {
     "name": "Taddeusz' Repository",
@@ -445,13 +387,14 @@
   },
   {
     "name": "cmer's Repository",
-    "url": "https://github.com/cmer/docker-templates/tree/master/cmer",
+    "url": "https://github.com/cmer/docker-templates",
     "profile": "https://forums.lime-technology.com/profile/69846-cmer/"
   },
   {
     "name": "clowrym's Repository",
     "url": "https://github.com/clowrym/docker-templates",
-    "profile": "https://forums.lime-technology.com/profile/26570-clowrym/"
+    "profile": "https://forums.lime-technology.com/profile/26570-clowrym/",
+    "recommended": true
   },
   {
     "url": "https://github.com/brettm357/docker-templates",
@@ -461,12 +404,14 @@
   {
     "url": "https://github.com/jlesage/docker-templates",
     "name": "Djoss' Repository",
-    "profile": "https://forums.lime-technology.com/profile/73771-djoss/"
+    "profile": "https://forums.lime-technology.com/profile/73771-djoss/",
+    "recommended": true
   },
   {
     "url": "https://github.com/dlandon/docker.templates",
     "name": "dlandon's Repository",
-    "profile": "https://forums.lime-technology.com/profile/6013-dlandon/"
+    "profile": "https://forums.lime-technology.com/profile/6013-dlandon/",
+    "recommended": true
   },
   {
     "url": "https://github.com/JustinAiken/unraid-docker-templates",
@@ -492,7 +437,7 @@
     "profile": "https://forums.lime-technology.com/profile/77149-malfurious/"
   },
   {
-    "url": "https://github.com/malvarez00/unRAID-Docker-Templates/tree/master/malvarez00",
+    "url": "https://github.com/malvarez00/unRAID-Docker-Templates",
     "name": "malvarez00's Repository",
     "profile": "https://forums.lime-technology.com/profile/77549-malvarez00/",
     "duplicated": {
@@ -524,7 +469,7 @@
     "forum": "https://lime-technology.com/forums/topic/69422-support-qdirstat-and-storj/"
   },
   {
-    "url": "https://github.com/tombowditch/docker-templates/tree/master/tombowditch",
+    "url": "https://github.com/tombowditch/docker-templates",
     "name": "tombowditch's Repository",
     "profile": "https://lime-technology.com/profile/80184-tombowditch/"
   },
@@ -532,5 +477,352 @@
     "url": "https://github.com/Tautulli/Tautulli-Docker-Template",
     "name": "Tautulli's Repository",
     "profile": "https://lime-technology.com/profile/69064-wreave/"
+  },
+  {
+    "url": "https://github.com/jbartlett777/DiskSpeed",
+    "name": "JBartlett's Repository",
+    "profile": "https://lime-technology.com/profile/8307-jbartlett/"
+  },
+  {
+    "url": "https://github.com/zyphermonkey/docker-templates",
+    "name": "zyphermonkey's Repository",
+    "profile": "https://lime-technology.com/profile/67871-zyphermonkey/"
+  },
+  {
+    "url": "https://github.com/Mudislander/docker-templates",
+    "name": "Mudislander's Repository",
+    "profile": "https://lime-technology.com/profile/67039-mudislander/"
+  },
+  {
+    "url": "https://github.com/Spikhalskiy/docker-templates",
+    "name": "Spikhalskiy's Repository",
+    "profile": "https://lime-technology.com/profile/82549-dmitry-spikhalskiy/"
+  },
+  {
+    "url": "https://github.com/digiblur/unraid-docker-templates",
+    "name": "digiblur's Repository",
+    "profile": "https://lime-technology.com/profile/75995-digiblur/",
+    "forum": "https://lime-technology.com/forums/topic/72033-support-digiblurs-docker-template-repository/"
+  },
+  {
+    "url": "https://github.com/CorneliousJD/Docker-Templates",
+    "name": "CorneliousJD's Repository",
+    "profile": "https://lime-technology.com/profile/78194-corneliousjd/"
+  },
+  {
+    "url": "https://github.com/mlebjerg/docker-templates",
+    "name": "mlebjerg's Repository",
+    "profile": "https://lime-technology.com/profile/76816-mlebjerg/"
+  },
+  {
+    "url": "https://github.com/cmccambridge/unraid-templates",
+    "name": "cmccambridge's Repository",
+    "profile": "https://lime-technology.com/profile/83181-cmccambridge/"
+  },
+  {
+    "url": "https://github.com/itimpi/Unraid-CA-Templates",
+    "name": "itimpi's Repository",
+    "profile": "https://lime-technology.com/profile/10897-itimpi/",
+    "recommended": true
+  },
+  {
+    "url": "https://github.com/thetarkus/docker-templates",
+    "name": "thetarkus' Repository",
+    "profile": "https://lime-technology.com/profile/84238-tarkus/"
+  },
+  {
+    "url": "https://github.com/mdarkness1988/rust-server-template",
+    "name": "mdarkness1988's Repository",
+    "profile": "https://lime-technology.com/profile/84443-mdarkness1988/"
+  },
+  {
+    "url": "https://github.com/DyonR/docker-templates",
+    "name": "Nord's Repository",
+    "profile": "https://lime-technology.com/profile/79298-nord/"
+  },
+  {
+    "url": "https://github.com/dorgan/unraid-templates",
+    "name": "dorgan's Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/78375-dorgan/"
+  },
+  {
+    "name": "rix's Repository",
+    "url":  "https://github.com/rix1337/docker-templates",
+    "forum": "http://lime-technology.com/forum/index.php?topic=43669.0",
+    "profile": "https://forums.lime-technology.com/profile/67339-rix/"
+  },
+  {
+    "name": "shrmn's Repository",
+    "url": "https://github.com/shrmnk/docker-templates",
+    "profile": "https://forums.unraid.net/profile/77786-shrmn/"
+  },
+  {
+    "url": "https://github.com/organizrTools/docker-organizr-v2",
+    "name": "tronyx's Repository",
+    "profile": "https://forums.unraid.net/profile/77876-tronyx/"
+  },
+  {
+    "url": "https://github.com/charlescng/docker-containers",
+    "name": "uberchuckie's Repository",
+    "profile": "https://forums.unraid.net/profile/64811-uberchuckie/"
+  },
+  {
+    "url": "https://github.com/SiwatINC/unraid-ca-repository",
+    "name": "Siwat2545's Repository",
+    "profile": "https://forums.unraid.net/profile/72489-siwat2545/"
+  },
+  {
+    "url": "https://github.com/benderstwin/docker-templates",
+    "name": "Bender's Repository",
+    "profile": "https://forums.unraid.net/profile/11326-bryanwirth/",
+    "duplicated": {
+    	"acockburn/appdaemon": true
+    }
+  },
+  {
+    "url": "https://github.com/dersimn/docker-unraid-templates",
+    "name": "seim's Repository",
+    "profile": "https://forums.unraid.net/profile/11673-seim/"
+  },
+  {
+    "url": "https://github.com/fithwum/files-for-dockers",
+    "name": "fithwum's Repository",
+    "profile": "https://forums.unraid.net/profile/82177-fithwum/"
+  },
+  {
+    "url": "https://github.com/olehj/disklocation-ca",
+    "name": "olehj's Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/86216-olehj/"
+  },
+  {
+    "url": "https://github.com/GregYankovoy/docker-templates",
+    "profile": "https://forums.unraid.net/profile/88760-grack/",
+    "name": "Grack's Repository"
+  },
+  {
+    "url": "https://github.com/RazorSiM/docker-templates",
+    "name": "raz's Repository",
+    "profile": "https://forums.unraid.net/profile/84655-raz/",
+    "duplicated": {
+      "mprasil/bitwarden": true
+    }
+  },
+  {
+    "url": "https://github.com/maschhoff/docker",
+    "name": "knex666's Repository",
+    "profile": "https://forums.unraid.net/profile/71048-knex666/",
+    "duplicated": {
+      "adolfintel/speedtest": true
+    }
+  },
+  {
+    "url": "https://github.com/MobiusNine/docker-templates",
+    "name": "MobiusNine's Repository",
+    "profile": "https://forums.unraid.net/profile/84666-mobiusnine/"
+  },
+  {
+    "url": "https://github.com/Ulisses1478/templates-unraid",
+    "name": "ulisses1478's Repository",
+    "profile": "https://forums.unraid.net/profile/90485-ulisses1478/"
+  },
+  {
+    "url": "https://github.com/FoxxMD/unraid-docker-templates",
+    "name": "FoxxMD's Repository",
+    "profile": "https://forums.unraid.net/profile/85599-foxxmd/"
+  },
+  {
+    "url": "https://github.com/ich777/docker-templates",
+    "name": "ich777's Repository",
+    "profile": "https://forums.unraid.net/profile/72388-ich777/",
+    "recommended": true
+  },
+  {
+    "url": "https://github.com/simse/docker-templates",
+    "name": "simse's Repository",
+    "profile": "https://forums.unraid.net/profile/69400-simse/"
+  },
+  {
+    "url": "https://github.com/djaydev/docker-virt-manager",
+    "name": "dee31797's Repository",
+    "profile": "https://forums.unraid.net/profile/75073-dee31797/"
+  },
+  {
+    "url": "https://github.com/Josh5/unraid-docker-templates",
+    "name": "Josh.5's Repository",
+    "profile": "https://forums.unraid.net/profile/76627-josh5/"
+  },
+  {
+    "url": "https://github.com/angelics/unraid-docker-template",
+    "name": "josywong's Repository",
+    "profile": "https://forums.unraid.net/profile/7122-josywong/"
+  },
+  {
+    "url": "https://github.com/kubedzero/unraid-community-apps-xml",
+    "name": "kubed_zero's Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/12026-kubed_zero/"
+  },
+  {
+    "url": "https://github.com/MstrDC/docker-templates",
+    "name": "_DC_'s Repository",
+    "profile": "https://forums.unraid.net/profile/77425-_dc_/"
+  },
+  {
+    "url": "https://github.com/ijabz/songkong_unraid/",
+    "name": "Official Songkong Repository",
+    "recommended": true
+  },
+  {
+    "url": "https://github.com/tquizzle/Docker-xml",
+    "name": "TQ's Repository",
+    "profile": "https://forums.unraid.net/profile/13228-tq/"
+  },
+  {
+    "url": "https://github.com/andrew207/splunk",
+    "name": "Andrew207's Repository",
+    "profile": "https://forums.unraid.net/profile/77842-andrew207/"
+  },
+  {
+    "url": "https://github.com/jbreed/docker-templates",
+    "name": "jbreed's Repository",
+    "profile": "https://forums.unraid.net/profile/92695-jbreed/"
+  },
+  {
+    "url": "https://github.com/selfhosters/unRAID-CA-templates",
+    "name": "Selfhosters Unraid Discord Repository",
+    "duplicated": {
+      "hotio/plex": true,
+      "hotio/cloudflare-ddns": true,
+      "hotio/hddtemp2influxdb": true
+    }
+  },
+  {
+    "url": "https://github.com/alturismo/unraid_templates",
+    "name": "alturismo's Repository",
+    "profile": "https://forums.unraid.net/profile/70845-alturismo/"
+  },
+  {
+    "url": "https://github.com/StevenDTX/unraid-plugin-repository",
+    "name": "StevenD's Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/778-stevend/"
+  },
+  {
+    "url": "https://github.com/Conmyster/unraid-docker-templates",
+    "name": "Conmyster's Repository",
+    "profile": "https://forums.unraid.net/profile/77746-conmyster/"
+  },
+  {
+    "url": "https://github.com/kiwimato/nut-influxdb-exporter",
+    "name": "Mihai's Repository",
+    "profile": "https://forums.unraid.net/profile/89549-mihai/"
+  },
+  {
+    "url": "https://github.com/xthursdayx/docker-templates",
+    "profile": "https://forums.unraid.net/profile/69067-zandrsn/",
+    "name": "xthursdayx's Repository"
+  },
+  {
+    "url": "https://github.com/d8sychain/docker-mediawiki",
+    "profile": "https://forums.unraid.net/profile/72950-d8sychain/",
+    "name": "d8sychain's Repository"
+  },
+  {
+    "url": "https://github.com/Dimtar/unraidtemplates",
+    "profile": "https://forums.unraid.net/profile/7694-dimtar/",
+    "name": "dimtar's Repository"
+  },
+  {
+    "url": "https://github.com/SpaceinvaderOne/Docker-Templates-Unraid",
+    "profile": "https://forums.unraid.net/profile/67288-spaceinvaderone/",
+    "name": "SpaceInvaderOne's Repository",
+    "recommended": true
+  },
+  {
+    "url": "https://github.com/d8ahazard/unraid-repository",
+    "name": "d8ahazard's Repository"
+  },
+  {
+    "url": "https://github.com/Knoxie/UnraidTemplates",
+    "name": "Knoxie89's Repository",
+    "profile": "https://forums.unraid.net/profile/78069-knoxie89/"
+  },
+  {
+    "url": "https://github.com/DavidSpek/unraid_docker_templates",
+    "name": "DavidSpek's Repository",
+    "profile": "https://forums.unraid.net/profile/96461-davidspek"
+  },
+  {
+    "url": "https://github.com/AMJidovu/unraid-repository",
+    "name": "Jidovu Marius Adrian's Repository",
+    "profile": "https://forums.unraid.net/profile/86478-jidovu-marius-adrian/"
+  },
+  {
+    "url": "https://github.com/wbynum/docker-templates",
+    "name": "Aggie1999's Repository",
+    "profile": "https://forums.unraid.net/profile/97630-aggie1999/"
+  },
+  {
+    "url": "https://github.com/frakman1/docker-templates",
+    "name": "frakman1's Repository",
+    "profile": "https://forums.unraid.net/profile/96005-frakman1",
+    "duplicated": {
+      "gitlab/gitlab-ce": true,
+      "tynor88/rclone-mount:dev": true,
+      "tynor88/rclone:dev": true,
+      "tynor88/socat": true,
+      "tynor88/unoeuro-dns": true
+    } 
+  },
+  {
+    "url": "https://github.com/ElectricBrainUK/docker-templates",
+    "name": "ElectricBrainUK's Repository",
+    "profile": "https://forums.unraid.net/profile/98185-electricbrainuk"
+  },
+  {
+    "url": "https://github.com/JTok/unraid-plugins",
+    "name": "JTok's Plugin Repository",
+    "profile": " https://forums.unraid.net/profile/75269-jtok/"
+  },
+  {
+    "url": "https://github.com/hotio/unraid-templates",
+    "name": "hotio's Repository",
+    "profile": "https://forums.unraid.net/profile/94356-hotio",
+    "recommended": true
+  },
+  {
+    "url": "https://github.com/CyanLabs/unraid-plugins",
+    "name": "Fma965's Repository",
+    "profile": "https://forums.unraid.net/profile/72406-fma965/",
+    "recommended": true
+  },
+  {
+    "url": "https://github.com/Skitals/unraid-ca-templates",
+    "name": "Skitals Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/97624-skitals/"
+  },
+  {
+    "url": "https://github.com/ljm42/unraid-templates",
+    "name": "ljm42's Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/61877-ljm42/",
+    "recommended": true
+  },
+  {
+    "url": "https://github.com/dcflachs/plugin-repository",
+    "name": "primeval_god's Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/63584-primeval_god/"
+  },
+  {
+    "url": "https://github.com/CyaOnDaNet/unraid-templates",
+    "name": "CyaOnDaNet's Repository",
+    "profile": "https://forums.unraid.net/profile/100638-cyaondanet/"
+  },
+  {
+    "url": "https://github.com/A75G/docker-templates",
+    "name": "A75G's Repository",
+    "profile": "https://forums.unraid.net/profile/92683-a75g/"
+  },
+  {
+    "url": "https://github.com/dalekseevs/Unraid-Docker-Templates",
+    "name": "MrChunky's Repository",
+    "profile": "https://forums.unraid.net/profile/74482-mrchunky"
   }
 ]
