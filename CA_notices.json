@@ -1,12 +1,6 @@
 {
   "binhex/arch-krusader:*": {
-    "ID": 1,
-		"Conditions": {
-			"unraid": [
-				[ ">","6.8.0" ],
-				[ "<=","6.8.2" ]
-			]
-		}
+    "ID": 1
   },
 	"unRAIDServer.plg": {
 		"ID": 2,
