@@ -1,5 +1,8 @@
 {
   "binhex/arch-krusader:*": {
     "ID": 1
-  }
+  },
+	"https://s3.amazonaws.com/dnld.lime-technology.com/stable/unRAIDServer.plg": {
+		"ID": 2
+	}
 }
