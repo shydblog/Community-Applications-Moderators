@@ -1,8 +1,24 @@
 {
   "binhex/arch-krusader:*": {
-    "ID": 1
+    "ID": 1,
+		"Conditions": {
+			"unraid": {
+				{ ">","6.8.0" },
+				{ "<","6.8.3" }
+			}
+		}
   },
 	"https://s3.amazonaws.com/dnld.lime-technology.com/stable/unRAIDServer.plg": {
-		"ID": 2
+		"ID": 2,
+		"Conditions": {
+			"unraid": {
+				{ ">","6.8.0" },
+				{ "<","6.8.3" }
+			}
+			"plugin": {
+				{ ">","2016.01.03" },
+				{ "<","2020.03.01" }
+			}
+		}
 	}
 }
