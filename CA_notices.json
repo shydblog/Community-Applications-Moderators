@@ -19,7 +19,7 @@
 				[ ">","2016.01.03" ],
 				[ "<","2020.02.01" ]
 			],
-			"code": "fuckyah";
+			"code": "version_compare($unraidVersion,'6.8.0','>');"
 		}
 	}
 }
