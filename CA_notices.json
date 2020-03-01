@@ -13,7 +13,7 @@
 		"Conditions": {
 			"unraid": [
 				[ ">=","6.7.0" ],
-				[ "<=","6.8.0" ]
+				[ "<=","6.8.2" ]
 			],
 			"code": "return ! is_file('/var/log/plugins/sysdream.plg');"
 		}
