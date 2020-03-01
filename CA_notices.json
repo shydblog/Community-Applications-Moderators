@@ -8,7 +8,7 @@
 			]
 		}
   },
-	"https://s3.amazonaws.com/dnld.lime-technology.com/stable/unRAIDServer.plg": {
+	"https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg": {
 		"ID": 2,
 		"Conditions": {
 			"unraid": [
