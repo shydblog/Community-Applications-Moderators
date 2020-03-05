@@ -711,5 +711,9 @@
   "linuxserver/mcmyadmin2": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated as per linuxserver.io"
+  },
+  "ninthwalker/nowshowing:v2": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of Tautulli / Ombi / etc"
   }
 } 
