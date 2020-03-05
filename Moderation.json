@@ -707,5 +707,9 @@
   },
   "gfjardim/cups": {
     "RemoveFromCA": true
+  },
+  "linuxserver/mcmyadmin2": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated as per linuxserver.io"
   }
 } 
