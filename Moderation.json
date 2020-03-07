@@ -786,5 +786,8 @@
   "ich777/steamcmd:unturned": {
     "Deprecated": true,
     "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  },
+  "hotio/jellyfin": {
+    "Recommended": false
   }
 } 
