@@ -718,5 +718,9 @@
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.password.validator.plg": {
     "Recommended": true
+  },
+  "titpetric/netdata": {
+    "Deprecated": true,
+    "ModeratorComment": "Deprecated in favour of the netdata app which uses the official repository (available within Apps)"
   }
 } 
