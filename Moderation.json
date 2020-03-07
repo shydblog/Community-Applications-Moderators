@@ -789,5 +789,9 @@
   },
   "hotio/jellyfin": {
     "Recommended": false
+  },
+  "pinion/docker-mylar": {
+    "Blacklist": true
+    "ModeratorComment": "Cannot be pulled from dockerHub"
   }
 } 
