@@ -791,7 +791,7 @@
     "Recommended": false
   },
   "pinion/docker-mylar": {
-    "Blacklist": true,
-    "ModeratorComment": "Cannot be pulled from dockerHub"
+    "Deprecated": true,
+    "ModeratorComment": "Uses a deprecated schema on dockerHub."
   }
 } 
