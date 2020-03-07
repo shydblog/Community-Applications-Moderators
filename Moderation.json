@@ -791,7 +791,7 @@
     "Recommended": false
   },
   "pinion/docker-mylar": {
-    "Blacklist": true
+    "Blacklist": true,
     "ModeratorComment": "Cannot be pulled from dockerHub"
   }
 } 
