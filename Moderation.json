@@ -722,5 +722,69 @@
   "titpetric/netdata": {
     "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of the netdata app which uses the official repository (available within Apps)"
+  },
+  "ich777/steamcmd2:alienswarm": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:alienswarmreactivedrop": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:avorion": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:conanexiles": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:dodclassic": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:daysofwar": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:hurtworld": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:pavlovvr": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:projectzomboid": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:scp-secretlaboratory": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:squad": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:starbound": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:stationeers": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:svencoop": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd2:tf": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
+  }
+  "ich777/steamcmd:unturned": {
+    "Deprecated": true,
+    "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
   }
 } 
