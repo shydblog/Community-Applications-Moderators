@@ -665,9 +665,6 @@
   "storjlabs/storagenode:alpha": {
     "RemoveFromCA": true
   },
-  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg": {
-    "ModeratorComment": "Background checks do not run when using unRaid 6.8+.  Manual checking of integrity does work fine"
-  },
   "hotio/radarr": {
     "Recommended": false
   },
