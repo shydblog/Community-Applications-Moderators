@@ -7,7 +7,7 @@
     "CAComment": "Expert Only: Not recommended for the casual user",
     "MinVer": "6.1.4"
     },
-  "https://raw.githubusercontent.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg": {
+  "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.file.integrity.plg": {
     "ModeratorComment": "USING THIS PLUGIN ON DISKS FORMATTED IN REISERFS MAY LEAD TO SYSTEM INSTABILITY. IT IS ADVISED TO USE XFS"
     },
   "https://raw.githubusercontent.com/Squidly271/checksum/master/plugins/checksum.plg": {
