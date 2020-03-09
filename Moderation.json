@@ -666,10 +666,10 @@
     "RemoveFromCA": true
   },
   "hotio/radarr": {
-    "Recommended": false
+    "Recommended": true
   },
   "hotio/sonarr": {
-    "Recommended": false
+    "Recommended": true
   },
   "hotio/sabnzbd": {
     "Recommended": false
