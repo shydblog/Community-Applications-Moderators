@@ -614,18 +614,6 @@
   "huxy/xmltv-sd-json": {
     "CAComment": "While still functional, the author no longer utilizes this application so support may not be forthcoming"
   },
-  "https://raw.githubusercontent.com/Squidly271/ca.turbo/master/plugins/ca.turbo.plg": {
-    "Recommended": false
-  },
-  "https://raw.githubusercontent.com/Squidly271/ca.mover.tuning/master/plugins/ca.mover.tuning.plg": {
-    "Recommended": false
-  },
-  "https://raw.githubusercontent.com/Squidly271/gui-links/master/plugins/gui-links.plg": {
-    "Recommended": false
-  },
-  "jbartlett777/diskspeed": {
-    "Recommended": true
-  },
   "https://raw.githubusercontent.com/dmacias72/unRAID-DevPack/master/plugin/DevPack.plg": {
     "CAComment": "Only advanced users should consider installing this"
   },
@@ -670,18 +658,6 @@
   },
   "hotio/sonarr": {
     "Recommended": true
-  },
-  "hotio/sabnzbd": {
-    "Recommended": false
-  },
-  "hotio/plex": {
-    "Recommended": false
-  },
-  "hotio/nzbget": {
-    "Recommended": false
-  },
-  "hotio/jackett": {
-    "Recommended": false
   },
   "https://raw.github.com/bergware/dynamix/master/unRAIDv6/dynamix.wireguard.plg": {
     "Recommended": true
@@ -783,9 +759,6 @@
   "ich777/steamcmd:unturned": {
     "Deprecated": true,
     "ModeratorComment": "The repository for this application has been changed from ich777/steamcmd2 to ich777/steamcmd.  You will need to edit your template and make this adjustment"
-  },
-  "hotio/jellyfin": {
-    "Recommended": false
   },
   "pinion/docker-mylar": {
     "Deprecated": true,
