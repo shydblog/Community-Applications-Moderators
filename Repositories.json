@@ -829,5 +829,10 @@
     "url": "https://github.com/RandomNinjaAtk/unraid-templates",
     "name": "randomninjaatk's Repository",
     "profile": "https://forums.unraid.net/profile/9890-randomninjaatk/"
+  },
+  {
+    "url": "https://github.com/b3rs3rk/gpustat-unraid",
+    "name": "b3rs3rk's Plugin Repository",
+    "profile": "https://forums.unraid.net/profile/103683-b3rs3rk"
   }
 ]
