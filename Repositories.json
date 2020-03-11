@@ -376,7 +376,7 @@
   {
     "name": "Official Plex Repository",
     "url": "https://github.com/plexinc/pms-docker",
-    "Recommended": true
+    "recommended": true
   },
   {
     "name": "cmer's Repository",
@@ -467,7 +467,7 @@
     "url": "https://github.com/Tautulli/Tautulli-Unraid-Template",
     "name": "Tautulli's Repository",
     "profile": "https://lime-technology.com/profile/69064-wreave/",
-    "Recommended": true
+    "recommended": true
   },
   {
     "url": "https://github.com/jbartlett777/DiskSpeed",
