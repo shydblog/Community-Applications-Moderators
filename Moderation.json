@@ -902,5 +902,8 @@
   },
   "linuxserver/cops": {
     "Recommended": true
+  },
+  "bizmodeller/mymediaforalexa": {
+    "Recommended": true
   }
 } 
