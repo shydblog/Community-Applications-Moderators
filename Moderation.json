@@ -884,5 +884,11 @@
   },
   "hotio/hddtemp2influxdb": {
     "Recommended": true
+  },
+  "jbartlett777/diskspeed": {
+    "Recommended": true
+  },
+  "linuxserver/heimdall": {
+    "Recommended": true
   }
 } 
