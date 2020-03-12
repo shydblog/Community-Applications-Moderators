@@ -894,7 +894,7 @@
   "josh5/unmanic": {
     "Recommended": true
   },
-  "https://raw.githubusercontent.com/dlandon/apps.plugins//master/unassigned.devices.xml": {
+  "https://github.com/dlandon/unassigned.devices/raw/master/unassigned.devices.plg": {
     "Recommended": true
   },
   "https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg": {
