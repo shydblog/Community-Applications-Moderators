@@ -776,5 +776,92 @@
   },
   "linuxserver/bazarr": {
     "Recommended": true
+  },
+  "golift/unpackerr": {
+    "Recommended": true
+  },
+  "hotio/lidarr": {
+    "Recommended": true
+  },
+  "linuxserver/lidarr": {
+    "Recommended": true
+  },
+  "gitlab/gitlab-ce": {
+    "Recommended": true
+  },
+  "nodered/node-red": {
+    "Recommended": true
+  },
+  "netdata/netdata": {
+    "Recommended": true
+  },
+  "google/cadvisor:latest": {
+    "Recommended": true
+  },
+  "emby/embyserver:latest": {
+    "Recommended": true
+  },
+  "emby/embyserver:beta": {
+    "Recommended": true
+  },
+  "getferdi/ferdi-server": {
+    "Recommended": true
+  },
+  "factoriotools/factorio:stable": {
+    "Recommended": true
+  },
+  "graylog/graylog:3.1": {
+    "Recommended": true
+  },
+  "grafana/grafana": {
+    "Recommended": true
+  },
+  "hoobs/hoobs": {
+    "Recommended": true
+  },
+  "homeassistant/home-assistant": {
+    "Recommended": true
+  },
+  "linuxserver/jackett": {
+    "Recommended": true
+  },
+  "huginn/huginn": {
+    "Recommended": true
+  },
+  "jellyfin/jellyfin": {
+    "Recommended": true
+  },
+  "monitorr/monitorr": {
+    "Recommended": true
+  },
+  "onlyoffice/documentserver": {
+    "Recommended": true
+  },
+  "onlyoffice/communityserver": {
+    "Recommended": true
+  },
+  "openproject/community:10": {
+    "Recommended": true
+  },
+  "pihole/pihole:latest": {
+    "Recommended": true
+  },
+  "portainer/portainer": {
+    "Recommended": true
+  },
+  "privatebin/nginx-fpm-alpine": {
+    "Recommended": true
+  },
+  "seafileltd/seafile": {
+    "Recommended": true
+  },
+  "storjlabs/storagenode:beta": {
+    "Recommended": true
+  },
+  "sourcegraph/server:3.10.0": {
+    "Recommended": true
+  },
+  "szurubooru/server:latest": {
+    "Recommended": true
   }
 } 
