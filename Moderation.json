@@ -921,5 +921,8 @@
   },
   "haveagitgat/tdarr_aio": {
     "Recommended": true
+  },
+  "https://raw.githubusercontent.com/GuildDarts/unraid-plugin-docker.folder/master/plugins/docker.folder.plg": {
+    "CAComment": "Due to a bug, this plugin will not currently allow you to create folders if your server is set up in Tabbed Mode (Display Settings)."
   }
 } 
