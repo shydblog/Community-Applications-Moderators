@@ -908,5 +908,12 @@
   },
   "linuxserver/couchpotato": {
     "Recommended": true
+  },
+  "linuxserver/headphones": {
+    "Recommended": true
+  },
+  "linuxserver/libresonic": {
+    "Deprecated": true
+    "ModeratorComment": "Deprecated in favour of AirSonic"
   }
 } 
