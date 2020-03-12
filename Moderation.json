@@ -767,5 +767,11 @@
   "soana/mythtvhb": {
     "Blacklist": true,
     "ModeratorComment": "Description doesn't meet standards.  At the very least, not updated in years and is an addition to a container which is also blacklisted within CA"
-  }    
+  },
+  "linuxserver/sonarr": {
+    "Recommended": true
+  },
+  "linuxserver/radarr": {
+    "Recommended": true
+  }
 } 
