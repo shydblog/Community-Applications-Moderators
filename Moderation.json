@@ -863,5 +863,8 @@
   },
   "szurubooru/server:latest": {
     "Recommended": true
+  },
+  "gitea/gitea": {
+    "Recommended": true
   }
 } 
