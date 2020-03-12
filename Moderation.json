@@ -905,5 +905,8 @@
   },
   "bizmodeller/mymediaforalexa": {
     "Recommended": true
+  },
+  "linuxserver/couchpotato": {
+    "Recommended": true
   }
 } 
