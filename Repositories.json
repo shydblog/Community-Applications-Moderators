@@ -819,5 +819,10 @@
     "url": "https://github.com/b3rs3rk/gpustat-unraid",
     "name": "b3rs3rk's Plugin Repository",
     "profile": "https://forums.unraid.net/profile/103683-b3rs3rk"
+  },
+  {
+    "url": "https://github.com/GuildDarts/unraid-ca-templates",
+    "profile": "https://forums.unraid.net/profile/80260-guilddarts/",
+    "name": "GuildDart's Plugin Repository"
   }
 ]
