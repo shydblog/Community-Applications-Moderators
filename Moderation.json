@@ -773,5 +773,8 @@
   },
   "linuxserver/radarr": {
     "Recommended": true
+  },
+  "linuxserver/bazarr": {
+    "Recommended": true
   }
 } 
