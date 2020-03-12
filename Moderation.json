@@ -869,5 +869,11 @@
   },
   "thepaperlessproject/paperless": {
    "Recommended": true
+  },
+  "hotio/bazarr": {
+    "Recommended": true
+  },
+  "hotio/unpackerr": {
+    "Recommended": true
   }
 } 
