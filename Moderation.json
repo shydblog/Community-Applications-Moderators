@@ -875,5 +875,14 @@
   },
   "hotio/unpackerr": {
     "Recommended": true
+  },
+  "hotio/apcupsd2influxdb": {
+    "Recommended": true
+  },
+  "hotio/cloudflare-ddns": {
+    "Recommended": true
+  },
+  "hotio/hddtemp2influxdb": {
+    "Recommended": true
   }
 } 
