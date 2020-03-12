@@ -866,5 +866,8 @@
   },
   "gitea/gitea": {
     "Recommended": true
+  },
+  "thepaperlessproject/paperless": {
+   "Recommended": true
   }
 } 
