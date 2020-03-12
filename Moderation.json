@@ -890,5 +890,8 @@
   },
   "linuxserver/heimdall": {
     "Recommended": true
+  },
+  "josh5/unmanic": {
+    "Recommended": true
   }
 } 
