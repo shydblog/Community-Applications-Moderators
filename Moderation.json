@@ -915,5 +915,11 @@
   "linuxserver/libresonic": {
     "Deprecated": true
     "ModeratorComment": "Deprecated in favour of AirSonic"
+  },
+  "haveagitgat/tdarr": {
+    "Recommended": true
+  },
+  "haveagitgat/tdarr_aio": {
+    "Recommended": true
   }
 } 
