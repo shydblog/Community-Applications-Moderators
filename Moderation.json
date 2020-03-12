@@ -913,7 +913,7 @@
     "Recommended": true
   },
   "linuxserver/libresonic": {
-    "Deprecated": true
+    "Deprecated": true,
     "ModeratorComment": "Deprecated in favour of AirSonic"
   },
   "haveagitgat/tdarr": {
