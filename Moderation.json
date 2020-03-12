@@ -899,5 +899,8 @@
   },
   "https://raw.githubusercontent.com/Squidly271/community.applications/master/plugins/community.applications.plg": {
     "Recommended": true
+  },
+  "linuxserver/cops": {
+    "Recommended": true
   }
 } 
