@@ -922,9 +922,6 @@
   "haveagitgat/tdarr_aio": {
     "Recommended": true
   },
-  "https://raw.githubusercontent.com/GuildDarts/unraid-plugin-docker.folder/master/plugins/docker.folder.plg": {
-    "CAComment": "Due to a bug, this plugin will not currently allow you to create folders if your server is set up in Tabbed Mode (Display Settings)."
-  },
   "https://raw.githubusercontent.com/Squidly271/ca.mover.tuning/master/plugins/ca.mover.tuning.plg": {
     "Deprecated": true,
     "ModeratorComment": "Mover Tuning has been forked and the replacement has more features.  See <a href='https://forums.unraid.net/topic/70783-plugin-mover-tuning/page/6/?tab=comments#comment-832127' target='_blank'>here</a> for more details and instructions"
