@@ -929,7 +929,7 @@
   "darkalfx/requestrr:latest": {
     "Recommended": true
   },
-  "boinc/boinc": {
+  "boinc/client": {
     "Recommended": true
   }
 } 
