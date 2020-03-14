@@ -621,7 +621,8 @@
     "CAComment": "Only advanced users should consider installing this"
   },
   "mobiusnine/foldingathome": {
-    "CAComment": "The webUI for this application does not work.  See <a href='https://forums.unraid.net/topic/36054-release-foldinghome-docker/page/5/?tab=comments#comment-828096' target='_blank'>this post</a> for the fix"
+    "CAComment": "The webUI for this application does not work.  See <a href='https://forums.unraid.net/topic/36054-release-foldinghome-docker/page/5/?tab=comments#comment-828096' target='_blank'>this post</a> for the fix",
+    "Support": "https://forums.unraid.net/topic/36054-release-foldinghome-docker/page/4/?tab=comments#comment-730278"
   },
   "ninthwalker/dashbtn": {
     "ModeratorComment": "Reported this application is not functional.  See <a href='https://forums.unraid.net/topic/55444-support-ninthwalker-docker-repository-plexreport-slack-invite-dashbtn/page/2/?tab=comments#comment-811428'>here</a>",
@@ -930,6 +931,10 @@
     "Recommended": true
   },
   "boinc/client": {
-    "Recommended": true
+    "Recommended": true,
+    "Support": "https://forums.unraid.net/topic/89740-help-take-the-fight-to-covid-19-with-boinc-and-foldinghome/"
+  },
+  "aptalca/docker-rdp-boinc": {
+    "Support": "https://forums.unraid.net/topic/89740-help-take-the-fight-to-covid-19-with-boinc-and-foldinghome/"
   }
 } 
