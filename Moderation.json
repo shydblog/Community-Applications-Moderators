@@ -928,5 +928,8 @@
   },
   "darkalfx/requestrr:latest": {
     "Recommended": true
+  },
+  "boinc/boinc": {
+    "Recommended": true
   }
 } 
