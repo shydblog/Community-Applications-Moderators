@@ -936,5 +936,8 @@
   },
   "aptalca/docker-rdp-boinc": {
     "Support": "https://forums.unraid.net/topic/89740-help-take-the-fight-to-covid-19-with-boinc-and-foldinghome/"
+  },
+  "silverwind/droppy:latest": {
+    "Recommended": true
   }
 } 
