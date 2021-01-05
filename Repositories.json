@@ -1,13 +1,13 @@
 [
   {
     "name": "smdion's Repository",
-    "url": "https://github.com/shydunraid/smdion/tree/templates",
+    "url": "https://github.com/smdion/docker-containers/tree/templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=34009.0",
     "profile": "https://forums.lime-technology.com/profile/26365-smdion/"
   },
   {
     "name": "smdion's beta Repository",
-    "url": "https://github.com/shydunraid/smdion/tree/beta-templates",
+    "url": "https://github.com/smdion/docker-containers/tree/beta-templates",
     "forum": "http://lime-technology.com/forum/index.php?topic=34009.0",
     "profile": "https://forums.lime-technology.com/profile/26365-smdion/"
   }
